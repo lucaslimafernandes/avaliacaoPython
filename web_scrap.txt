@@ -1,0 +1,1768 @@
+Nome="Seringa Descartável 3ml Needs com Agulha 30mm x 07mm com 1 unidade" Preco=1.49 SKU=117324
+Nome="OXÍMETRO DE PULSO MULTILASER OX-06 HC261" Preco=110 SKU=410879
+Nome="Pilha para Aparelho Auditivo 675 Duracell com 6 unidades" Preco=33.39 SKU=76280
+Nome="Levotiroxina Sódica 50mcg 30 comprimidos Merck Genérico" Preco=6.09 SKU=78209
+Nome="Omeprazol 20mg 56 cápsulas Teuto Genérico" Preco=8.79 SKU=1958
+Nome="Seringa Descartável 3ml Needs com Agulha 30mm x 07mm com 1 unidade" Preco=1.49 SKU=117324
+Nome="Kit Nebulização Caretech Infantil Turbo com 1 unidade" Preco=34.99 SKU=117715
+Nome="Ibuprofeno 100mg/ml Suspensão Oral Sabor Frutas 20ml Medley Genérico" Preco=13.91 SKU=32723
+Nome="Bandagem Elástica Needs 7,6cm x 4,5m Bege com 1 unidade" Preco=29.99 SKU=8275
+Nome="Álcool Gel 70% para Mãos Coperalcool 400g" Preco=21.39 SKU=77953
+Nome="Sinvastatina 40mg 30 Comprimidos Cimed Genérico" Preco=10.49 SKU=36844
+Nome="Monitor de Pressão Multilaser Arterial de Braço Silencioso - HC206" Preco=146.11 SKU=115704
+Nome="Espaçador Inal Air Baby 0-2 Anos com 1 unidade" Preco=54.19 SKU=33331
+Nome="Álcool Gel 70% Antisséptico Needs com Calêndula com 500ml" Preco=14.57 SKU=45225
+Nome="Naratrin Cloridrato de Naratriptana 2,5mg 12 comprimidos" Preco=44.99 SKU=80518
+Nome="Meia Feminina Kendall Média Compressão 3/4 Cor Bege Tamanho M com 1 par" Preco=63.39 SKU=31657
+Nome="Nebulizador compressor G-Tech Nebcom V 127V/230V" Preco=132.59 SKU=275185
+Nome="Máscara Descartável de Tripla Proteção Needs com 50 unidades" Preco=49.99 SKU=113282
+Nome="Polinize Florais Fase de Estudante Florais de Bach com 30ml" Preco=40.79 SKU=75891
+Nome="Omeprazol 20mg 56 cápsulas Teuto Genérico" Preco=8.79 SKU=1958
+Nome="Gino-Canesten 3 Creme Vaginal 100mg/5g 20g + 3 aplicadores" Preco=65.39 SKU=35239
+Nome="Suplemento Alimentar Maca Peruana Premium Lauton Nutrition 1000mg com 60 comprimidos" Preco=50.99 SKU=110801
+Nome="Teste de Gravidez Clearblue Saiba Antes com 1 Unidade" Preco=28.41 SKU=152377
+Nome="Loratadina 1mg/ml Xarope 100ml + Copo de medida Prati Donaduzzi Genérico" Preco=14.64 SKU=110523
+Nome="Complexo B12 Sabor Caramelo Xarope com 120ml" Preco=27.62 SKU=80323
+Nome="Loratamed Loratadina 10mg 12 comprimidos " Preco=14.2 SKU=44250
+Nome="Kit 5 Açúcar de coco natural Qualicôco 100g" Preco=41.9 SKU=167488
+Nome="NiQuitin 7mg Adesivos para Parar de Fumar 7 unidades" Preco=90.52 SKU=2962
+Nome="Teste de HIV Sure Check com 1 Unidade" Preco=87.59 SKU=173373
+Nome="Acetilcisteína 40mg/ml Xarope Sabor Framboesa 120ml EMS Genérico" Preco=27.59 SKU=51599
+Nome="Algodão Multiuso Hidrófilo Zig-Zag Needs com 50g" Preco=5.49 SKU=8277
+Nome="Needs Simeticona 125mg 30 Cápsulas" Preco=32.99 SKU=78077
+Nome="Suplemento Alimentar Picolinato de Cromo 250mcg Raia 60 Cápsulas" Preco=47.99 SKU=113230
+Nome="Kit 2 Ômega 3 DHA Gesta Catarinense 30 cápsulas" Preco=134.9 SKU=170487
+Nome="Hidroclorotiazida 25mg 30 comprimidos Medley Genérico" Preco=3.03 SKU=43867
+Nome="Vitamina C 1G + Arginina 1G Raia com 16 Comprimidos Efervescentes" Preco=21.99 SKU=152551
+Nome="Snacks Good Soy Churrasco com 25g" Preco=2.99 SKU=270738
+Nome="Funil Para Extração De Leite PersonalFit Flex - Medela" Preco=119 SKU=400628
+Nome="Avodart Dutasterida 0,5mg 90 cápsulas" Preco=385 SKU=30905
+Nome="Barra de Proteína Integralmedica Protein Crisp Limão 45g" Preco=11.19 SKU=734
+Nome="Suplemento Nutricional Ensure Protein Baunilha com 220ml" Preco=18.32 SKU=2532
+Nome="Polinize Florais Sensação de Tensão e Stress Florais de Bach com 30ml" Preco=40.79 SKU=75901
+Nome="Creme para Mãos AhoAloe Natural e Orgânico Maciez 30ml" Preco=44.1 SKU=112484
+Nome="Chupeta Philips Avent Ultra Air +18 meses Azul com 2 unidades" Preco=67.99 SKU=77783
+Nome="Gestinol Gestodeno 75mcg + Etinilestradiol 30mcg 28 comprimidos" Preco=44.35 SKU=33443
+Nome="Kit Giant Mass 3kg + Glutamina 300g + Bcaa 100g Tang + Creatina 100g + Coqueteleira - Bodybuilders Sabor: Chocolate" Preco=120 SKU=407581
+Nome="Óleo de Eucalipto Citriodora Salutar 140 ml" Preco=15.03 SKU=260838
+Nome="Dompgran Domperidona 10mg 30 comprimidos" Preco=18.31 SKU=240512
+Nome="Suplemento Alimentar Vitafor Termoplus Frutas Vermelhas com Gengibre 240g" Preco=148.99 SKU=243444
+Nome="Protetor de Mamilo Amamente Bico de Silicone com 1 unidade" Preco=16.99 SKU=25701
+Nome="Kit Gel Dental Infantil Malvatrikids Baby Anticárie Tutti-Frutti com 3 Unidades" Preco=37.99 SKU=117634
+Nome="Talco Pom Pom 200g" Preco=17.43 SKU=316529
+Nome="Creme de Avelã Crocante Flormel Zero Açúcar com 150g" Preco=17.39 SKU=117688
+Nome="Umidificador e Aromatizador De Ar Com Led 300 Ml" Preco=91.7 SKU=137106
+Nome="Protetor Solar Color Nude Light Heliocare Max Defense FPS 50 Gel Creme com 50g" Preco=78.99 SKU=61454
+Nome="Máscara para Olhos Quintal Firmadora com 2 Unidades" Preco=25.99 SKU=168743
+Nome="Sustagen Kids Morango Complemento Alimentar Infantil com 380g" Preco=32.39 SKU=95305
+Nome="Anilha Emborrachada para Musculação 2 Kg" Preco=34.9 SKU=313463
+Nome="PROTETOR DE MAMILO STANDARD 2 UNI PHILIPS AVENT - SCF153/03:27693" Preco=69.9 SKU=145034
+Nome="Hastes Flexíveis Puro Algodão 150 Unidades" Preco=9.69 SKU=66432
+Nome="Salonsip Emplastro com 3 unidades" Preco=13.79 SKU=65039
+Nome="CAPA PARA RAMPA TERAPUTICA BAMBI LISA - ROSA:27112" Preco=19.9 SKU=136987
+Nome="Infusor de Aço Inox Corrente Coração" Preco=59.9 SKU=168207
+Nome="Escova de Dente Infantil Curaprox Kids Cor Variada com 1 unidade" Preco=35.79 SKU=179812
+Nome="Creatina Black Skull Creatine Turbo 300g" Preco=99 SKU=319803
+Nome="Aspirador Nasal de Silicone Haakaa" Preco=49 SKU=303115
+Nome="Neutrogena Purified Skin Esfoliante 100g" Preco=44.51 SKU=320682
+Nome="Luvinha Mordedor Silicone Rosa Buba Baby" Preco=33.65 SKU=257995
+Nome="Creme Para Os Pés Pink Cheeks Keep Feet - 100g" Preco=42.66 SKU=232194
+Nome="Mini Bike E5 Acte" Preco=706.8 SKU=169432
+Nome="Sanfarma Dilatador Nasal Masculino C/10 (kit C/12)" Preco=352.71 SKU=438665
+Nome="Berço Portátil Sweet Dreams Com Móbile 15kgs Cinza Multikids" Preco=699 SKU=399032
+Nome="Gum Flosser Disney Fio Dental Infantil A Patrulha Canina C/40 (kit C/12)" Preco=274.01 SKU=476096
+Nome="Porta-Leite Em Pó Dosador 3 Divisórias Turma Da Mônica Baby - Kitstar" Preco=19.08 SKU=220893
+Nome="Lenço Umedecido Needs Baby Aloe Vera com 44 unidades" Preco=7.9 SKU=75841
+Nome="Suplemento Alimentar de Lactase Lévty Sem Sabor com 8 comprimidos" Preco=15.99 SKU=79643
+Nome="Home Spray Jardin des Roses 200 ml" Preco=69.9 SKU=228492
+Nome="Agua Oxigenada Color Intensy 30 Volume Amend 75Ml" Preco=8.09 SKU=179268
+Nome="Hidratante Bepantol Derma Oil Free Pele Normal a Seca com 30g" Preco=31.19 SKU=69705
+Nome="Suplemento Alimentar Damater Ômega 60 cápsulas" Preco=215.99 SKU=75104
+Nome="Adoçante Líquido Linea Sucralose com 75ml" Preco=13.89 SKU=34613
+Nome="Chá Herbal Tea biO2 Lemon Ginger com 13 sachês" Preco=10.59 SKU=148118
+Nome="Colônia Johnson's Baby Lavanda com 200ml" Preco=23.39 SKU=74550
+Nome="Complexo Homeopático Ignatia Almeida Prado n° 35 com 60 comprimidos" Preco=28.49 SKU=64279
+Nome="Suplemento Probiótico Infantil Colidis Gotas 10ml" Preco=184.29 SKU=110796
+Nome="Sinvastatina 20mg 30 Comprimidos Cimed Genérico" Preco=10.39 SKU=9975
+Nome="Teste de Gravidez Confirme Semanas com 1 unidade" Preco=30.06 SKU=30188
+Nome="Máscara Facial Antioleosidade Dermage Clear Mask com 10g" Preco=15.99 SKU=38812
+Nome="Barra de Proteína Vegana biO2 Protein Baunilha e Pasta de Amendoim 45g" Preco=11.59 SKU=7797
+Nome="Energético Guaraná Unilife 60 Cápsulas De 500mg" Preco=16.79 SKU=199396
+Nome="Óleo De Coco Copra Vidro 200ml Sem Cheio E Sabor" Preco=14.9 SKU=276126
+Nome="Elíptico Magnético 5 Funções Preto Academia 0247 Polimet" Preco=1799.9 SKU=391984
+Nome="Fórmula Infantil Novamil Rice Sem Lactose Biolab 0 a 36 meses 400g" Preco=179.9 SKU=8295
+Nome="Corretivo Líquido Maybelline Fit Me 10 Claro com 10ml" Preco=42.79 SKU=5998
+Nome="Pasta de Amendoim Naked Nuts com Cookies de Chocolate com 450g" Preco=41.19 SKU=80073
+Nome="Kit Escova e Pente Chicco de Cerdas Naturais Cor Rosa com 1 unidade" Preco=82.9 SKU=228211
+Nome="Hidratante para as Mãos Needs Vegano Fresh com 40g" Preco=10.64 SKU=38817
+Nome="Dipirona Monoidratada 500mg 10 comprimidos EMS Genérico" Preco=4.49 SKU=59568
+Nome="Sérum Facial Nivea Luminous 630° Antispot com 30ml" Preco=99.9 SKU=117220
+Nome="Água Mineral Lindoya Verão Sem Gás com 1,5L" Preco=6.99 SKU=60408
+Nome="Água De Coco Natural Orgânico Nosso Coco com 200ml" Preco=6.16 SKU=264
+Nome="Oxímetro Pulse Fingertip De Dedo 1 Unidade" Preco=141.69 SKU=155768
+Nome="Trident Chiclete Sem Açúcar Sabor Tutti-Frutti com 5 unidades" Preco=2.55 SKU=50285
+Nome="Fortalecedor de Unhas Natural 11ml  Cativa Natureza" Preco=31.4 SKU=121423
+Nome="Esmalte Cremoso Colorama Mickey e Amigos 8ml - Pôr do Sol em Jeri" Preco=5.99 SKU=377282
+Nome="Fórmula Infantil Pro Evolut 2 Enfamil Premium 6 a 12 meses 800g" Preco=83.99 SKU=3952
+Nome="Máscara Flexível para Inalação Soniclear Infantil com 1 unidade" Preco=32.39 SKU=12040
+Nome="Regulador Intestinal FiberMais Sabor Suco Verde com 200g" Preco=99.99 SKU=230106
+Nome="Floral Tensão e Estresse Bryo 30ML" Preco=22.5 SKU=413748
+Nome="Absorvente Always Super Proteção Cobertura Seca com Abas 32 unidades" Preco=13.89 SKU=54088
+Nome="Micronebulizador Super Flow P/ Inalador Dc1 E Dc2 G-tech" Preco=12.46 SKU=339720
+Nome="Seringa de Insulina BD Ultra-Fine 6mm 30UI com 10 unidades" Preco=37.79 SKU=36057
+Nome="Tipoia Estofada Imobilizadora Velpeau Needs G Bilateral" Preco=52.9 SKU=7925
+Nome="Álcool em Gel Antisséptico 70% Needs Calêndula com 53g/60ml" Preco=6.21 SKU=45222
+Nome="Escova para Mamadeira Needs com Ventosa com 1 unidade" Preco=29.9 SKU=17007
+Nome="Purê Orgânico Nestlé Naturnes Pera e Manga com 99g" Preco=5.99 SKU=119013
+Nome="Sérum Demaquilante Bioré Make Up Remover com 230ml" Preco=81.47 SKU=19722
+Nome="Kit L'óreal Paris Elseve Hidra Hialurônico Shampoo + Condicionador + Creme de Tratamento + Creme Noturno" Preco=53.99 SKU=419372
+Nome="Gel Esfoliante de Limpeza Facial Vegan By Needs Tea Tree sem Fragrância com 120ml" Preco=29.99 SKU=79071
+Nome="Puran T4 Levotiroxina Sódica 50mcg 30 comprimidos" Preco=14.85 SKU=89319
+Nome="Cran-B Cr 800mg com 30 sachês" Preco=163.99 SKU=3687
+Nome="Dipirona Monoidratada 500mg/ml Solução Gotas 20ml Neo Química Genérico" Preco=5.43 SKU=35084
+Nome="Hidratante Labial Nivea Original Care com 4,8g" Preco=18.19 SKU=27537
+Nome="Seringa de Insulina BD Ultra-Fine 6mm 30UI com 10 unidades" Preco=37.79 SKU=36057
+Nome="Monitor de Pressão Arterial de Pulso c/ Bluetooth HEM-6232T Omron" Preco=219.9 SKU=200030
+Nome="Kit 2 Suco Amarelo Solúvel Apisnutri 300g Adoçado com Stévia" Preco=69.9 SKU=167453
+Nome="Algodão Hidrófilo Cremer com 25g" Preco=4.09 SKU=28451
+Nome="Shampoo Anticaspa Pielus DI com 200ml" Preco=76.49 SKU=110421
+Nome="Nicorette Icemint 4mg Goma Mastigável para Parar de Fumar 30 unidades" Preco=73.49 SKU=14748
+Nome="Colágeno Hidrolisado com Vitamina A 1000mg Stem com 100 comprimidos" Preco=59.19 SKU=53470
+Nome="Batom Vegano Dailus Matte Cor 04 Descontraída" Preco=11.59 SKU=75997
+Nome="Protetor Solar Facial Neutrogena Sun Fresh Derm Care Pele Morena FPS70 com 40g" Preco=46.99 SKU=110192
+Nome="Chupeta Philips Avent Ultra Air Night 6 a 18 Meses Azul com 2 unidades" Preco=60.19 SKU=77789
+Nome="Álcool Gel Higienizante Muriel Azul com 60ml" Preco=1.66 SKU=77208
+Nome="Protetor Solar Facial L'Oréal Expertise Antirrugas FPS 60 40g" Preco=39.99 SKU=113260
+Nome="Pilha Auditiva Nº 675 Duracell com 60 Unidades" Preco=183.98 SKU=278205
+Nome="Máscara KN95 PFF-2(S) - 1 Unidade - Multilaser HC124" Preco=1.46 SKU=166167
+Nome="Cloridrato de Terbinafina 10mg Creme Dermatológico 20g EMS Genérico" Preco=22.06 SKU=71594
+Nome="Desloratadina 5mg 10 comprimidos EMS Genérico" Preco=23.49 SKU=49179
+Nome="Mylanta Plus Sabor Morango Solução Oral 240ml" Preco=42.68 SKU=355488
+Nome="Top Beauty S.O.S. Unhas Cera Hidratante para Cutículas 6g" Preco=6.42 SKU=364504
+Nome="Gel de Limpeza Facial Vichy Normaderm Phytosolution Pele Oleosa a Acneica 300g" Preco=67.39 SKU=70109
+Nome="Absorvente Noturno para Seios Amamente com 24 unidades" Preco=22.09 SKU=12204
+Nome="Pantoprazol Sódico Sesqui-Hidratado 20mg 42 comprimidos Medley Genérico" Preco=22.58 SKU=43903
+Nome="Biomarine Anti Celulite Slim Control Expert Gel Redutor de Medidas 150g" Preco=129.9 SKU=144632
+Nome="Sabonete Líquido Facial Neutrogena Deep Clean Grapefruit com 150g" Preco=24.99 SKU=14678
+Nome="Teste de Gravidez Needs em Caneta com 1 unidade" Preco=14.99 SKU=23998
+Nome="Estabilizador de Tornozelo Needs Tamanho M com 1 unidade" Preco=44.9 SKU=11409
+Nome="Creme Facial Natural Biomas do Sul 60g – Cativa Natureza" Preco=65.1 SKU=112650
+Nome="Loção Hidratante Baby Dove Hora de Dormir Hidratação Relaxante com 200ml" Preco=47.59 SKU=141396
+Nome="Odorizador de Ambiente Glade Toque de Frescor Lavanda 12ml c/ 2 Unidades - 50% de Desconto no Segundo Refil" Preco=17 SKU=222972
+Nome="Terapia Peeling Capilar Nioxin Scalp Renew com 75ml" Preco=83.6 SKU=160110
+Nome="Creme Multi Vegetal Natural para os Pés 55g" Preco=33.92 SKU=114715
+Nome="Dutasterida 0,5mg 30 cápsulas Aché Genérico" Preco=92.97 SKU=3883
+Nome="CÍLIOS POSTIÇOS DOURADO CL6-4R MACRILAN:88326" Preco=7.09 SKU=177071
+Nome="Cookies Zero Lactose Belive Sabor Double Chocolate com 80g" Preco=6.99 SKU=301718
+Nome="Kit Avène Cleanance Gel de Limpeza Purificante 150g + 40g" Preco=61.99 SKU=404530
+Nome="Corretor Postural Needs P com 1 unidade" Preco=39.99 SKU=11401
+Nome="Creme de Avelã com Cacau Flormel Zero Açúcar com 150g" Preco=17.39 SKU=117683
+Nome="Teste Oral de HIV Oraquick " Preco=99.99 SKU=78798
+Nome="Avamys Furoato de Fluticasona 27,5mcg Spray Nasal 120 doses" Preco=55.79 SKU=57496
+Nome="Módulo de L-Glutamina Mundo Verde 150g" Preco=79.9 SKU=117352
+Nome="Condicionador Trá Lá Lá Kids Cachos com 480ml" Preco=16.9 SKU=150967
+Nome="Óleo de Gergelim 250ml Qualicôco" Preco=25.9 SKU=167505
+Nome="Creatina ATP Monohidratada  - 200g - sem sabor" Preco=140 SKU=413702
+Nome="Paracetamol 500mg + Fosfato de Codeína 30mg 12 comprimidos EMS Genérico" Preco=11.09 SKU=24407
+Nome="Suplemento Mineral Pidomag Flac Tangerina e Laranja Linha Nutri Baldacci com 12 flaconetes de 10ml" Preco=89.23 SKU=69677
+Nome="Barra de Proteína sabor Petit Gateau 40g" Preco=7.5 SKU=302408
+Nome="Adesivo Salonpas Pequeno com 4 unidades " Preco=4.19 SKU=74437
+Nome="Ambroxmel Cloridrato de Ambroxol 30mg/5ml Xarope Sabor Mel e Eucalípto 120ml " Preco=17.39 SKU=33749
+Nome="INDICADO PARA NEBULIZAO RESIDENCIAL, USO ADULTO E INFANTIL, LEVE , PORTTIL E DE FCIL MANUSEIO POSSUI EXCLUSIVO SUPORTE PARA O COPINHO SEM DES:2057" Preco=241.9 SKU=116629
+Nome="Mordedor Polvinho Texturas Buba Baby" Preco=20.04 SKU=257983
+Nome="Bomba de Tirar Leite Manual Needs com 1 unidade" Preco=44.9 SKU=47977
+Nome="Algodão Hidrófilo Sussex em Rolo 500g" Preco=27.9 SKU=350559
+Nome="Lip Eye Gel Duda e Tina Multifuncional - 4ml" Preco=29.9 SKU=238132
+Nome="Creme esfoliante Apricot Média Abrasão 300g" Preco=27.9 SKU=301264
+Nome="Desloratadina 5mg 10 comprimidos EMS Genérico" Preco=23.49 SKU=49179
+Nome="Composto Coração Tranquilo Florais do Cerrado 50 ml" Preco=54.3 SKU=310492
+Nome="Precol Gotas com 30ml" Preco=87.49 SKU=22267
+Nome="Suplemento Nutricional Ensure Plus Sabor Chocolate" Preco=14.49 SKU=31735
+Nome="Ansiodoron com 80 comprimidos" Preco=77.49 SKU=75563
+Nome="Creme de Tratamento Elseve Óleo Extraordinário Nutrição Intensa com 300g" Preco=16.69 SKU=60704
+Nome="Ômega 3 Infantil Cereja 60 Cápsulas 250mg - Linho Lev	 - A" Preco=38.9 SKU=236755
+Nome="Kit Cuidados Buba Baby Branco com 4 Peças" Preco=47.9 SKU=158895
+Nome="Sintocalmy 300mg com 40 Comprimidos" Preco=70.35 SKU=17262
+Nome="Pasta de Dente Colgate Kids Zero Morango com 70g" Preco=14.99 SKU=117983
+Nome="Condor Lilica Ripilica Fio Dental 25m (kit C/03)" Preco=39.41 SKU=480115
+Nome="Pré-Shampoo Pantene Limpeza Profunda com 400ml" Preco=22.2 SKU=1992
+Nome="Luftal Simeticona 40mg 20 Comprimidos" Preco=28.49 SKU=16932
+Nome="Unhas Postiças Belliz Vermelho Hot 24 Unidades" Preco=30.26 SKU=303431
+Nome="Chá Mate Nutrigood Sabor Frutas Vermelhas com 250ml" Preco=5.99 SKU=153495
+Nome="TALCO INFANTIL TOPZ BABY 200 GRAMAS" Preco=17.73 SKU=376640
+Nome="Protetor de Mamilo MAM Tamanho 1 Regular com 2 unidades + caixa autoesterilizável" Preco=52.99 SKU=61378
+Nome="Óleo Corporal Bio-Oil Antiestrias e Cicatrizante 200ml" Preco=79.9 SKU=6361
+Nome="Sanfarma Dilatador Nasal Masculino C/10 (kit C/06)" Preco=176.36 SKU=438664
+Nome="Bala Halls Sabor Menta com 28g" Preco=2.23 SKU=42258
+Nome="Seringa Descartável 5ml Needs com Agulha 30mm x 07mm com 1 Unidade" Preco=2.39 SKU=117326
+Nome="Óleo Relaxante de Lavanda Weleda com 100ml" Preco=100.49 SKU=20069
+Nome="Máscara Flexível para Inalação Soniclear Adulto com 1 unidade" Preco=32.39 SKU=33953
+Nome="Sustagen Kids Baunilha Complemento Alimentar Infantil com 380g" Preco=32.39 SKU=28106
+Nome="Creme Reparador Cicaplast Baume B5 La Roche-Posay Hidratante Corporal 20ml" Preco=30.59 SKU=4723
+Nome="Pomada Modeladora Capilar Needs Efeito Matte com 120g" Preco=29.9 SKU=170217
+Nome="Escova de Dente Colgate Infantil Smiles Titans Go 6+ Anos Extra Macia com 1 unidade" Preco=11.59 SKU=111369
+Nome="Polaina Esportiva Pink Sigvaris UP 15-20 mmHg - Tam 37/40" Preco=205.1 SKU=167335
+Nome="Floral TPM e Menopausa Bryo 30ML" Preco=22.5 SKU=413759
+Nome="Colágeno Hidrolisado Equaliv Type One com 30 sachês de 4g" Preco=108.99 SKU=67328
+Nome="Creme Facial Neutrogena Face Care Intensive Antissinais FPS 22 com 100g" Preco=26.99 SKU=117621
+Nome="Escova para Limpeza de Mamadeiras e Bicos MAM Soft Brush com 1 unidade" Preco=51.75 SKU=77448
+Nome="Suplementos Alimentar Vitasay AZ Homem 90 Comprimidos" Preco=59.93 SKU=334208
+Nome="Kit Energeron Nutraway 500mg 60 Cápsulas - 5 Unidades" Preco=109.9 SKU=351868
+Nome="Dienogeste 2mg 28 comprimidos Aché Biosintética Genérico" Preco=38.77 SKU=9013
+Nome="Troninho Infantil 3 em 1 Flex Potty - Safety 1st Blue" Preco=279 SKU=402093
+Nome="Kit Descolorante Banho de Lua com 1 óleo protetor corporal + 1 pó descolorante + 1 água oxigenada" Preco=22.49 SKU=46015
+Nome="Bicicleta Ergométrica Vertical Dream Fitness EX 550" Preco=729 SKU=391979
+Nome="APARELHO DE PRESSÃO DIGITAL DE PULSO OMRON COM BLUETOOTH HEM-6232T:33500" Preco=214.2 SKU=140337
+Nome="Vitamina C Redoxon 200mg/ml Gotas com 20ml" Preco=15.29 SKU=23680
+Nome="Whey Protein Vitafor Isofort Baunilha 15 Sachês" Preco=289.99 SKU=243171
+Nome="Kit Suplemento Alimentar Nutren Senior Baunilha com 2 unidades" Preco=202.99 SKU=113192
+Nome="Pó Compacto Vult Cor 06 com 9g" Preco=17.95 SKU=8998
+Nome="Probiótico em Pó Simbioflora - 15 Envelopes de 6g" Preco=94.99 SKU=43537
+Nome="Água Oxigenada 20 volumes Amend 75ml" Preco=8.09 SKU=179269
+Nome="Munhequeira Ajustável Tamanho Único" Preco=44.9 SKU=431423
+Nome="Adoçante Pó Linea Sucralose com 70 envelopes de 800mg cada" Preco=9.99 SKU=28435
+Nome="Secador de Cabelo Taiff Profissional Style Top Red 2000w 220v" Preco=256 SKU=175138
+Nome="Kit Manicure Baby Buba Baby" Preco=55.82 SKU=258409
+Nome="OXÍMETRO DE DEDO DIGITAL TELA OLED PORTÁTIL:31590" Preco=124.9 SKU=146865
+Nome="Hastes Flexíveis Needs 75 Unidades" Preco=3.59 SKU=167592
+Nome="Kit 2 Vita Beauty Hair & Nails Vitafor 60 cápsulas" Preco=126.9 SKU=169104
+Nome="Teste de Gravidez Digital Clearblue com 1 Unidade" Preco=55.39 SKU=1883
+Nome="Be Soft Creme Antiflacidez Be Belle 30Ml" Preco=212 SKU=118733
+Nome="Pasta Integral Santa Helena First 1,01Kg" Preco=33.99 SKU=184027
+Nome="Fenofibrato 200mg 30 Cápsulas Duras Germed Genérico" Preco=54.33 SKU=55684
+Nome="Dipirona Monoidratada 500mg 10 comprimidos Medley Genérico" Preco=4.69 SKU=92680
+Nome="Reparador Labial Cicaplast Lábios La Roche-Posay 7,5ml" Preco=53.25 SKU=4724
+Nome="Bule Press 8 Xícaras 1 L" Preco=682.6 SKU=168211
+Nome="Suplemento Alimentar Ogestan Pré 1,2g com 90 cápsulas" Preco=152.29 SKU=75255
+Nome="Escova de Cabelo Ricca Colors Oval Midi com 1 unidade" Preco=13.79 SKU=140602
+Nome="Nebulizador ultrassônico G-Tech Ultraneb Desk 2 branco 100V/240V" Preco=132.59 SKU=164871
+Nome="Óleo Capilar Pantene Pro-V Antifrizz Unidas pelos Cachos com 95ml" Preco=19.07 SKU=70161
+Nome="Sinux Duo Aqua Própolis 30 ml" Preco=29.9 SKU=196615
+Nome="Amolecedor de Cuticulas Labotrat 30ml" Preco=7.29 SKU=397130
+Nome="Composto Lácteo Neslac Comfor Zero Lactose Nestlé A Partir de 3 Anos 700g" Preco=49.99 SKU=80450
+Nome="Água Mineral Natural Nutrigood Sem Gás com 510ml" Preco=2.99 SKU=26138
+Nome="Protetor Labial Manteiga de Cacau Luxo" Preco=6.99 SKU=32968
+Nome="Colônia Huggies Extra Suave Infantil com 100ml" Preco=12.39 SKU=92269
+Nome="Água de Coco Kero Coco com 330ml" Preco=9.55 SKU=17742
+Nome="Joelheira com Reforço Needs Tamanho M com 1 unidade" Preco=31.45 SKU=8617
+Nome="Bateria Duracell de Lítio 3V CR 123" Preco=52.15 SKU=223005
+Nome="Vinoq10 com 30 cápsulas" Preco=82.99 SKU=3445
+Nome="Levotiroxina Sódica 75mcg 30 comprimidos Merck Genérico" Preco=6.85 SKU=70076
+Nome="Esmalte Cora Fita Líquida Nunca Mais Esmalte Borrado 9ml" Preco=9.84 SKU=157506
+Nome="Seringa Descartável 5ml Needs com Agulha 30mm x 07mm com 1 Unidade" Preco=2.39 SKU=117326
+Nome="Máscara 1 Minuto Dove Ritual de Reparação com 500g" Preco=25.29 SKU=243659
+Nome="Teste Oral HIV Detect com 1 Kit " Preco=91.49 SKU=27337
+Nome="Kit Nivea Sun Protetor Solar FPS 50 200ml + Protetor Solar Facial Antissinais FPS 60 50ml" Preco=39.99 SKU=151718
+Nome="Lenço Umedecido Needs Baby Aloe Vera 96 unidades" Preco=16.29 SKU=75842
+Nome="Esmalte Dailus Rosa Gkay De Boba só a Mão com 8ml" Preco=8.15 SKU=243091
+Nome="Creme de Tratamento Capilar Elseve Longo dos Sonhos com 300g" Preco=16.69 SKU=69572
+Nome="Papinha Orgânica Nestlé Naturnes Carne com Abóbora com 115g" Preco=7.19 SKU=119015
+Nome="Termômetro Digital Clínico G-Tech Branco com 1 unidade" Preco=15.79 SKU=41532
+Nome="Loção Hidratante Corporal Johnson's Baby Hora do Sono com 200ml" Preco=23.99 SKU=97361
+Nome="Esponja Gota para Base Triss/Needs com 1 Unidade" Preco=29.9 SKU=113152
+Nome="Infusor de Aço Inox Corrente Berloque Kitchen" Preco=99.9 SKU=181785
+Nome="Kit Avène Cleanance Gel de Limpeza Purificante 150g + 40g" Preco=61.99 SKU=404530
+Nome="Domperidona 10mg 60 comprimidos EMS Genérico" Preco=14.48 SKU=17486
+Nome="Leave-In Renovador de Pontas Vichy Dercos Kera-Solutions com 50ml" Preco=66.99 SKU=70121
+Nome="Metamucil Sabor Laranja com 10 sachês de 5,85g cada" Preco=47.59 SKU=28060
+Nome="Spray para Cabelo Antifrizz Liso, Leve e Solto Lola Cosmetics com 200ml" Preco=37.99 SKU=26261
+Nome="Kit 6 Suprasoy Nature - 300G" Preco=125.29 SKU=235783
+Nome="Absorvente para Seios Johnson's com 12 unidades" Preco=14.19 SKU=82397
+Nome="Kit DermoNano Creme para Pernas Cansadas com 200g + Creme para Pés Ressecados com 60g" Preco=141.9 SKU=262069
+Nome="Macrodantina Nitrofurantoina 100mg 28 cápsulas" Preco=12.89 SKU=32246
+Nome="Protetor Solar NeoStrata Minesol FPS 70 Oil Control Facial com Cor Pele Morena com 40g" Preco=83.49 SKU=80229
+Nome="Máscara Hidratante Pantene Hidratação Óleo de Coco com 600ml" Preco=23.79 SKU=111639
+Nome="Protector Smile - Mascara Anti-Microbiana e Anti-embacante" Preco=19.9 SKU=255580
+Nome="Algodão em Disco Cremer com 50 unidades" Preco=10.29 SKU=62932
+Nome="Unhas Postiças Autoadesivas Belliz Nude 24 Unidades" Preco=39.72 SKU=303471
+Nome="Drospirenona 3mg + Etinilestradiol 0,03mg 21 comprimidos EMS Genérico" Preco=14.28 SKU=16785
+Nome="Fórmula Infantil Aptamil Premium 2 Danone A partir de 6 meses 800g" Preco=63.99 SKU=34298
+Nome="Pasta de Castanha de Caju Naked Nuts Chocolate Branco com 450g" Preco=61.79 SKU=80068
+Nome="Teste de Gravidez Clearblue Detecção Rápida com 2 Unidades" Preco=31.99 SKU=113284
+Nome="Cálcio 500mg Oscal 60 comprimidos" Preco=75.99 SKU=29795
+Nome="KIT DISCO MENSTRUAL LOVIN INCICLO + CÁPSULA ESTERILIZADORA COR: GIRASSOL" Preco=105 SKU=283366
+Nome="Lenço Demaquilante Neutrogena Deep Clean com 25 unidades" Preco=24.09 SKU=54641
+Nome="Tintura Semi-Permanente Casting Creme Gloss 300 Castanho Escuro" Preco=26.99 SKU=74108
+Nome="Leave-in Capilar Noturno Nioxin Night Density Rescue com 70ml" Preco=119.99 SKU=73691
+Nome="Álcool Gel Giovanna Baby Classic com 500ml" Preco=21.29 SKU=37167
+Nome="Protetor de Mamilo de Silicone Medela M 20mm 2 Unidades" Preco=38.79 SKU=110744
+Nome="Sumax Succinato de Sumatriptana 10mg 2 doses" Preco=62.39 SKU=37104
+Nome="Absorvente Intimus Noturno Cobertura Suave Com Abas com 30 unidades" Preco=26.69 SKU=76377
+Nome="Magnen B6 Suplemento Vitamínico com 60 comprimidos" Preco=196.08 SKU=75721
+Nome="Piranha Prendedor de Cabelo Triss Tamanho G Cor Preta Efeito Tartaruga com 1 unidade" Preco=9.99 SKU=110336
+Nome="Máquina de Acabamento BabyLiss Pro Silver FX Ferrari Bivolt" Preco=1290 SKU=277018
+Nome="Chips Naturais Linea Kids Sabor Salada de Frutas com 12g" Preco=10.79 SKU=81133
+Nome="Sensor FreeStyle Libre com 1 unidade" Preco=289.9 SKU=28300
+Nome="Chupeta Needs Silicone Azul Claro Tamanho 2 com 1 unidade" Preco=6.9 SKU=47855
+Nome="Fio Dental Infantil com Cabo Patrulha Canina Sabor UVA 160UN" Preco=91.6 SKU=240860
+Nome="Kit 3x Creatina  100g - BRN Foods" Preco=57 SKU=407908
+Nome="Toalha Para Manicure Descartável Santa Clara 20 Unidades" Preco=14.9 SKU=354658
+Nome="Aspirador Nasal Infantil Needs Verde" Preco=16.9 SKU=47955
+Nome="Kit Desodorante Aerosol Nivea Men Black&White Invisible com 2 unidades" Preco=23.99 SKU=55474
+Nome="Máscara de Dormir Frozen - ETITOYS" Preco=5.88 SKU=220890
+Nome="TALCO J&J BABY CAMOMILA 200G" Preco=26.15 SKU=363138
+Nome="Protetor Diário Intimus Tecnologia Antibacteriana com 80 Unidades" Preco=21.89 SKU=70124
+Nome="Carrinho Passeio De Bebê Guarda Chuva Venice Cinza Multikids" Preco=399 SKU=419601
+Nome="PROTEIN CRISP BITES:90186" Preco=64 SKU=178200
+Nome="Desodorante Alva Kristall Deo Stick Sensitive com 120g" Preco=82.95 SKU=114101
+Nome="Gel de Limpeza Facial Vegan By Needs Tea Tree Sem Fragrância com 120ml" Preco=23.99 SKU=79070
+Nome="L Glutamina 3 X 120 Cápsulas 1000mg - Unilife	 - A" Preco=175.9 SKU=237325
+Nome="Desinchá com 60 sachês" Preco=91.17 SKU=68304
+Nome="Loção Hidratante Corporal CeraVe 473ml" Preco=79.99 SKU=27511
+Nome="Inalador Compressor Inalar NE-C701 Omron com 1 unidade" Preco=253.99 SKU=21535
+Nome="Kit Inoar Argan Infusion Liso e Sedoso com 1 Shampoo de 500ml + 1 Condicionador de 250ml" Preco=29.59 SKU=79075
+Nome="Floral Controle Alimentar Bryo 30ML" Preco=22.5 SKU=413752
+Nome="Lip Gel para os Olhos Duda e Tina Proteção Uniforme com 4ml" Preco=39.9 SKU=236128
+Nome="Hidratante Nivea Firmador Q10 + Vitamina C 400ml" Preco=24.79 SKU=292
+Nome="Embryolisse Exfoliating Cream 60ml" Preco=204.72 SKU=320877
+Nome="Máscara de Tratamento Capilar Pantene Pro-V Bambu com 600ml" Preco=23.69 SKU=77724
+Nome="Kit Para Cabelo Lolly Oceano Azul com 1 Unidade" Preco=25.19 SKU=152745
+Nome="Sanfarma Sancare Dilatador Nasal Feminino C/10 (kit C/12)" Preco=352.71 SKU=439197
+Nome="Azelan 150mg/g Gel 30g" Preco=67.39 SKU=31421
+Nome="Gel Dental Infantil Gum Patrulha Canina Tutti-Frutti com Flúor com 50g" Preco=5.59 SKU=53395
+Nome="Batom Vegano Dailus Matte Cor 06 Desinibida" Preco=11.59 SKU=76000
+Nome="Almofada Inflável Anti escaras Della Vida Quadrada Com Orifício Flex" Preco=47.19 SKU=242065
+Nome="Loratadina 1mg/ml Xarope 100ml + Copo de medida Prati Donaduzzi Genérico" Preco=14.64 SKU=110523
+Nome="Acetilcisteína 200 mg Granulado Sabor Laranja 16 envelopes Eurofarma Genérico" Preco=22.29 SKU=56677
+Nome="Curativo para Acne Needs Pele Oleosa e Acneica 24 unidades" Preco=21.66 SKU=8279
+Nome="Suplemento Alimentar Extima Banana com 600g" Preco=264.99 SKU=138907
+Nome="Escova Dental Infantil - Funny Brush - Fred - Multilaser Saúde - HC053" Preco=63.1 SKU=166165
+Nome="Água Oxigenada Cremosa Farmax 40 Volumes com 70ml" Preco=2.15 SKU=139697
+Nome="Condicionador Relaxante Granado Bebê Camomila 250ml" Preco=21.49 SKU=334541
+Nome="Mordedor Chocalho Amigos Animais Elefante - Winfun" Preco=35.88 SKU=177739
+Nome="Compressa com Emulsão de Petrolatum Curatec 7,6x7,6cm - 1 uni" Preco=6 SKU=142466
+Nome="Ômega 3 Catarinense 1000mg com 120 cápsulas" Preco=49.99 SKU=2412
+Nome="Sintocalmy 300mg/2ml com 30ml" Preco=71.99 SKU=61537
+Nome="Shampoo Pantene Pro-V Brilho Extremo com 400ml" Preco=22.2 SKU=41691
+Nome="Fixador de Cabelo Inoar Hair Spray Extraforte com 400ml" Preco=26.29 SKU=70606
+Nome="Berço Portátil com Mosquiteiro Folhas Baby Joy" Preco=124.9 SKU=345312
+Nome="ABSORVENTES PARA SEIOS YORK 12 UNIDADES:32153" Preco=12.9 SKU=139268
+Nome="Adesivo Salonpas Grande com 2 unidades" Preco=7.95 SKU=74441
+Nome="Suplemento Vitamínico Comple B" Preco=10.89 SKU=45665
+Nome="Bicicleta Ergométrica Vertical Dream Magnética Mag 5000v" Preco=1399 SKU=391964
+Nome="Creme Facial Neutrogena Face Care Intensive Hidratante Matte 3 em 1 com 100g" Preco=26.99 SKU=117623
+Nome="Gel Lubrificante Íntimo K-Med Hot com 200g" Preco=34.39 SKU=117502
+Nome="Soutien Extração de Leite Easy Expression Preto Tam M Medela" Preco=339 SKU=399998
+Nome="Aparelho medidor de pressão arterial digital de braçoG-Tech BP3AA1-1" Preco=188.18 SKU=181833
+Nome="Pasta de Dente Colgate Total 12 Clean Mint com Flúor de 140g" Preco=11.9 SKU=80479
+Nome="Mentos Pure Fresh Chiclete Sem Açúcar Sabor Wintergreen com 46 unidades" Preco=22.59 SKU=75431
+Nome="Pastilhas Dr. Good Fresh Eucaliptol, Mentol e Timol Extra Forte 40g" Preco=20 SKU=335964
+Nome="Seringa de Insulina BD Ultra-Fine 6mm 50UI com 10 unidades" Preco=38.19 SKU=36058
+Nome="Solução Antisséptica Bucal Malvatricin PPU com 250ml" Preco=33.91 SKU=52290
+Nome="Halter Emborrachado 6 Kg Peso para Academia" Preco=99.9 SKU=313464
+Nome="Suplemento Vitamínico Imecap Hair Max Cabelos e Unhas - 60 Cápsulas" Preco=60.39 SKU=110578
+Nome="Repelente Johnson's Baby Antimosquito Loção com 200ml" Preco=45.59 SKU=7852
+Nome="Suplemento Alimentar Leflora Lactobacilus Acidophilus 12 Cápsulas" Preco=18.9 SKU=341047
+Nome="COMBO + ENERGIA" Preco=35.97 SKU=183490
+Nome="Composto Lácteo Ninho Forti+ Zero Lactose Nestlé 700g" Preco=31.49 SKU=46477
+Nome="Kit 3 Ômega 3 Kids 500mg Unilife 60" Preco=82.94 SKU=228435
+Nome="Action Autoteste de HIV com 1 unidade " Preco=84.99 SKU=13662
+Nome="Micronebulizador Oxigênio Infatil Multilaser" Preco=11.84 SKU=340523
+Nome="Absorvente Geriátrico Tena Lady Discreet Extra - 20 Unidades" Preco=41.9 SKU=372766
+Nome="Aspirina Prevent Ácido Acetilsalicílico 100mg 30 comprimidos" Preco=18.69 SKU=64741
+Nome="Hidratante Labial Nivea Med Repair FPS 15 4,8g" Preco=18.89 SKU=71353
+Nome="Condicionador TRESemmé Hidratação Profunda com 400ml" Preco=21.89 SKU=15218
+Nome="Hair Spray Vertix Extra Forte com 400ml" Preco=31.76 SKU=302984
+Nome="Floral Spray Bucal Natural Flowers Sensação de Pânico 30 ml" Preco=30.38 SKU=301383
+Nome="Polaina Esportiva Branco Sigvaris UP 15-20 mmHg - Tam 37/40" Preco=205.1 SKU=167341
+Nome="Desodorante para os pés Tenys Pé Jato Seco Menta Fresh com 150ml" Preco=17.59 SKU=70013
+Nome="Fralda Geriátrica Needs ClassicCare G Unissex 16 unidades" Preco=42.9 SKU=218105
+Nome="Adoçante Culinário em Pó Linea Sucralose com 400g" Preco=44.69 SKU=152490
+Nome="Lavitan Maca Peruana Viron 60 Cápsulas" Preco=39.9 SKU=336076
+Nome="Sabonete Facial em Barra Neutrogena Deep Clean Limpeza Profunda com 80g" Preco=9.99 SKU=54858
+Nome="INFUSOR DE AO INOX CORRENTE XCARA:78062" Preco=59.9 SKU=168209
+Nome="Fio Dental Oral-B Essential Floss Encerado com 50 metros" Preco=11.99 SKU=45027
+Nome="Hidratante Corporal Neutrogena Body Care Intensive Hidrata&Repara com 400ml" Preco=27.29 SKU=138734
+Nome="Avamys Furoato de Fluticasona 27,5mcg Spray Nasal 120 doses" Preco=55.79 SKU=57496
+Nome="Seringa de Insulina BD Ultra-Fine 6mm 50UI com 10 unidades" Preco=38.19 SKU=36058
+Nome="Suplemento de Aminoácido Neoforte Danone Morango com 400g" Preco=184.99 SKU=25422
+Nome="Tesoura de Unha Enox Reta Pouch com 1 Unidade" Preco=18.02 SKU=303789
+Nome="Esomeprazol Magnésico 40mg 28 comprimidos Ranbaxy Genérico" Preco=129.17 SKU=53171
+Nome="Complemento Alimentar Nutren Senior 50+ Sem Sabor com 740g" Preco=139.99 SKU=435
+Nome="Cafeina 200mg Por Cápsula Natural 60 Capsulas 500mg Academia - Linduras" Preco=23.88 SKU=306449
+Nome="Fexx Cloridrato de Fexofenadina 120mg 10 comprimidos" Preco=26.49 SKU=73225
+Nome="Escova de Dente Elétrica Philips Colgate SonicPro Kids com 1 unidade" Preco=348.9 SKU=220626
+Nome="Oxímetro de Pulso com Visor em LED YK009 - Winner" Preco=83.49 SKU=311442
+Nome="Máscara KN95 Needs com 2 unidades" Preco=8.9 SKU=473956
+Nome="Probak II Barbeador Descartável com 7 unidades" Preco=6.69 SKU=29615
+Nome="Escova de Cabelo Desembaraçadora Needs Dourada com 1 unidade" Preco=21.99 SKU=157242
+Nome="Levotiroxina Sódica 88mcg 30 comprimidos Merck Genérico" Preco=8.14 SKU=19119
+Nome="Espuma de Barbear Nivea Men Original Protect com 200ml" Preco=18.79 SKU=85739
+Nome="Kit QOD Barber Shop Premium Special Beer Shampoo com 220ml + Pomada Capilar com 70g" Preco=40.59 SKU=78367
+Nome="Água de Coco Kero Coco Kids com 200ml" Preco=7.25 SKU=17747
+Nome="Enzilac 9000UI com 30 comprimidos mastigáveis" Preco=59.55 SKU=54455
+Nome="Dipirona Monoidratada 500mg 10 comprimidos EMS Genérico" Preco=4.49 SKU=59568
+Nome="Sal Rosa do Himalaia Fino 500g SMART" Preco=15.9 SKU=167511
+Nome="Desodorante Infantil Roll-on Trá Lá Lá Kids Suave com 65ml" Preco=12.19 SKU=150971
+Nome="Trezor Rosuvastatina Cálcica 10mg 60 comprimidos" Preco=67.79 SKU=75570
+Nome="Polinize Florais Momento Deixar de Fumar Florais de Bach com 30ml" Preco=42.99 SKU=75892
+Nome="Hastes Flexíveis Cotonetes Johnson & Johnson com 75 unidades" Preco=4.45 SKU=59528
+Nome="Protetor Diário Intimus Cuidado Diário com 80 Unidades" Preco=21.9 SKU=43634
+Nome="Suplemento Alimentar Nutridrink Protein Sem Sabor com 350g" Preco=62.79 SKU=40615
+Nome="Água Mineral Natural Crystal Sem Gás com 1L" Preco=6.05 SKU=60462
+Nome="Água Oxigenada 30 volumes Márcia 900ml" Preco=16.09 SKU=179387
+Nome="Kit Dove Ritual de Reparação Shampoo com 400ml + Condicionador com 200ml" Preco=23.9 SKU=11834
+Nome="Creme Facial Antirrugas Imecap Rejuvenescedor com 35g" Preco=74.99 SKU=110579
+Nome="Teste de Gravidez Clearblue Plus com 1 Unidade" Preco=16.39 SKU=1882
+Nome="Creme de Tratamento Elseve Óleo Extraordinário Cachos com 300g" Preco=16.69 SKU=20334
+Nome="Esmalte Cremoso Risqué Inspiração Divina com 8ml" Preco=6.99 SKU=224048
+Nome="Shampoo Seda Recarga Natural Pureza Detox com 325ml" Preco=13.99 SKU=4886
+Nome="Álcool Gel Giovanna Baby Blue com 500ml" Preco=20.79 SKU=54040
+Nome="Celux  Creme Anticelulite Be Belle 200ML" Preco=116.4 SKU=118351
+Nome="Pilha AA Duracell Alcalina com 16 unidades" Preco=87.99 SKU=76839
+Nome="Polivitamínico Ogestan Gold Gestantes e Lactantes 30 cápsulas" Preco=152.99 SKU=49522
+Nome="Shampoo Anticaspa Celamina Ultra Glenmark com 150ml" Preco=87.49 SKU=20957
+Nome="Absorvente Intimus Tripla Proteção Cobertura Extra Suave Com Abas com 32 unidades" Preco=21.19 SKU=39553
+Nome="Loção Hidratante Corporal Johnson’s Baby Regular com 400ml" Preco=40.39 SKU=50009
+Nome="Kit Essenza Profissional Alisante Normal Creme + Loção + Máscara" Preco=34.98 SKU=160148
+Nome="Atenolol 25mg 30 comprimidos Medley Genérico" Preco=3.73 SKU=49814
+Nome="Protetor Solar Corporal Sundown Praia e Piscina FPS 70 com 200ml" Preco=47.79 SKU=17791
+Nome="Secador de Cabelos Lion Preto 2500W 220V" Preco=719.9 SKU=226682
+Nome="Alivium Ibuprofeno 400mg 20 cápsulas" Preco=28.9 SKU=40455
+Nome="Etodolaco 400mg 10 comprimidos Germed Genérico" Preco=14.62 SKU=231471
+Nome="Unha Postiça Autoadesiva Ricca Chocolate com 24 Unidades" Preco=30.33 SKU=303190
+Nome="Stick Labial Atoderm Bioderma Hidratante e Calmante 4g" Preco=54.9 SKU=379529
+Nome="Tic Tacs para Cabelos Triss/Needs Cor Marrom com 8 unidades" Preco=14.99 SKU=110343
+Nome="Creme Para Pentear Barba Forte IronJack com 60g" Preco=21.32 SKU=161131
+Nome="Desodorante Kristall Deo Stick Sensitive com 60g" Preco=68.25 SKU=114092
+Nome="Escova para Mamadeira Dupla Ação Azul com 1 unidade" Preco=34.79 SKU=26797
+Nome="Avelã com cacau 220g" Preco=32.9 SKU=302420
+Nome="Esmalte Dailus Babado e Gliteria Vapo Vapo 8ml" Preco=10.69 SKU=329204
+Nome="Creme para mãos Urtekram Vegano e Orgânico de Bétula Ultra Hidratação 75ml" Preco=78.75 SKU=115163
+Nome="Condor Hot Wheels Fio Dental 25m" Preco=15.48 SKU=480117
+Nome="Essência 10ml Escolha O Aroma - Via Aroma	 - Flor de Cerejeira" Preco=21.9 SKU=230592
+Nome="Creme Hidratante Weleda Skin Food" Preco=81.99 SKU=56955
+Nome="Creme 2 em 1 Skala Potão Desmaiado com 1kg" Preco=9.99 SKU=21422
+Nome="Inalador Nebulizador CareTech Air Comp MD 1500T com 1 Unidade" Preco=159.99 SKU=73044
+Nome="Supra C Kids Sabor Uva com 30 Gomas" Preco=14.29 SKU=68525
+Nome="Bruna Tavares BT Fruit Antioxidante - Elixir Facial 32ml" Preco=65.68 SKU=178587
+Nome="Corretivo Revlon ColorStay Cor Medium 04 com 6,2ml" Preco=57.9 SKU=1436
+Nome="Suplemento Vitamínico-Mineral Ossone com 30 comprimidos" Preco=89.99 SKU=5606
+Nome="KIT 2 COLETORES MENSTRUAIS INCICLO B+ 2 CÁPSULAS ESTER. COR: GIRASSOL" Preco=151 SKU=283213
+Nome="Kit 3 Suprasoy Banana - 300G" Preco=78.47 SKU=235778
+Nome="Cera Nutritiva Granado Pink Unhas e Cutículas com 7g" Preco=39.9 SKU=412911
+Nome="KIT CUIDADOS COM O SEIO PHILIPS AVENT:27050" Preco=169 SKU=144805
+Nome="Avodart Dutasterida 0,5mg 30 cápsulas" Preco=132.51 SKU=41605
+Nome="Monitor de Pressão Arterial de Braço Silencioso HC206 - Multilaser" Preco=205.3 SKU=199992
+Nome="Hiper Mass Gainer Atlhetica Nutrition W/Creatine Abacaxi com Coco 1,5kg" Preco=61.89 SKU=149861
+Nome="Henna Creme Surya Brasil Castanho Dourado com 70ml" Preco=32.19 SKU=69398
+Nome="Teste de Ovulação Digital Clearblue com 10 Unidades" Preco=118.99 SKU=7021
+Nome="Algodão Hidrófilo Needs com 50g" Preco=5.49 SKU=41018
+Nome="Máscara Capilar Concentrada Antirrigidez Vichy Dercos Kera-Solutions com 200ml" Preco=97.99 SKU=110039
+Nome="Corretor de Mamilos Lansinoh Latch Assist com 2 Tamanhos" Preco=40.99 SKU=66704
+Nome="Desodorante Aerosol Antitranspirante Adidas Masculino Pro Invisible Performance Sem Manchas com 150ml" Preco=13.99 SKU=37022
+Nome="Fórmula Infantil NAN Comfor 2 Nestlé 6 a 12 meses 800g" Preco=55.39 SKU=63530
+Nome="KIT Giant Mass 3kg + Power Creatina 100g + BCAA 100g Tangerina + Glutamina 300g - Bodybuilders Sabor: Baunilha." Preco=199.9 SKU=407576
+Nome="Hidratante Corporal Mantecorp Epidrat Corpo Intensivo com 200g" Preco=32.4 SKU=3721
+Nome="Simbiótico Lactofos com 15 sachês de 6g" Preco=89.99 SKU=43572
+Nome="Cloreto de Magnésio Needs com 33g" Preco=11.9 SKU=4782
+Nome="Lenço Umedecido Antisséptico Free Wipes com 20 unidades" Preco=8.35 SKU=77537
+Nome="Best Whey Atletica Nurition Total Clean Limão com Gengibre 350ml" Preco=14.99 SKU=178103
+Nome="Fexx Cloridrato de Fexofenadina 120mg 10 comprimidos" Preco=26.49 SKU=73225
+Nome="Protetor Solar Facial Darrow Actine Antioleosidade Sem Cor FPS 30 com 120g" Preco=67.39 SKU=7905
+Nome="Fita Cirúrgica Microporosa Esparadrapo Micropore 100mm x 10m - Kit com 3 un. - MISSNER" Preco=97.67 SKU=181746
+Nome="Pasta de Amendoim Naked Nuts com Cookies de Chocolate com 450g" Preco=41.19 SKU=80073
+Nome="Mix de Fibras Fibernorm em Pó Solúvel Lata com 225g" Preco=129.99 SKU=11167
+Nome="INDICAES:PRODUTO INDICADO PARA PREVENO E ALVIO DE TENDINITE NO COTOVELO (EPICONDILITE) E OUTRAS AFECES NA REGIO. DIMINUI A TENSO NA REG:15952" Preco=18 SKU=118329
+Nome="Barra de Proteína Bold Thin Caramelo & Amendoim 40g" Preco=9.99 SKU=390767
+Nome="Biscoito Salgado Mini Veggies Ervilha e Brócolis com 18g" Preco=4.89 SKU=152722
+Nome="Papinha Orgânica Nestlé Naturnes Sabor Banana com 120g" Preco=5.09 SKU=55618
+Nome="Carrinho de Passeio Lite Way 3 Jet Black - Chicco" Preco=1399 SKU=281975
+Nome="Lenço Umedecido Johnson's Baby Recém-Nascido Sem Fragrância 96 unidades" Preco=24.39 SKU=60534
+Nome="Seringa para lavagem nasal infantil 10ml - NoseWash" Preco=49.9 SKU=417076
+Nome="Condicionador OGX Biotin & Collagen com 385ml" Preco=47.99 SKU=19000
+Nome="Mentos Pure Fresh Chiclete Sem Açúcar Sabor Fresh Mint com 46 unidades" Preco=22.59 SKU=75427
+Nome="SABONETE FACIAL AVEIA:36287" Preco=34.2 SKU=225757
+Nome="Água Micelar Facial Needs Face 6 em 1 com 200ml" Preco=21.9 SKU=8889
+Nome="Algodão em Rolo York 25g" Preco=3.6 SKU=139266
+Nome="Creme Capilar Alisante Lola Hair Vintage Girls com 100g" Preco=27.69 SKU=55632
+Nome="Creme esfoliante Apricot Forte Abrasão 650g" Preco=54.9 SKU=301258
+Nome="Escova de Dente Infantil Oral-B Stages 1 Bebês de 4-24 Meses com 1 Unidade " Preco=27.29 SKU=54845
+Nome="Loção Hidratante Umiditá Gestante 200ml" Preco=78.99 SKU=4696
+Nome="Protetores para Seios Nipple Shields 2 Unidades Tam 1 - MAM" Preco=59.9 SKU=400304
+Nome="Mamadeira Nuk First Choice Newborn Anticólica Tamanho 1 com 1 unidade" Preco=41.19 SKU=75680
+Nome="Chupeta Philips Avent Ultra Air Rosa Decorada de 0 a 6 meses com 1 unidade" Preco=34.39 SKU=60112
+Nome="Tesoura para Cabelo Tramontina em Aço Inox com Fio Laser 6"" Preco=235.98 SKU=279025
+Nome="Seakalm 260mg com 20 Comprimidos" Preco=21.79 SKU=1531
+Nome="Suplemento Vitamínico Exímia Fortalize Kera D - 30 Comprimidos" Preco=98.99 SKU=15771
+Nome="Manteiga Capilar Hidratante OGX Coconut Curls com 187g" Preco=57.19 SKU=71585
+Nome="Desodorante Old Spice Proteção Épica Lenha em Barra Antitranspirante com 50g" Preco=20.99 SKU=111218
+Nome="Joelheira com Mola e Reforço Duplo Needs Tamanho Único com 1 unidade" Preco=67.89 SKU=11432
+Nome="Absorvente Interno OB Sempre Livre  ProComfort Super 16 unidades" Preco=12.69 SKU=44354
+Nome="Fralda Pampers Confort Sec XG - 62 Unidades" Preco=87.49 SKU=9162
+Nome="Bandagem Elástica Needs 7,6cm x 4,5m Bege com 1 unidade" Preco=29.99 SKU=8275
+Nome="KIT 3X Extrato de Própolis 38% 30ml - Flora Nativa" Preco=49.9 SKU=425548
+Nome="Lenço com Álcool Isopropílico 70% Needs com 100 sachês" Preco=26.99 SKU=78889
+Nome="BOLSA DE GINSTICA GYM MESH G179 PRO ACTION:1987" Preco=34 SKU=119375
+Nome="Odorizador de Ambiente Glade Manhã do Campo Automatic Refil 269ml" Preco=28.4 SKU=224917
+Nome="Shampoo Dove Hidratação Intensa com Infusão de Oxigênio com 200ml" Preco=17.99 SKU=22341
+Nome="Suplemento Nutricional Cúrcuma Turmeric 600mg Bioroots 100% natural com 60 cápsulas" Preco=83.49 SKU=70024
+Nome="Nebulizador compressor G-Tech Nebdog 127V/230V Azul" Preco=154.11 SKU=242930
+Nome="Pantoprazol Sódico Sesqui-Hidratado 20mg 42 comprimidos Medley Genérico" Preco=22.58 SKU=43903
+Nome="Gel Hidratante Intravaginal Lubrinat com 30g + 10 aplicadores" Preco=97.88 SKU=49255
+Nome="Kit 5 Ômega 3 EPA 540mg DHA 360mg Catarinense 60 cápsulas" Preco=154.9 SKU=170451
+Nome="Kit Shampoo + Condicionador Trá Lá Lá Kids sem Embaraço 480ml cada" Preco=31.9 SKU=368678
+Nome="Lenço com Álcool Isopropílico 70% Needs com 100 sachês" Preco=26.99 SKU=78889
+Nome="Domperidona 10mg 30 comprimidos Eurofarma Genérico" Preco=9.45 SKU=72159
+Nome="Sérum-Elixir Antiolheiras Quintal Somniferae com 15g" Preco=189 SKU=168720
+Nome="Mordedor Chocalho Amigos Animais Macaco - Winfun" Preco=35.88 SKU=177740
+Nome="Esteira elétrica Academia Polimet Nitro N16 127V/220V preta" Preco=3999.9 SKU=391987
+Nome="Chá Nutrigood Bom Humor com 10 sachês" Preco=9.99 SKU=110393
+Nome="Adoçante Líquido Finn Xilitol com 65ml" Preco=28.09 SKU=110389
+Nome="Hidratante Facial Needs Vita C 50g" Preco=20.43 SKU=25609
+Nome="Sérum Hidratante Facial Vichy Mineral 89 30ml" Preco=98.9 SKU=26244
+Nome="Proto CrunchC/ 10 Bar ras de60G - Nutrata " Preco=109.08 SKU=310474
+Nome="Floral Spray Bucal Natural Flowers Fase Emergencial Rescue S.O.S. 30 ml" Preco=30.38 SKU=301374
+Nome="Desinchá Noite com 60 sachês" Preco=91.17 SKU=73269
+Nome="Máscara Cirúrgica Descartável Tripla PhittaMask com 50 unidades" Preco=89.99 SKU=111515
+Nome="Kit Pasta de Dente Sensodyne Rápido Alívio para Dentes Sensíveis com 3 unidades" Preco=22.9 SKU=78802
+Nome="Protetor Diário Tena Discreet Incontinência Leve 14 unidades" Preco=12.79 SKU=138746
+Nome="Batom Vult Rica de Marré Matte com Ácido Hialurônico Cor 04 Vinho Mon Amour" Preco=14.95 SKU=117363
+Nome="Apoio de Pescoço em Malha Dupla Face Barquinhos Bublim" Preco=23.9 SKU=414960
+Nome="Acnezil Gel Antiacne com 20g" Preco=12.59 SKU=73563
+Nome="Lecitina de Soja em Pó (Granel 200g)" Preco=17.35 SKU=238824
+Nome="Água Mineral Lindoya Verão Sem Gás com 510ml" Preco=3.99 SKU=14280
+Nome="Clenil A Dipropionato de Beclometasona 400mcg/ml Suspensão para Nebulização 10 flaconetes de 2ml cada" Preco=65.39 SKU=64759
+Nome="Fralda Geriátrica Bigfral Derma Plus XG 14 unidades" Preco=56.59 SKU=117507
+Nome="Glicerina Bi-Destilada Needs com 100ml" Preco=9.99 SKU=35496
+Nome="Hastes Flexíveis Needs Baby com 50 unidades" Preco=8.49 SKU=167584
+Nome="Fio Dental J&J Reach Expansion Plus 50m" Preco=7.86 SKU=164949
+Nome="Protetor Solar Corporal Neutrogena Sun Fresh FPS 50 200ml" Preco=49.99 SKU=468
+Nome="Kit Dove Hidratação Intensa Shampoo com 400ml + Condicionador com 200ml" Preco=23.9 SKU=22638
+Nome="Álcool Gel Biosalut com 60ml" Preco=1.89 SKU=78144
+Nome="Suplemento Vitamínico Tenavit com 30 comprimidos" Preco=81.8 SKU=71116
+Nome="Kit Gel Dental Infantil Condor Galinha Pintadinha com 3 unidades de 50g cada" Preco=10.99 SKU=79290
+Nome="Kit Aparelho de Barbear Bic Comfort 3 Sensitive Advance com 4 unidades + Espuma de Barbear" Preco=16.69 SKU=265158
+Nome="Floral Domínio da Ansiedade Bryo 30ML" Preco=22.5 SKU=413755
+Nome="Hidratante Labial Nivea Amora Shine com 4,8g" Preco=18.19 SKU=26682
+Nome="Acetilcisteína 20mg/ml Xarope Infantil 120ml EMS Genérico" Preco=23.49 SKU=73646
+Nome="Neosoro Cloridrato de Nafazolina 0,5mg/ml Solução Nasal Gotas 30ml" Preco=5.99 SKU=26878
+Nome="Gel Protetor de Calos e Bolhas Granado Pink com 45g" Preco=38.99 SKU=29158
+Nome="Puran T4 Levotiroxina Sódica 75mcg 30 comprimidos" Preco=16.4 SKU=89327
+Nome="Polaina Esportiva Branco Sigvaris UP 15-20 mmHg - Tam 37/40" Preco=205.1 SKU=167322
+Nome="Kit Seda Ceramidas Shampoo + Condicionador com 325ml cada " Preco=17.9 SKU=4887
+Nome="Cera Modeladora Capilar Bozzano Efeito Seco com 80g" Preco=27.74 SKU=119075
+Nome="Pó Descolorante Sunless Doura Pelos com 20g" Preco=6.59 SKU=139728
+Nome="Espuma de Barbear Gillette Mach3 Irritation Defense com 250ml" Preco=22.49 SKU=43157
+Nome="Imigran Succinato de Sumatriptana 100mg 2 comprimidos" Preco=77.99 SKU=93386
+Nome="Repelente de Insetos Infantil com Icaridina Repell Kids Needs Spray com 100ml" Preco=34.86 SKU=26137
+Nome="Suplemento Alimentar Biotina para Cabelo e Pele com 60 comprimidos" Preco=27.39 SKU=69354
+Nome="Água Oxigenada 20 volumes Márcia 900ml" Preco=16.09 SKU=179388
+Nome="Bomba Elétrica Extratora de Leite Materno 2 em 1 - MAM" Preco=879 SKU=401033
+Nome="Pilha Alcalinas Duracell MN21 / A23 / V23GA com 6 Unidades" Preco=81.02 SKU=278203
+Nome="COPO DE VIDRO DUPLO 450 ML:78061" Preco=129.9 SKU=168208
+Nome="Suplemento Nutricional Ensure Baunilha com 850g" Preco=134.49 SKU=113235
+Nome="Paracetamol 750mg 20 comprimidos EMS Genérico" Preco=6.75 SKU=73920
+Nome="Nebulizador Ultrassônico G-Tech Ultraneb Desk 2" Preco=235.99 SKU=78150
+Nome="Besilato de Anlodipino 5mg 30 comprimidos Cimed Genérico" Preco=8.53 SKU=33397
+Nome="Shampoo Prebiótico Go. Anticaspa com 150ml" Preco=37.48 SKU=70662
+Nome="Água de Coco em Pó Coco Pure Detox com 18g" Preco=5.55 SKU=73094
+Nome="Kit Go Man Tea Tree para Cabelo e Barba Shampoo 140ml + Condicionador 90g" Preco=39.9 SKU=152200
+Nome="Desodorante Alva Pedra Cristal Stick Sensitive 90g" Preco=52.4 SKU=116425
+Nome="Kit Cuidados" Preco=60.26 SKU=256785
+Nome="Kit 3 Óleo de Semente de Linhaça Dourada 700mg 120 cápsulas Unilife" Preco=72.9 SKU=167519
+Nome="Fita Dental Colgate Total Encerada com 25 metros" Preco=19.9 SKU=31050
+Nome="Tips para Alongamento de Unhas Belliz Curvatura C Natural 100 Unidades" Preco=34.51 SKU=303514
+Nome="Aquecedor De Mamadeira E Papinha 110W - Multikids" Preco=215.88 SKU=458256
+Nome="Polaramine Maleato de Dexclorfeniramina 2mg 20 comprimidos" Preco=25.5 SKU=22179
+Nome="Teste de Fertilidade Needs com 5 unidades" Preco=41.99 SKU=33900
+Nome="Absorvente Interno OB Sempre Livre  ProComfort Médio 16 unidades" Preco=12.69 SKU=44352
+Nome="Máscara Hidratante Pantene Hidratação Óleo de Coco com 600ml" Preco=23.79 SKU=111639
+Nome="Esmalte Vult 5Free #Hashtag #viralizou com 8ml" Preco=10.69 SKU=240824
+Nome="Suplemento Alimentar Lognis com 60 comprimidos" Preco=252.99 SKU=150266
+Nome="Energeron Nutraway 500 mg - 60 Cápsulas" Preco=22.9 SKU=351867
+Nome="Desodorante Infantil Roll-on Trá Lá Lá Kids Aventura com 65ml" Preco=12.19 SKU=150980
+Nome="Kit Seda Ceramidas Shampoo + Condicionador com 325ml cada " Preco=17.9 SKU=4887
+Nome="Fórmula Infantil NAN Sem Lactose com 400g" Preco=55.99 SKU=66028
+Nome="Hidratante Dermocalmante Granado Bebê Pele Sensível com 120ml" Preco=31.59 SKU=79558
+Nome="Sanfarma Confira Teste C/1 (kit C/12)" Preco=60 SKU=438551
+Nome="Protetor Solar Facial Neutrogena Sun Fresh FPS 70 40g" Preco=45.59 SKU=80223
+Nome="Firm UP Corporal  Creme Antiflacidez  Be Belle 200ML" Preco=254 SKU=118618
+Nome="Box c/12 Un - Hidratante de Cutículas 60ml - Belle Angel - I003" Preco=71.76 SKU=392889
+Nome="Naproxeno Sódico 550mg 10 comprimidos Neo Química Genérico" Preco=17.62 SKU=21464
+Nome="Aparelho para Medir Saturação de Oxigênio de Dedo Portátil" Preco=90.85 SKU=319307
+Nome="Shampoo Dermatológico Darrow Doctar Plus Anticaspa Intensivo com 120ml" Preco=63.99 SKU=117189
+Nome="Suplemento Alimentar Digeliv 30 comprimidos" Preco=89.9 SKU=409204
+Nome="Alicate de Unha Enox Ponta Reta com 1 unidade" Preco=69.26 SKU=303795
+Nome="Creme Alisante Amend Gold Black Essência Mel Cabelos Finos com 1 unidade" Preco=23.98 SKU=250303
+Nome="Home Spray Lavanda & Algodão 200 ml" Preco=69.9 SKU=228487
+Nome="Algodão em Bolas Cremer Baby Shark com 50g" Preco=8.29 SKU=110605
+Nome="Álcool Gel 70% Muriel com 100ml" Preco=2.76 SKU=78109
+Nome="Reparador e Hidratante Labial Profuse Nutrel com 7,5g" Preco=34.79 SKU=76185
+Nome="Creme de Tratamento Elseve Óleo Extraordinário Nutrição Intensa com 300g" Preco=16.69 SKU=60704
+Nome="Hidratante Corporal Vegan by Needs Jasmim + Pimenta Rosa com 200ml" Preco=24.99 SKU=73821
+Nome="Kit Aparelho de Pressão Infantil Cinza com Esteto Duosson Preto CJPA1702 P.A. Med" Preco=140 SKU=170541
+Nome="Escova de Cabelo Lanossi Flex Ventilada Preta com 1 unidade" Preco=56.79 SKU=110715
+Nome="Suplemento Alimentar Fermeté Skin Stem Coenzima Q10 + Vitamina C com 60 comprimidos" Preco=142.99 SKU=148704
+Nome="Fórmula Infantil Aptamil Profutura 2 Danone A partir de 6 meses 800g" Preco=87.99 SKU=5884
+Nome="Suplemento Alimentar Raia Nutri Kids Baunilha 350g" Preco=23.99 SKU=111203
+Nome="Atorvastatina Cálcica 80mg 30 comprimidos EMS Genérico" Preco=34.8 SKU=16250
+Nome="Secador de Cabelos Lenoxx Ion Pro 2600" Preco=154.86 SKU=278497
+Nome="Kit 3 Suco Amarelo Solúvel Apisnutri 300g Adoçado com Stévia" Preco=99.9 SKU=167450
+Nome="Atoderm creme mãos e unhas 50ml - Bioderma" Preco=58 SKU=310054
+Nome="Bolsa Térmica Gel Needs Pequena com 250ml" Preco=10.28 SKU=12222
+Nome="Fita Cirúrgica Microporosa Micropore - 2,5 cm x 4,5 m - Branca - Kit com 12 - MISSNER" Preco=52.37 SKU=181745
+Nome="Absorvente Intimus Ultrafino Tecnologia Antibacteriana Com Abas com 28 unidades" Preco=17.29 SKU=79982
+Nome="Creme Hidratante Para Cabelo Trim com 65g" Preco=19.99 SKU=44931
+Nome="Furoato de Mometasona 1mg/g Creme 20g Medley Genérico" Preco=27.99 SKU=12566
+Nome="Faixa Sub Patelar Needs Tamanho Único com 1 unidade" Preco=14.89 SKU=11418
+Nome="Protetor Solar Facial Bioré UV Bright Milk FPS 50 com 30ml" Preco=56.99 SKU=110384
+Nome="Enxaguante Antisséptico Bucal Elmex Anticáries com 400ml" Preco=39.9 SKU=39662
+Nome="Ácido Hialurônico 30 Cápsulas 65mg - Tiaraju	 - A" Preco=64.9 SKU=235949
+Nome="Whey Protein Vitafor Isofort Chocolate 900g" Preco=349.99 SKU=243271
+Nome="Angeliq Estradiol 1mg + Drospirenona 2mg 28 comprimidos" Preco=88.7 SKU=82393
+Nome="Seringa para Insulina BD Ultra-Fine 6mm 100UI com 10 unidades" Preco=37.79 SKU=41241
+Nome="Coloração Soft Color Wella 50 Castanho Claro com 1 unidade" Preco=19.89 SKU=39337
+Nome="Esmalte Cremoso Risqué Azul Pesadão 8ml" Preco=6.99 SKU=335257
+Nome="Chips Aassados Nutrigood Sabor Batata Doce com Coco com 25g" Preco=5.99 SKU=80134
+Nome="Esomeprazol Magnésico 20mg 28 comprimidos Ranbaxy Genérico" Preco=71.17 SKU=53167
+Nome="CREATINA 500MG 120 CAPSULAS - FLORA NATIVA - A" Preco=74.9 SKU=240580
+Nome="Protetor Absorvente para Seio Buba Baby Lavável com 6 unidades" Preco=41.19 SKU=166162
+Nome="Máscara Descartável Multilaser 3 Camadas HC400 Azul 50 Unidades" Preco=25.99 SKU=323767
+Nome="Hidratante Nutritivo Facial Vegan By Needs Tea Tree Toque Seco Sem Fragrância com 120ml" Preco=29.99 SKU=79074
+Nome="Suplemento Fisiogen Ferro 30 cápsulas" Preco=111.99 SKU=6939
+Nome="Absorvente Always Super Proteção Cobertura Suave com Abas 32 unidades" Preco=13.89 SKU=54100
+Nome="FIO DENTAL INFANTIL COM HASTE - FLOSSER PATRULHA CANINA GUM" Preco=24.61 SKU=404096
+Nome="Fórmula Infantil Aptanutri Premium 3 Danone 12 a 36 meses 800g" Preco=64.99 SKU=14913
+Nome="Almofadas De Hidrogel Proteção Mamilos Sensíveis Medela 4 Un" Preco=139 SKU=399030
+Nome="Vitamina C Targifor+C - 60 Comprimidos " Preco=102.51 SKU=67879
+Nome="Pó Lacre Universal Simple Organic com 14g" Preco=69.9 SKU=170114
+Nome="KIT 2 COLETORES MENSTRUAIS INCICLO A E B + 2 CÁPSULAS ESTER. COR: GIRASSOL" Preco=151 SKU=283372
+Nome="Máscara para Olhos Quintal Detoxificante com 2 Unidades" Preco=25.99 SKU=168754
+Nome="Nebulizador compressor G-Tech Nebdog 127V/230V" Preco=154.11 SKU=339723
+Nome="Sabonete Gel Antiacne Needs Facial Pele Oleosa ou Acneica 120g" Preco=14.9 SKU=7202
+Nome="Maracugina PI 840mg Noite com 20 comprimidos" Preco=47.5 SKU=81058
+Nome="Suplemento Alimentar Cloreto de Magnésio P.A. Catarinense Nutrição com 100 comprimidos" Preco=54.5 SKU=26602
+Nome="Venalot Creme Para Pernas e Pés com 240ml" Preco=62.85 SKU=53775
+Nome="Suplemento Alimentar em Pó Nutri Balance Raia Baunilha com 380g" Preco=39.99 SKU=110775
+Nome="Shower gel esfoliante Cristais de Quartzo e Argilas 180g" Preco=27.9 SKU=301266
+Nome="Água Micelar Cicatricure com 200ml" Preco=19.99 SKU=7328
+Nome="Máquina de Corte BaByliss PRO SuperMotor 220v" Preco=329 SKU=277023
+Nome="Sabonete Facial em Barra Neutrogena Deep Clean Limpeza Profunda com 80g" Preco=9.99 SKU=54858
+Nome="Hidratante Labial Nivea Morango Shine com 4,8g" Preco=18.19 SKU=72996
+Nome="Levotiroxina Sódica 100mcg 30 comprimidos Merck Genérico" Preco=5.49 SKU=45210
+Nome="Gel de Limpeza Facial Vichy Normaderm Phytosolution Pele Oleosa a Acneica 300g" Preco=67.39 SKU=70109
+Nome="Válvula AirFree para Mamadeira Philips Avent Anti-Colic" Preco=31.19 SKU=75662
+Nome="Extrato de Própolis Verde SEM CERA - 30ml" Preco=22.9 SKU=203848
+Nome="Suplemento Alimentar Bifilac Geflora com 7 Cápsulas" Preco=85.99 SKU=117312
+Nome="Spray Nasal Budesonida 64mcg 120 doses EMS Genérico" Preco=27.49 SKU=26165
+Nome="Fralda Pampers Confort Sec G - 70 Unidades" Preco=87.49 SKU=9166
+Nome="Fluconazol 150mg 2 cápsulas Cimed Genérico" Preco=7.15 SKU=13666
+Nome="Óleo de Rosa Mosqueta Musquée 50ml" Preco=52.99 SKU=73281
+Nome="Needs Sal Amargo com 30g" Preco=4.59 SKU=76973
+Nome="Atadura Elástica Kinesiosport Autoaderente Preta 7,5cm x 4,5m com 1 unidade" Preco=22.99 SKU=263559
+Nome="Máscara de Dormir Avengers - ETITOYS" Preco=5.88 SKU=220891
+Nome="Snack Nestlé  Mucilon Tomate com 35g" Preco=4.19 SKU=119007
+Nome="Água Adicionada de Sais Smartwater com 591ml" Preco=6.45 SKU=53316
+Nome="Condicionador Huggies Chá de Camomila com 200ml" Preco=17.99 SKU=52276
+Nome="Chá Herbal Tea biO2 Capim Cidreira, Camomila e Erva Doce com 13 sachês" Preco=10.59 SKU=148104
+Nome="Gel Lubrificante Íntimo Needs Sem Parabenos com 125g" Preco=19.9 SKU=119087
+Nome="Cotonetes Hastes Flexíveis Pote com 150 unidades" Preco=9.29 SKU=20200
+Nome="Desodorante Stick Kristall Sensitive com 90g" Preco=63.59 SKU=148889
+Nome="Desodorante Rexona Men Impacto Aerossol Antitranspirante com 150ml" Preco=15.9 SKU=15337
+Nome="Shampoo Dove Hidratação Intensa com Infusão de Oxigênio com 200ml" Preco=17.99 SKU=22341
+Nome="Pasta de Dente Colgate Sensitive Pro-Alívio Imediato Gengiva com 140g" Preco=17.99 SKU=117981
+Nome="Chupeta Philips Avent Ultra Air 0 a 6 Meses Azul com Desenho com 1 unidade" Preco=34.39 SKU=60095
+Nome="Kit Gel Dental Malvatrikids F-Infantil Anticárie Tutti-Frutti com 3 Unidades" Preco=39.8 SKU=117635
+Nome="Amamente Absorvente P/ Seios C/30" Preco=25.77 SKU=452714
+Nome="Polaina Esportiva Azul Sigvaris UP 15-20 mmHg - Tam 33/36" Preco=205.1 SKU=167325
+Nome="Pilha AAA Duracell Alcalina com 16 unidades" Preco=87.99 SKU=76841
+Nome="Escova de Dente Infantil G.U.M Patrulha Canina Timer Light 3+ Anos Macia com 1 unidade" Preco=24.99 SKU=53388
+Nome="Geleia de Amendoim com Chocolate  500g" Preco=29.9 SKU=302389
+Nome="Suplemento Alimentar Pantogar Neo - 60 Cápsulas" Preco=116.99 SKU=15755
+Nome="Bepantol Derma Solução Líquida Restauradora para os Cabelos com 50ml" Preco=15.69 SKU=16237
+Nome="Suplemento Alimentar Vitamina E Biolab 400mg 30 Cápsulas" Preco=19.89 SKU=311750
+Nome="Carrinho de Bebê Guarda-Chuva Pocket Azul - Multikids Baby" Preco=399 SKU=399009
+Nome="Creme Modelador Capilar Bozzano com 1400g" Preco=22.99 SKU=119077
+Nome="Dicloridrato de Levocetirizina 5mg 10 comprimidos Eurofarma Genérico" Preco=22.79 SKU=33293
+Nome="Vitafor End Energy Gel Banana 30g C/12 (kit C/12)" Preco=983.12 SKU=475383
+Nome="Ômega 3 Infantil Cereja 3 X 60 Cápsulas 250mg - Linho Lev	 - A" Preco=93.9 SKU=237113
+Nome="Tips para Alongamento de Unhas Belliz Square 100 Unidades" Preco=34.51 SKU=303435
+Nome="Kit Giant Mass 3kg + Glutamina 300g + Bcaa 100g Tang + Creatina 100g + Coqueteleira - Bodybuilders Sabor: Morango" Preco=120 SKU=407579
+Nome="Kit QOD Barber Shop Premium Special Beer Shampoo com 220ml + Pomada Capilar com 70g" Preco=40.59 SKU=78367
+Nome="Mordedor De Agua Mãozinha Buba Baby" Preco=18.55 SKU=257996
+Nome="Whafer +Mu Choco Wheyfer Chocolate Branco 25g" Preco=7.49 SKU=243081
+Nome="Desodorante para os pés Tenys Pé Jato Seco Canforado com 150ml" Preco=17.59 SKU=16759
+Nome="Gel Antisséptico Hands & Feet Skafe com Aloe Vera Secagem Rápida com 52g" Preco=1.11 SKU=77725
+Nome="Apoio Para Flexão Giratório Kikos" Preco=75.35 SKU=130180
+Nome="Seringa para Insulina BD Ultra-Fine 6mm 100UI com 10 unidades" Preco=37.79 SKU=41241
+Nome="Astaxantina com 60 cápsulas" Preco=119.99 SKU=77709
+Nome="Seringa para lavagem nasal infantil 10ml - NoseWash" Preco=49.9 SKU=417077
+Nome="Expector 0,4mg/ml + 4mg/ml + 20mg/ml Xarope com 120ml" Preco=23.78 SKU=66440
+Nome="Redulac Lactase Intolerância Lactose 9000 Fcc 2x60 Cápsulas	 - A" Preco=111.9 SKU=235529
+Nome="Óleo de Limpeza Demaquilante Bioré Refil com 210ml" Preco=49.79 SKU=110382
+Nome="Suplemento Alimentar Silício Orgânico Nouve Cabelo Pele e Unha - 60 Cápsulas" Preco=175.99 SKU=69655
+Nome="Pastilha Valda C com 24g" Preco=18.19 SKU=7172
+Nome="Máscara Capilar Dove Fator de Nutrição 80+ com 300g" Preco=25.79 SKU=74773
+Nome="Paracetamol 500mg + Fosfato de Codeína 30mg 12 comprimidos Biolab Genérico" Preco=15.09 SKU=21540
+Nome="Sabonete Líquido Actine Control Pele Oleosa com 240ml" Preco=61.79 SKU=252967
+Nome="Novalgina Dipirona Sódica 1g 20 comprimidos" Preco=34.98 SKU=331137
+Nome="Floral Therapi Adaptação Escolar - 30ml" Preco=18.8 SKU=310276
+Nome="Condicionador Herbal Essences Bio:Renew Leite de Coco com 400ml" Preco=25.43 SKU=76398
+Nome="Álcool Gel Antisséptico Lipson Aloe Vera com 220g" Preco=2.4 SKU=78093
+Nome="Esteira Ergométrica Kikos KX8700IC 4.0 Hp 20 Km/h" Preco=35990 SKU=406527
+Nome="Base Amarga para Unhas Blant 2x1 8,5ml" Preco=13.99 SKU=336294
+Nome="Óleo de Coco Sem sabor 200ml Qualicôco" Preco=19.9 SKU=167494
+Nome="Fralda Geriátrica Needs ClassicCare XG Unissex 14 unidades" Preco=42.9 SKU=218210
+Nome="Irrigador Oral Clearpik Compact 500ml Multilaser HC052 - Bivolt" Preco=163.01 SKU=111778
+Nome="Máscara de Tratamento Love Beauty And Planet Curls Intensify Manteiga de Murumuru & Rosa com 190g" Preco=32.99 SKU=51184
+Nome="Batom Líquido Matte Vegano Max Love 12H Cor 63 - 4ml" Preco=5.51 SKU=129939
+Nome="Algodão Hidrófilo Cremer com 500g" Preco=37.04 SKU=66762
+Nome="ESTERILIZADOR DE MICROONDAS - PHILIPS AVENT" Preco=249.99 SKU=311146
+Nome="Shampoo Seda by Niina Secrets Limpeza Micelar com 325ml" Preco=13.99 SKU=44118
+Nome="Barra de Proteína Vegana biO2 Protein Alfarroba e Pasta de Amendoim 45g" Preco=11.59 SKU=7796
+Nome="Trocador de Fraldas Prático Fundo do Mar Baby Joy" Preco=59.9 SKU=358085
+Nome="Suplemento Alimentar Pealiv 300mg com 30 Comprimidos" Preco=116.2 SKU=237795
+Nome="Nathy Algodão Hidrófilo Multiuso Kit de 5 Saquinhos Com 100g" Preco=43.78 SKU=364244
+Nome="Absorvente para Incontinência Urinária Noturno Tena Lady Discreet Maxi Night com 6 Unidades + Brinde" Preco=23.9 SKU=138751
+Nome="Sérum Pomander Face Sagrado Longevidade com 30ml" Preco=149 SKU=236120
+Nome="Órtese com Tala para Punho Bilateral Needs Tamanho Único" Preco=37.89 SKU=11434
+Nome="Lâmina de Barbear Enox Platinum Duplo Fio com 4 unidades" Preco=2.83 SKU=76545
+Nome="Água de Coco em Pó Coco Pure com Gengibre e Limão com 18g" Preco=5.55 SKU=73092
+Nome="Monitor de Pressão Digital de Braço Automático G-Tech BSP11 com 1 unidade" Preco=213.99 SKU=172250
+Nome="Chá Nutrigood Boa Amamentação com 10 sachês" Preco=9.99 SKU=110399
+Nome="Máscara de Lola Be(m)dita Ghee Reconstrução Papaya e Queratina Vegetal com 100g" Preco=22.19 SKU=40552
+Nome="Adoçante em Pó Linea Eritritol 100% Natural com 40 envelopes de 5g" Preco=34.39 SKU=79152
+Nome="Composto Lácteo Ninho Forti+ Zero Lactose com 380g" Preco=17.24 SKU=3792
+Nome="Creme Capilar Alisante Lola Hair Vintage Girls com 100g" Preco=27.69 SKU=55632
+Nome="Água Oxigenada Cremosa Lightner 40 Volume com 100ml" Preco=7.15 SKU=160798
+Nome="Oxímetro de Pulso Portátil Adulto Curva YK-80B Preto - BIC" Preco=226.46 SKU=118447
+Nome="Agua Oxigenada 40V Igora 60Ml" Preco=15.09 SKU=167152
+Nome="Óleo de Semente de Abóbora Pazze 250ml" Preco=44.9 SKU=171292
+Nome="Absorvente Sempre Livre Adapt Plus Cobertura Suave Com Abas com 32 unidades" Preco=14.19 SKU=22518
+Nome="Munhequeira Elástica Tensor Tamanho Único Ajustável com 1 par" Preco=27.79 SKU=83676
+Nome="Gel Fixador Condicionante Bozzano Ação Prolongada Mega Forte Fixação 4 com 300g" Preco=12.99 SKU=38339
+Nome="Fórmula Infantil Kabrita 2 À Base de Leite de Cabra com 400g" Preco=109.9 SKU=38777
+Nome="Best Whey Atletica Nurition Total Clean Limão com Gengibre 350ml" Preco=14.99 SKU=178103
+Nome="Bomba Coletora de Leite Materno 100% Silicone e Flor Haakaa 100 ml" Preco=119 SKU=308615
+Nome="Kit Barba Forte Shampoo Barba e Bigode Dom Juan com 250ml + Bálsamo Danger Beard com 170g" Preco=59.9 SKU=160816
+Nome="Farinha de Amêndoas Fit Food 200G" Preco=41.32 SKU=174663
+Nome="Suplemento Alimentar Extima Chocolate com 600g" Preco=224.99 SKU=138908
+Nome="Gel de Barbear Gillette Mach3 Complete Defense Suave com 198g" Preco=22.49 SKU=43158
+Nome="Shampoo Anticaspa Darrow Klinse com 140ml" Preco=56.99 SKU=62560
+Nome="Lenços Umedecidos Pampers Cheirinho de Bebê com 48 unidades" Preco=9.25 SKU=22135
+Nome="Desodorante Vegano Chá Verde 12 X 120ml - Organico Natural	 - A" Preco=327.9 SKU=234429
+Nome="Cran-B CR Herbarium Cranberry com 30 comprimidos" Preco=86.49 SKU=21888
+Nome="Allexofedrin Cloridrato de Fexofenadina 180mg 10 comprimidos" Preco=42.39 SKU=37858
+Nome="Kit Manicure Branco" Preco=28.42 SKU=258402
+Nome="Elástico para Cabelo Triss/Needs Scrunchie de Veludo Cor Cinza com 1 unidade" Preco=8.49 SKU=81328
+Nome="Fio Dental Sanifill Clássico Leve Mais Pague Menos com 125 metros" Preco=8.6 SKU=111179
+Nome="Dramin B6 Dimenidrinato 50mg + Vitamina B6 10mg 30 comprimidos" Preco=19.89 SKU=66269
+Nome="Polaramine Maleato de Dexclorfeniramina 2mg 20 comprimidos" Preco=25.5 SKU=22179
+Nome="Kit Giovanna Baby Flores Body Splash com 1 Loção Hidratante com 50ml + 2 Sabonetes em Barra com 90g cada" Preco=40.99 SKU=228631
+Nome="Loção Hidratante Infantil Hidra Kids com 200g" Preco=101.99 SKU=317509
+Nome="Creme de Pentear TRESemmé Cachos com 400ml" Preco=14.99 SKU=29297
+Nome="Inalador Multilaser Compressor NebPlus HC110" Preco=152.99 SKU=117745
+Nome="Esmalte Vult 5Free #Hashtag #vidafitness Efeito Gel com 8ml" Preco=11.79 SKU=240823
+Nome="Sanfarma Confira Teste De Gravidez Prático C/1 (kit C/06)" Preco=66.32 SKU=438552
+Nome="Rosuvastatina Cálcica 5mg 30 Comprimidos Althaia Genérico" Preco=19 SKU=69752
+Nome="Creme para Mãos Urtekram Vegano e Orgânico Sem Perfume 75ml" Preco=78.75 SKU=112659
+Nome="Secador De Cabelo Profissional Essenza Gerador De Ions" Preco=429.68 SKU=279251
+Nome="Repelente Off! Kids Loção 200ml" Preco=20.69 SKU=5892
+Nome="Absorvente Intimus Noturno Cobertura Seca Com Abas com 30 unidades" Preco=26.69 SKU=76374
+Nome="Lisador Dipirona Sódica 1g 20 comprimidos" Preco=27.9 SKU=22764
+Nome="Shampoo Anticaspa Profuse Zetar Diário" Preco=67.79 SKU=59335
+Nome="Hidratante Corporal Vegan by Needs Bergamota + Alecrim com 200ml" Preco=24.99 SKU=73820
+Nome="Suplemento Alimentar Glucerna Sabor Baunilha em Pó com 850g" Preco=147.99 SKU=8606
+Nome="Escova de Cabelo Masculina de Bolso Oval Marco Boni com 1 unidade" Preco=2.79 SKU=27865
+Nome="Creme para Pentear Seda Cocriações Cachos Definidos com 300ml" Preco=8.95 SKU=50518
+Nome="Protetor Solar NeoStrata Minesol Oil Control FPS 30 Sérum Textura Invisível com 40g" Preco=69.99 SKU=73991
+Nome="Vitamina C Bio-C Sabor Laranja 30 comprimidos" Preco=28.89 SKU=33285
+Nome="Kit Cuidados Pessoais Buba Baby Rosa com Estojo com 5 Peças" Preco=107.9 SKU=166192
+Nome="Removedor de Esmalte à Base de Acetona Zulu Seduction com 90ml" Preco=4.19 SKU=57422
+Nome="Caixa com 50 Máscaras Cirúrgicas 3 Camadas Branco Multilaser Saude - HC366" Preco=10.23 SKU=228378
+Nome="Nebulizador Ultrassonico Pulmosonic Star Luxo II" Preco=375 SKU=432662
+Nome="Teste de Gravidez Needs Semanas com 1 unidade" Preco=29.99 SKU=119001
+Nome="Suplemento Alimentar Vitafor Termoplus Laranja com Gengibre 240g" Preco=148.99 SKU=243448
+Nome="Suplemento Alimentar Infantil Raia Nutri Kids Chocolate 350g" Preco=23.99 SKU=111201
+Nome="Fita de Kinésio 3M Futuro com 1 rolo" Preco=78.99 SKU=15221
+Nome="Maracugina 420mg com 20 Comprimidos Revestidos" Preco=32.27 SKU=152555
+Nome="Lixa para Unha Prokits Tradicional 13cm com 9 Unidades" Preco=1.35 SKU=269284
+Nome="Pinca Belliz Black Silver Gold" Preco=22.09 SKU=190061
+Nome="Gel de Limpeza Facial Vichy Normaderm Phytosolution Pele Oleosa a Acneica 300g" Preco=67.39 SKU=70109
+Nome="Esmalte Cremoso Impala A Cor da Moda 7,5ml - Descomplicado" Preco=4.2 SKU=416064
+Nome="Maleato de Enalapril 10mg 30 comprimidos Cimed Genérico" Preco=4.73 SKU=33403
+Nome="Colher Medidora de Aço Inox" Preco=58.9 SKU=168212
+Nome="Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos Kit 2 unidades com 800g cada" Preco=71.38 SKU=33951
+Nome="Protetor Labial Profuse Hidradeep Manteiga de Karité FPS 30 com 5,5g" Preco=45.58 SKU=13758
+Nome="Protetor Solar Corporal Sundown Praia e Piscina FPS 50 com 200ml" Preco=40.39 SKU=57617
+Nome="Home Spray Alegria  Óleo Essencial De Limão Siciliano, Bergamota, Grapefruit & Capim Limão | 200 Ml " Preco=188 SKU=334689
+Nome="Aparador de Pelos Philips NT3650/16 Nariz Orelhas e Sobrancelhas" Preco=145.5 SKU=261838
+Nome="Seringa Descartável BD 10ml com Agulha 25MM x 7MM" Preco=8.2 SKU=1215
+Nome="Bateria Litio Cr2032" Preco=12.24 SKU=175592
+Nome="Chá Mate Nutrigood Sabor Limão com 250ml" Preco=5.99 SKU=153522
+Nome="Corretivo Líquido Maybelline Fit Me Cor 20 Médio com 10ml" Preco=42.79 SKU=6002
+Nome="Absorvente Interno Intimus Médio 16 unidades" Preco=18.9 SKU=46875
+Nome="Sérum Facial Men Skin Olhos Lifting com 10g" Preco=78 SKU=239571
+Nome="Creme Cavilon 3M Barreira Durável com 92g" Preco=169.9 SKU=141744
+Nome="Alopurinol 300mg 30 comprimidos Medley Genérico" Preco=14.39 SKU=36970
+Nome="Kit Loção Hidratante Nivea Body Milk com 2 Unidades" Preco=33.79 SKU=46045
+Nome="Condor Lilica Ripilica Fio Dental 25m" Preco=15.48 SKU=480120
+Nome="Elseve Óleo Extraordinário Tratamento Reconstrutor com 100ml" Preco=25.49 SKU=36517
+Nome="Enxaguante Antisséptico Bucal Listerine Antitártaro Menta com 500ml" Preco=22.29 SKU=21604
+Nome="Narix Cloridrato de Nafazolina 0,5mg/ml Solução Nasal 30ml" Preco=3.79 SKU=38057
+Nome="Água Micelar Nivea Limpeza 7 em 1 Efeito Matte 200ml" Preco=25.49 SKU=73115
+Nome="Protetor de Mamilo de Silicone Medela G 24mm 2 Unidades" Preco=51.59 SKU=110751
+Nome="Condicionador Baby Dove Cabelos Claros 200ml" Preco=12.99 SKU=11009
+Nome="Difusor de Ambiente Glade Frescor de Águas Florais 100ml" Preco=17.95 SKU=179181
+Nome="Kit Mamadeira MAM Easy Start Starter Set Azul com 2 unidades" Preco=124 SKU=79095
+Nome="Barra de Proteína Integralmedica Protein Crisp Trufa de Maracujá 45g" Preco=11.19 SKU=17707
+Nome="Polinize Florais Reequilíbrio dos Chakras Florais de Bach com 30ml" Preco=46.19 SKU=75895
+Nome="Água de Aloe Nutritiva Livealoe Natural com Ácido Hialurônico 120ml " Preco=62.42 SKU=112554
+Nome="Vitafer" Preco=14.89 SKU=27603
+Nome="Probiótico ZincoPro 30 cápsulas" Preco=123.99 SKU=44225
+Nome="Carrinho de Passeio - Goody Plus Graphite - Chicco" Preco=2799 SKU=277378
+Nome="Leave-In Renovador de Pontas Vichy Dercos Kera-Solutions com 50ml" Preco=66.99 SKU=70121
+Nome="DESODORANTE STICK MINI CRISTAL SENSITIVE ALVA 60G:23985" Preco=69 SKU=134954
+Nome="Composto Menopausa Diurno Florais do Cerrado 50 ml" Preco=54.3 SKU=310496
+Nome="Budesonida 32mcg 120 doses EMS Genérico" Preco=13.49 SKU=26164
+Nome="Ácido Hialurônico 2 X 30 Cápsulas 65mg - Tiaraju	 - A" Preco=109.9 SKU=236080
+Nome="Fralda Pampers Confort Sec XXG - 60 Unidades" Preco=87.49 SKU=76562
+Nome="Protetor de Mamilos em Silicone Mamy - Lillo" Preco=23.9 SKU=501189
+Nome="Oxímetro de dedo digital tela LED" Preco=68.9 SKU=416610
+Nome="Compressa de Gaze Estéril Needs com 10 unidades" Preco=2.89 SKU=13625
+Nome="Seringa Descartável BD 10ml com Agulha 25MM x 7MM" Preco=8.2 SKU=1215
+Nome="Gel de Limpeza Facial Avène Cleanance Intense 300g" Preco=83.9 SKU=117183
+Nome="CAIXA 24 GARRAFAS DE ÁGUA ALCALINA PH8 - JUST WATER -  330ML:85113" Preco= SKU=196972
+Nome="Sabonete Líquido Facial Neutrogena Deep Clean Grapefruit com 150g" Preco=24.99 SKU=14678
+Nome="Snacks Good Soy Bacon com 25g" Preco=2.99 SKU=270811
+Nome="Tintura Semi-Permanente Casting Creme Gloss 700 Louro Natural" Preco=26.99 SKU=33289
+Nome="Escova Limpadora de Língua Tung Brush com 1 unidade" Preco=28.49 SKU=16112
+Nome="Hastes Flexíveis Needs com 150 unidades" Preco=5.99 SKU=6650
+Nome="Gel Lubrificante Íntimo K-Y Original com 50g" Preco=22.79 SKU=76423
+Nome="Amamente Absorvente P/ Seios C/30 (kit C/06)" Preco=146.74 SKU=452780
+Nome="Creatina Monohidratada 0% Sódio 3000mg 100g Max Titanium" Preco=77.9 SKU=410170
+Nome="Novalgina Dipirona Monoidratada 1g 10 comprimidos" Preco=21.88 SKU=68440
+Nome="Puran T4 Levotiroxina Sódica 25mcg 30 comprimidos" Preco=13.42 SKU=89301
+Nome="Esomeprazol Magnésico 40mg 28 Comprimidos Medley Genérico" Preco=161.03 SKU=359565
+Nome="KIT 2 COLETORES MENSTRUAIS INCICLO TEEN+CÁPSULA ESTER. COR: LAVANDA" Preco=139 SKU=283359
+Nome="Gel Dental Infantil Malvatrikids Júnior Anticárie com 70g" Preco=15.89 SKU=11955
+Nome="Tonalizante Hidratante C.Kamura Color Intense Banho de Brilho Champanhe com 100g" Preco=30.19 SKU=250650
+Nome="Cloridrato de Bromexina 8mg/5ml Xarope 120ml Medley Genérico" Preco=22.79 SKU=1052
+Nome="Mordedor Chocalho Amigos Animais Zebra - Winfun" Preco=35.88 SKU=177741
+Nome="A BANHEIRA MAHOGANY É O ACESSÓRIO PERFEITO PARA COMPOR KITS DE PRESENTE E DECORAR O LAVABO. ACOMODA ATÉ DOIS PRODUTOS MAHOGANY DE TAMANHO PEQUENO. SUR" Preco=27.9 SKU=111939
+Nome="Papinha Orgânica Nestlé Naturnes Carne, Feijão e Legumes com 115g" Preco=6.99 SKU=119016
+Nome="Suplemento de Arginina Reforgan 250mg com 30 comprimidos" Preco=87.99 SKU=22956
+Nome="Álcool Gel para Higiene das Mãos Nupill com 60ml" Preco=1.95 SKU=6555
+Nome="Azelan 150mg/g Gel 30g" Preco=67.39 SKU=31421
+Nome="Suplemento Alimentar Souvenaid Danone Sabor Baunilha com 4 unidades de 125ml" Preco=89.72 SKU=39101
+Nome="Álcool em Gel 70% BioSoft Gel Higienizador Lemon Fresh com 55g" Preco=1.11 SKU=78322
+Nome="Suplemento Alimentar Ofolato para Gestantes 90 comprimidos" Preco=158.99 SKU=33711
+Nome="Condicionador Inoar 4D Antifrizz com 400ml" Preco=18.99 SKU=76232
+Nome="Almofada Térmica Adesiva BodiHeat com 1 unidade" Preco=11.19 SKU=41753
+Nome="Algodão Caixa Apolo 25G" Preco=4.09 SKU=188860
+Nome="Dexilant Dexlansoprazol 60mg 30 cápsulas" Preco=93.99 SKU=11367
+Nome="Fralda Geriátrica Tena Slip Noturna G Unissex 16 unidades" Preco=70.49 SKU=317067
+Nome="Colar Cervical de Espuma Needs Tamanho M com 1 unidade" Preco=28.99 SKU=11395
+Nome="Mentos Kiss Xtreme Frozen Mint com 35g" Preco=15.39 SKU=7179
+Nome="Antisséptico Tópico Violeta Genciana Needs com 30ml" Preco=5.49 SKU=3835
+Nome="Creme esfoliante Mãos e Pés 230g" Preco=30.9 SKU=301278
+Nome="Suplemento Vitamínico Tacitá Unhas e Cabelos - 30 Comprimidos" Preco=110.99 SKU=8216
+Nome="Protetor Solar Facial Eucerin Sun Oil Control FPS 60 52g" Preco=62.99 SKU=4280
+Nome="Kit 2uni Propco Spray de Própolis, Mel e Guaco (35ml) - Baldoni" Preco=35.24 SKU=410555
+Nome="Loção Hidratante Corporal Nivea Milk Hidratação Profunda Pele Seca 400ml" Preco=16.59 SKU=72849
+Nome="Chá Nutrigood Boa Digestão com 10 sachês" Preco=9.99 SKU=110396
+Nome="Creme Multifuncional para Cabelo Yamasterol Barbosa e D-Pantenol com 200g" Preco=4.63 SKU=110366
+Nome="Lactase Redulac Intolerância A Lactose 9000 Fcc 180 Capsulas	 - A" Preco=165.9 SKU=238481
+Nome="Vitamina E 400mg" Preco=30.19 SKU=75328
+Nome="Paracetamol 500mg + Fosfato de Codeína 30mg 24 comprimidos Biolab Genérico" Preco=32.99 SKU=11171
+Nome="Polaina Esportiva Preto Sigvaris UP 15-20 mmHg - Tam 33/36" Preco=205.1 SKU=167342
+Nome="Fórmula Infantil Ninho Fases 1+ 800g" Preco=37.05 SKU=362536
+Nome="Protetor Solar Labial Needs Hidratante FPS20 com 3,6g" Preco=10.71 SKU=20707
+Nome="Suplemento Alimentar Pealiv 600mg com 30 Comprimidos" Preco=259.99 SKU=237796
+Nome="Escova de Dente para Bebês MAM Baby's Brush 6 Meses+ Azul com 1 unidade" Preco=24 SKU=77265
+Nome="Bolsa de Água Quente Mercur G com capacidade para 2 litros " Preco=89.49 SKU=98433
+Nome="Topz Algodão Bolinha 90g" Preco=14.98 SKU=460041
+Nome="Elseve Óleo Extraordinário Tratamento Reconstrutor com 100ml" Preco=25.49 SKU=36517
+Nome="Kit 3 Óleo de Semente de Linhaça Dourada 1200mg 120 cápsulas Unilife" Preco=112.9 SKU=167521
+Nome="Hidratante Corporal Intensivo Neutrogena com Glicerina Sem Fragrância 500ml" Preco=47.94 SKU=3379
+Nome="Hidroclorotiazida 25mg 30 comprimidos Medley Genérico" Preco=3.03 SKU=43867
+Nome="Fórmula Infantil NANLAC Supreme Nestlé 1 a 3 anos 800g" Preco=66.99 SKU=147766
+Nome="Unhas Autoadesivas Belliz Black 24 Unidades" Preco=39.72 SKU=303577
+Nome="Pasta de Dente Colgate Sensitive Pro-Alívio Reparação Completa com Flúor de 110g" Preco=16.59 SKU=15655
+Nome="Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 com 400ml" Preco=20.49 SKU=27588
+Nome="KIT Bulking Protein 6kg + POWER Creatina 100g + Glutamina 500g + Coqueteleira - Bodybuilders Sabor: Morango" Preco=259.9 SKU=407574
+Nome="Barra de Proteína biO2 Lightness Limão Siciliano 45g" Preco=12.9 SKU=377607
+Nome="Base e Esmalte Fortalecedor de Unhas LaKesia Duo Vinho Jabuticaba 9ml" Preco=33.99 SKU=380615
+Nome="Polaramine Maleato de Dexclorfeniramina 0,4mg/ml Solução Oral Sabor Frutas 120ml" Preco=29.83 SKU=88345
+Nome="Elástico para Cabelo Triss/Needs Scrunchie de Veludo Cor Preta com 1 unidade" Preco=8.49 SKU=81329
+Nome="Suplemento de cafeína 60 cápsulas de 200mg" Preco=19.9 SKU=318783
+Nome="Água de Coco em Pó Coco Pure com Abacaxi e Hortelã com 18g" Preco=5.55 SKU=73088
+Nome="Esteira elétrica Academia Polimet EP-10K 110V/220V preta" Preco=2239.9 SKU=391991
+Nome="Talco para os Pés Tenys Pé Canforado" Preco=9.25 SKU=29175
+Nome="Desodorante Vegano Chá Verde 4 X 120ml - Organico Natural	 - A" Preco=112.9 SKU=234438
+Nome="Kit 3 Ômega 3 Mix 3-6-9 1000mg Equaliv 60 cápsulas" Preco=277.9 SKU=169853
+Nome="Suplemento Alimentar Vitafor Coenzima Q10 com 60 cápsulas" Preco=142 SKU=71125
+Nome="Carga para Aparelho de Barbear Gillette Mach3 Sensitive com 8 unidades" Preco=85.49 SKU=8034
+Nome="Colônia Granado Bebê Lavanda com 100ml" Preco=67.29 SKU=149743
+Nome="Atenolol 25mg 30 comprimidos Medley Genérico" Preco=3.73 SKU=49814
+Nome="Dipirona Monoidratada 500mg 30 comprimidos Prati Donaduzzi Genérico" Preco=15.99 SKU=110532
+Nome="Neutralizador 9 em 1 i9 Color Kpriche 9 ações 300ml" Preco=47.25 SKU=257019
+Nome="Esterilizador a Vapor Para Micro-ondas Clean & Dry - BB1137" Preco=94.9 SKU=128900
+Nome="Nebulizador Compressor G-Tech Nebdog Azul" Preco=249.5 SKU=278988
+Nome="Chupeta Kuka Ortodôntica Soft Azul Fase 2 com 1 unidade" Preco=22.59 SKU=70925
+Nome="Shampoo Esfoliante Anticaspa Vichy Dercos Micro Peel com 150ml" Preco=74.49 SKU=78810
+Nome="Fonte Carregador Para Extrator Elétrico Swing  - Medela" Preco=299 SKU=400301
+Nome="Pitavastatina Cálcica 2mg 30 comprimidos Eurofarma Genérico" Preco=58.99 SKU=77006
+Nome="Protetor Solar Facial Avène Mat Perfect Fluido Clareador Média FPS70 com 40g" Preco=72.99 SKU=151426
+Nome="Aqua Óleo para os Cabelos Herbal Essences Babosa & Extrato de Coco com 100ml" Preco=24.47 SKU=117817
+Nome="Kit QOD Barber Shop Killer Shampoo com 220ml + Pomada Modeladora com 70g + Nécessaire" Preco=58.59 SKU=110754
+Nome="Mini Escova Raquete Marco Boni Wave para Bolsa com 1 unidade" Preco=15.99 SKU=3795
+Nome="Suplemento Needs Vita Ômega 3 com 120 Cápsulas" Preco=49.99 SKU=18288
+Nome="Suplemento Alimentar Raia Vitamina C 500mg + D 400UI + Zinco 10mg 30 comprimidos" Preco=27.99 SKU=78766
+Nome="Suplemento Alimentar Nutridrink Protein Sem Sabor com 350g" Preco=62.79 SKU=40615
+Nome="Lenço Umedecido Needs Baby Recém-Nascidos com 96 unidades" Preco=16.29 SKU=75852
+Nome="Super Ampola Capilar Vichy Dercos Energizante Tratamento Antiquebra com 40ml" Preco=48.59 SKU=32511
+Nome="Geleia de Amendoim com Chocolate  1,005kg" Preco=39.9 SKU=302381
+Nome="Adoçante em Pó Zero-Cal Eritritol com 250g" Preco=42.99 SKU=110391
+Nome="Protetor Termoativo para Cabelos Inoar Liso Mágico Progressivo Fluido com 200ml" Preco=21.59 SKU=110662
+Nome="Adoçante em Pó Vitafor Xilitol Family com 250g" Preco=69 SKU=243355
+Nome="Kit 3 Suprasoy Sem Lactose Original - 300G" Preco=82.37 SKU=235784
+Nome="Fio Dental Oral-B Expert SuperFloss com 50 unidades" Preco=20.39 SKU=31196
+Nome="DETECTOR FETAL PORTTIL DIGITAL FD200B MD:2239" Preco=916.98 SKU=119590
+Nome="Anilha Pintada para Musculação 2 Kg" Preco=29.9 SKU=313467
+Nome="Suplemento Vitamínico Complexo B12 com 20 comprimidos" Preco=20.96 SKU=23984
+Nome="Kit Carga para Aparelho de Barbear Gillette Mach3 Sensitive com 4 Unidades + Mini Espuma de Barbear" Preco=46.99 SKU=240811
+Nome="Removedor de Esmaltes Dailus Sem Acetona Vegano 90ml" Preco=7.9 SKU=381578
+Nome="Loção Antiqueda Pielus Mantecorp com 120ml" Preco=79.9 SKU=46311
+Nome="Cloridrato de Metformina 850mg 30 comprimidos Prati Donaduzzi Genérico" Preco=5.35 SKU=57313
+Nome="Esmalte Vult 5Free #Hashtag #lookdodia Efeito Gel com 8ml" Preco=10.9 SKU=240933
+Nome="Polinize Florais Sensação Falta de Memória Florais de Bach com 30ml" Preco=43.59 SKU=75903
+Nome="Condicionador Vichy Dercos Energizante Antiqueda com 150ml" Preco=90.99 SKU=113236
+Nome="Bálsamo Emoliente Mustela Bebê Stelatopia para Pele Atópica 200ml" Preco=95.99 SKU=2835
+Nome="Polaramine Maleato de Dexclorfeniramina 10mg/g Creme Dermatológico 30g" Preco=21.36 SKU=29829
+Nome="Refil Gel de Limpeza Profunda Vichy Normaderm Phytosolution com 240g " Preco=50.79 SKU=117774
+Nome="Protetor Diário Carefree Tododia Flexi Sem Perfume com 80 unidades" Preco=13.09 SKU=3836
+Nome="Máscara de Tratamento Capilar Pantene Pro-V Bambu com 600ml" Preco=23.69 SKU=77724
+Nome="Desodorante Rexona Men Sem Perfume Aerossol Antitranspirante com 150ml" Preco=15.9 SKU=22247
+Nome="Máscara 3 Camadas Descartável Azul - Caixa com 50 - HC400" Preco=9.37 SKU=141958
+Nome="Sexy Lips Lip Oil Max Love Cor 100 - 4ml" Preco=13.36 SKU=129897
+Nome="Composto Lácteo Ninho Fases Zero Lactose com 700g" Preco=46.49 SKU=223711
+Nome="Almotolia Ambar 125ml J.Prolab" Preco=2.17 SKU=219335
+Nome="Álcool Gel 70% para Mãos Coperalcool 400g" Preco=21.39 SKU=77953
+Nome="Base Líquida Maybelline Fit Me Efeito Matte Cor N80 com 30ml" Preco=55.59 SKU=53066
+Nome="Essência 10ml Escolha O Aroma - Via Aroma	 - Flor de Pitanga" Preco=21.9 SKU=230588
+Nome="Bandagem Rígida Kinesiosport Bege 3.8cm x 13.7m com 1 unidade" Preco=25.09 SKU=263528
+Nome="Suplemento Alimentar Vitafor Isofort Neutro 15 Sachês" Preco=289.99 SKU=243117
+Nome="Almofada para Assepsia Alcohol Swabs BD com 100 unidades" Preco=30.99 SKU=9437
+Nome="Suplemento Alimentar Infantil Fortini Complete Sabor Vitamina de Frutas com 400g" Preco=47.29 SKU=23977
+Nome="Infusor de Aço Inox  Corrente Talchá Leaf" Preco=54.9 SKU=168210
+Nome="Escova de Limpeza Para Canudo Buba Baby Azul com 1 unidade" Preco=13.9 SKU=162602
+Nome="Absorvente para Incontinência Urinária Leve a Moderada Plenitud Femme Ultra com 8 unidades" Preco=11.99 SKU=21181
+Nome="Tesoura de Ponta Reta Ricca com 1 Unidade" Preco=15.55 SKU=303889
+Nome="Pilha para Aparelho Auditivo 13 Duracell com 6 unidades" Preco=32.39 SKU=76277
+Nome="Shampoo Herbal Essences Bio Renew Argan Oil Of Marrocco com 400ml" Preco=25.43 SKU=76392
+Nome="Kit Viagem Barba Forte Danger + Nécessaire com Shampoo, Condicionador, Balm e Pomada" Preco=76.99 SKU=160905
+Nome="Fralda Pampers Supersec XG - 68 Unidades" Preco=79.49 SKU=138184
+Nome="Conjunto de Escova e Pente Buba Baby Cinza com 1 unidade" Preco=27.9 SKU=158946
+Nome="Puran T4 Levotiroxina Sódica 100mcg 30 comprimidos" Preco=12.85 SKU=23200
+Nome="Óleo Capilar Inoar Argan Oil com 7ml" Preco=8.65 SKU=16100
+Nome="Teste de Gravidez Tira CONFIRME" Preco=7.91 SKU=176190
+Nome="Creme Clareador Bioderma Pigmentbio Sensitive Áreas Sensíveis 75ml" Preco=106.99 SKU=71470
+Nome="Óleo de Bétula para Celulite Weleda com 100ml" Preco=142.99 SKU=29876
+Nome="Desloratadina 0,5mg Xarope 100ml Germed Genérico" Preco=33.79 SKU=33635
+Nome="Band-Aid Curativos Transparentes com 40 unidades" Preco=9.75 SKU=62372
+Nome="Hidratante Labial Epidrat Lábios Mantecorp FPS 30 com 5,5g" Preco=59.99 SKU=13676
+Nome="Sabonete Facial em Espuma Bioré Marshmallow Whip Moisture com 150ml" Preco=46.99 SKU=78337
+Nome="Lata Talchá Chá Mate" Preco=16.9 SKU=167842
+Nome="Barra de Proteína Integralmedica Protein Crisp Trufa de Avelã 45g" Preco=11.19 SKU=5283
+Nome="KIT COM 1 DIFUSOR DE AROMAS VARETAS SALUTAR CAPIM-LIMÃO 165 ML 5 VARETAS E 1 ÓLEO DE EUCALIPTO CITRIODORA SALUTAR 140 ML" Preco=35.42 SKU=299996
+Nome="Tintura Wella Soft Color 60 Louro Escuro com 1 unidade" Preco=19.89 SKU=39391
+Nome="Esmalte Metálico Risqué Diamond Gel Meu Moscow Mule com 9,5ml" Preco=12.99 SKU=303819
+Nome="Canguru Ergonômico 5Way Maxi Baby Hipseat (15kg) - Cinza" Preco=269 SKU=398874
+Nome="Hiper Mass Gainer Atlhetica Nutrition W/Creatine Banana 1,5kg" Preco=61.89 SKU=149860
+Nome="Creme para Pentear Dove Fator de Nutrição com 200ml" Preco=16.39 SKU=14574
+Nome="Ansiodoron com 80 comprimidos" Preco=77.49 SKU=75563
+Nome="Ácido Acetilsalicílico 100mg 10 comprimidos EMS Genérico" Preco=2.55 SKU=33090
+Nome="Repelente de Insetos com Citronela Needs Repell com 100ml" Preco=15.22 SKU=26371
+Nome="Loção Bálsamo Pós-Barba Nivea Men Sensitive com 100ml" Preco=28.79 SKU=46183
+Nome="Lubrificante Íntimo K-Y Hot Ultragel com 50g" Preco=26.49 SKU=77815
+Nome="CORRETOR DE MAMILOS INVERTIDOS - NIPLETTE - PHILIPS AVENT" Preco=237.49 SKU=307062
+Nome="Floral Spray Bucal Natural Flowers Fase de Reeducação Alimentar Redução de Peso 30 ml" Preco=30.38 SKU=301370
+Nome="Lixa para Unha Prokits Preta 8cm com 9 Unidades" Preco=1.19 SKU=269274
+Nome="Compressas de Gaze Cremer Max com 10 unidades" Preco=3.15 SKU=294
+Nome="Almofada para Assepsia Alcohol Swabs BD com 100 unidades" Preco=30.99 SKU=9437
+Nome="Unhas Postiças Ricca Francesinha Rosa 24 Unidades" Preco=18.37 SKU=303179
+Nome="Pasta de Dente Oral-B Kids Minnie com 50g" Preco=7.59 SKU=31955
+Nome="Ácido Hialurônico 3x 30 Cápsulas 65mg - Tiaraju	 - A" Preco=161.9 SKU=236203
+Nome="Kit Nutriex Toy Story Shampoo 2 em 1 com 250ml + Sabonete Líquido com 250ml" Preco=14.49 SKU=78933
+Nome="Papinha Nestlé Naturnes Sabor Legumes com Carne com 115g" Preco=4.45 SKU=59112
+Nome="Lenço Umedecido Antisséptico Needs com 10 unidades" Preco=4.49 SKU=7751
+Nome="Johnsons Absorvente P/ Seios C/24" Preco=49.33 SKU=457596
+Nome="Suplemento de Vitamina D Ofolato D 1.000UI com 30 comprimidos" Preco=102.99 SKU=76959
+Nome="Gel de Limpeza Avène Cleanance Pele Oleosa com 400g" Preco=96.99 SKU=81023
+Nome="Gum Flosser Disney Fio Dental Infantil A Patrulha Canina C/40 (kit C/03)" Preco=68.5 SKU=476100
+Nome="Leiba 200MI Probiótico Sabor Laranja com 20 comprimidos mastigáveis" Preco=38.99 SKU=61264
+Nome="Concha para Preparação do Mamilo Amamente 2 unidades" Preco=41.19 SKU=5248
+Nome="Algodão Bolas Apolo 50G" Preco=3.09 SKU=188863
+Nome="Hastes Flexíveis Needs Eco com 150 Unidades" Preco=9.19 SKU=167613
+Nome="Chá da Mamãe para Amamentação Weleda com 15 sachês" Preco=33.9 SKU=46099
+Nome="Creme para as Mãos Mavala Hand Cream Daily Care com 50ml" Preco=88.12 SKU=64234
+Nome="Kit Dove Hidratação Intensa Shampoo com 400ml + Condicionador com 200ml" Preco=23.9 SKU=22638
+Nome="Termômetro Digital Caretech TS-101" Preco=14.99 SKU=15077
+Nome="Agulha para Caneta Aplicadora de Insulina Novofine 32G 4mm com 100 unidades" Preco=98.99 SKU=11822
+Nome="Atorvastatina Cálcica 20mg 30 comprimidos EMS Genérico" Preco=26.79 SKU=47701
+Nome="Tipoia Estofada Imobilizadora Velpeau Needs Tamanho M" Preco=52.9 SKU=7926
+Nome="Barra de Proteína Vegana Bio2 Sabor Baunilha e Pasta de Amendoim com 12 unidades de 45g cada" Preco=124.41 SKU=238726
+Nome="Protetor Diário Intimus Cuidado Diário sem Perfume" Preco=13.09 SKU=67130
+Nome="Protetor Solar Facial Filtrum Ultra Seco FPS 30 60g" Preco=64.79 SKU=10601
+Nome="Enxaguante Antisséptico Bucal Cepacol Menta com 500ml" Preco=14.89 SKU=43904
+Nome="Passa Fio Dentalclean Leve 30 Pague 25 unidades" Preco=11.19 SKU=223982
+Nome="Tesoura para Cabelo Vertix Iniciante Fio Laser 7,51 1 Unidade" Preco=120.01 SKU=303304
+Nome="Hemifumarato de Quetiapina 25mg 30 comprimidos Teuto Genérico" Preco=22.69 SKU=24428
+Nome="Suplemento Alimentar Vitasay 50+ Pró-Ômega 3" Preco=37.34 SKU=81047
+Nome="Hidroclorotiazida 25mg 30 comprimidos Medley Genérico" Preco=3.03 SKU=43867
+Nome="Alenia Fumarato de Formoterol 12mcg + Budesonida 400mcg 60 cápsulas para inalação" Preco=120.86 SKU=58086
+Nome="Kit Para Cabelo Seco - C/alma" Preco=119.7 SKU=256433
+Nome="Fralda Geriátrica Tena Slip Dermacare G Unissex 16 unidades" Preco=56.79 SKU=196682
+Nome="Fórmula Infantil Nanlac Supreme 800g" Preco=70.84 SKU=362624
+Nome="Máscara para Olhos Quintal Iluminadora com 2 Unidades" Preco=25.99 SKU=168759
+Nome="Máquina de Acabamento BabyLiss Pro Rose FX Ferrari Bivolt" Preco=699 SKU=277017
+Nome="Balança Multilaser Bluetooth de Bioimpedância" Preco=87.13 SKU=120073
+Nome="Estabilizador de Tornozelo Needs Tamanho G com 1 unidade" Preco=44.9 SKU=11406
+Nome="Neutrogena Deep Clean Esfoliante Energizing 100g" Preco=33.6 SKU=320678
+Nome="Condicionador Aussie Moist com 180ml" Preco=16.59 SKU=34403
+Nome="Suplemento Alimentar Eximia Firmalize Aox com 30 Sachês" Preco=103.99 SKU=150943
+Nome="Acetilcisteína 600mg Granulado Sabor Laranja 16 envelopes EMS Genérico" Preco=33.99 SKU=38471
+Nome="Sérum Corretor Facial Antiacne Avène Cleanance Comedomed 30ml" Preco=163.99 SKU=78106
+Nome="KORRES GREEK YOGHURT ESPUMA DE LIMPEZA FACIAL 150ML" Preco=199 SKU=179482
+Nome="Suplemento Alimentar Ofolato para Gestantes 30 comprimidos" Preco=87.99 SKU=21884
+Nome="Lactase Redulac Lactose 4 X 60 Cápsulas - Tiaraju	 - A" Preco=218.9 SKU=238486
+Nome="Suplemento Nutricional Danone Souvenaid Sabor Morango com 4 unidades de 125ml" Preco=89.72 SKU=4030
+Nome="Pantoprazol Sódico Sesqui-Hidratado 20mg 28 comprimidos Medley Genérico" Preco=18.19 SKU=52658
+Nome="Allexofedrin Cloridrato de Fexofenadina 180mg 10 comprimidos" Preco=42.39 SKU=37858
+Nome="Kit com 2 LAVITAN CALCIO + D3 Cimed COM 60 COMPRIMIDO 600+200UI Original" Preco=39.98 SKU=311072
+Nome="Fórmula Infantil Novamil Rice Sem Lactose Biolab 0 a 36 meses 400g" Preco=179.9 SKU=8295
+Nome="Leave-in Capilar Noturno Nioxin Night Density Rescue com 70ml" Preco=119.99 SKU=73691
+Nome="L Glutamine 1000mg 6 X 120 Cápsulas - Unilife	 - A" Preco=345.9 SKU=238315
+Nome="Desodorante Rexona Clinical Classic Antitranspirante em Creme com 48g" Preco=22.49 SKU=66136
+Nome="Rosucor Rosuvastatina Cálcica 10mg 60 comprimidos" Preco=55.79 SKU=334
+Nome="Macrodantina Nitrofurantoina 100mg 40 cápsulas" Preco=19.19 SKU=110731
+Nome="Pó Descolorante Lightner Gérmen de Trigo com 50g" Preco=10.59 SKU=84715
+Nome="CAIXA12 GARRAFAS DE ÁGUA ALCALINA PH8 - JUST WATER - 500ML:85115" Preco= SKU=204393
+Nome="Extrato de Própolis - 30ml - Pon Lee" Preco=36 SKU=410993
+Nome="Barra de Banana e Ameixa com Chocolate Meio Amargo Nutrigood 24g" Preco=2.99 SKU=305940
+Nome="Nebulizador / Inalador Ultra-Sônico Pulmosonic Star Luxo II" Preco=375 SKU=432670
+Nome="Suplemento Alimentar Complexo B com 60 Cápsulas" Preco=31.59 SKU=151196
+Nome="Levotiroxina Sódica 25mcg 30 comprimidos Merck Genérico" Preco=5.75 SKU=46390
+Nome="Compressa de Gaze Estéril Needs com 10 unidades" Preco=2.89 SKU=13625
+Nome="Sarcoplex 30 Sachês de 21g cada" Preco=295.67 SKU=273131
+Nome="Ômega 3 Vigora Nature com 60 Cápsulas" Preco=61.49 SKU=243296
+Nome="Simeticona 125mg 10 Cápsulas Neo Química Genérico" Preco=8.77 SKU=138833
+Nome="Espuma de Barbear Gillette Prestobarba Suave com 150g" Preco=16.49 SKU=52702
+Nome="Polinize Florais Peso Saudável Florais de Bach com 30ml" Preco=40.79 SKU=75894
+Nome="Compressa de Gaze Estéril Needs com 10 unidades" Preco=2.89 SKU=13625
+Nome="Hidratante Facial Epidrat Calm Pele Sensível 40g" Preco=79.49 SKU=3720
+Nome="Chocalho Mamadeira com Bolinhas - Pura Diversão" Preco=23.88 SKU=228185
+Nome="Creme Hidratante Para Cabelo Trim com 65g" Preco=19.99 SKU=44931
+Nome="Água de Coco Integral Villa Piva 269ml" Preco=9.9 SKU=418840
+Nome="Creme Hidratante Para Cabelo Trim com 65g" Preco=19.99 SKU=44931
+Nome="Hidratante Facial em Gel Nivea com Ácido Hialurônico 100ml" Preco=25.19 SKU=110596
+Nome="Chupeta de Silicone Lillo Soft Calming Tamanho 2 Rosa com 1 unidade" Preco=20.99 SKU=75668
+Nome="Shampoo Anticaspa Clear Men Ice Cool Mentho" Preco=20.49 SKU=27577
+Nome="Polvilho Antisséptico para os pés Granado Fresh com 100g" Preco=11.49 SKU=16390
+Nome="Máscara Descartável de Tripla Proteção Needs com 5 unidades" Preco=12.59 SKU=113283
+Nome="Nathy Algodão Ortopédico em Rolo 420g" Preco=26.4 SKU=364160
+Nome="Protetor Solar Neostrata Minesol Corpo e Rosto FPS70 com 200ml" Preco=75.99 SKU=153748
+Nome="GLOSS BLACK RAIN" Preco=13.78 SKU=129747
+Nome="Condicionador Herbal Essences Bio: Renew Rosemary & Herbs com 400ml" Preco=25.43 SKU=76400
+Nome="Kit Colônias Giovanna Baby Aromas do Jardim Classic, Blue e Blanc Vanilla com 3 unidades" Preco=51.39 SKU=228601
+Nome="Shampoo Redutor de Grisalhos Grecin Control GX com 147ml" Preco=71.99 SKU=55517
+Nome="Kit Pantene Bambu Shampoo com 400ml + Condicionador com 175ml" Preco=29.99 SKU=151860
+Nome="Suplemento Alimentar Vitasay 50+ Imune com 30 comprimidos" Preco=28.79 SKU=53312
+Nome="Kit Pasta de Dente Colgate Sensitive Pro-Alívio Imediato com 3 unidades de 90g cada" Preco=25.8 SKU=74332
+Nome="Fita Microporosa Cremer Bege para Peles Sensíveis com 1 rolo de 10cm x 4,5mt" Preco=12.59 SKU=28277
+Nome="Gengimin 160mg com 15 comprimidos" Preco=42.06 SKU=70135
+Nome="Sédatif PC com 60 comprimidos" Preco=78.49 SKU=24158
+Nome="Adoçante Líquido Zero-Cal com 200ml" Preco=17.6 SKU=25668
+Nome="Kit Protetor Solar Corporal Nivea Sun Protect & Hidrata FPS 30 com 200ml + 100ml" Preco=35.19 SKU=72627
+Nome="Sinvastacor Sinvastatina 20mg 30 Comprimidos" Preco=8.66 SKU=7902
+Nome="Lenço Umedecido Pampers Aroma de Lavanda com 48 unidades" Preco=9.25 SKU=75918
+Nome="Kit Aparelho de Barbear Gillette Mach3 Acqua Sensitive com 2 Cargas + Nécessaire" Preco=59.39 SKU=240812
+Nome="Barra de Amendoim, Castanha e Semente Pinati Nuts Banana com 30g" Preco=4.29 SKU=173520
+Nome="Mamadeira Lillo Super Evolution Desmontável Cor Azul com 1 unidade" Preco=34.99 SKU=77184
+Nome="Álcool em Gel Antisséptico 70% Needs Calêndula com 53g/60ml" Preco=6.21 SKU=45222
+Nome="Escova de Dente Colgate Infantil Smiles Agnes e Fluffy 2-5 Anos Extra Macia com 2 unidades" Preco=17.39 SKU=80327
+Nome="Esmalte Cremoso Risqué Pelo Amor da Deusa com 8ml" Preco=6.99 SKU=224060
+Nome="Best Whey Atletica Nurition Total Clean Água de Coco com Abacaxi 350ml" Preco=15.79 SKU=178102
+Nome="Pote de Comida Térmico Chicco Branco e Verde" Preco=110.81 SKU=386722
+Nome="Óleo de Argan Capilar Joico K-PAK Color Therapy com 100ml" Preco=367.99 SKU=78996
+Nome="Almofada Adptadora Para Extrator de Leite Philips Avent" Preco=39.9 SKU=400001
+Nome="Pasta de Amendoim Pura biO2 com 900g" Preco=69 SKU=147985
+Nome="Band-Aid Curativos Transparentes com 40 unidades" Preco=9.75 SKU=62372
+Nome="Protetor Labial Manteiga de Cacau Needs 3,8g" Preco=9.9 SKU=35037
+Nome="Fita Adesiva That Girl Fashion Tape 36 Unidades" Preco=47.9 SKU=304275
+Nome="Sabonete Gel Antiacne Needs Facial Pele Oleosa ou Acneica 120g" Preco=14.9 SKU=7202
+Nome="Solomed Seringa Descartável 5ml com Agulha 25mm x 7mm" Preco=2.55 SKU=71186
+Nome="Chá Verde ChocoMatcha Orgânico Talchá Lata - 50g" Preco=78.9 SKU=167843
+Nome="Absorvente Sempre Livre Adapt Cobertura Suave Sem Abas com 8 unidades" Preco=4.73 SKU=71866
+Nome="Termômetro Digital Clínico G-Tech Branco com 1 unidade" Preco=15.79 SKU=41532
+Nome="Troninho Infantil 3 em 1 Flex Potty - Safety 1st Pink" Preco=279 SKU=402095
+Nome="Esmalte Cremoso Risqué Diamond Gel Bloody Mary Vibes com 9,5ml" Preco=12.99 SKU=303838
+Nome="Shampoo Barba Forte Don Juan Hidratação Extrema Barba e Cabelo com 250ml" Preco=31.19 SKU=160953
+Nome="Teste de Gravidez Tira DETECT FAST" Preco=5.86 SKU=219981
+Nome="Alicate de Unha Enox Pouch com 1 Unidade" Preco=49.09 SKU=303787
+Nome="Suplemento Proteico Body Protein Equaliv Cacau 600g" Preco=193.99 SKU=113199
+Nome="Pente Desembaraçante Ricca Cabelos Volumosos com 1 unidade" Preco=8.29 SKU=40055
+Nome="Espuma de Limpeza Facial Natural Physalis Biomas do Sul 50ml - Cativa Natureza" Preco=54.5 SKU=112438
+Nome="Gel Higienizador para Mãos Nouvelle Ficcus com 80ml" Preco=0.8 SKU=77034
+Nome="Shampoo Seda by Niina Secrets Limpeza Micelar com 325ml" Preco=13.99 SKU=44118
+Nome="Solomed Seringa Descartável 5ml com Agulha 25mm x 7mm" Preco=2.55 SKU=71186
+Nome="Loção Pós-Barba Nivea Men Deep Comfort com 100ml" Preco=28.79 SKU=74074
+Nome="Incenso Terapêutico Lavanda Inca Aromas 60g" Preco=28.34 SKU=174665
+Nome="Base Líquida Maybelline Fit Me Efeito Matte Cor N150 com 30ml" Preco=55.59 SKU=53022
+Nome="Escova de Dente Curaprox Ultra Soft 5460 com 3 unidades" Preco=69.79 SKU=61328
+Nome="Agulha para Caneta Aplicadora de Insulina BD Ultra-Fine Nano 4mm com 100 unidades" Preco=84.9 SKU=69316
+Nome="Shampoo Aussie Mega Moist Super Hidratação com 180ml" Preco=16.59 SKU=34406
+Nome="Pente Fino Extrator De Piolhos E Lêndeas Em Aço Inox" Preco=40.98 SKU=355375
+Nome="Absorvente Always Super Proteção Cobertura Seca com Abas 32 unidades" Preco=13.89 SKU=54088
+Nome="Fralda Pampers Supersec XXG - 64 Unidades" Preco=79.49 SKU=138186
+Nome="Água Micelar L'Oréal Paris Bifásica com 200ml" Preco=36.49 SKU=25524
+Nome="Suplemento Alimentar Infantil BioZinc Kids 2mg/0,5ml Solução com 75ml" Preco=45.99 SKU=2952
+Nome="Shampoo Anticaspa Mantecorp Pielus com 200ml" Preco=87.29 SKU=5851
+Nome="Shake Elixir Chocolate com 450g" Preco=65.99 SKU=117355
+Nome="Creme Hidratante Reparador Corporal Cicaplast Baume B5 La Roche-Posay com 40ml" Preco=84.99 SKU=78200
+Nome="Gel Arnica e Calêndula Bio Mustela Bebê com 100ml" Preco=47.59 SKU=141927
+Nome="Sabonete Facial Esfoliante Antiacne Needs Pele Oleosa ou Acneica 100g" Preco=15.33 SKU=7205
+Nome="Allegra D Antialérgico com 10 Comprimidos Revestidos" Preco=58.32 SKU=22814
+Nome="Fita Dental Sanifill com 1 unidade de 125m" Preco=8.6 SKU=111181
+Nome="Suplemento Alimentar Infantil Pediasure Baunilha 4 a 10 anos 1,6Kg" Preco=132.99 SKU=111013
+Nome="Pantoprazol Sódico Sesqui-Hidratado 20mg 42 comprimidos Medley Genérico" Preco=22.58 SKU=43903
+Nome="Bromoprida 10mg 20 cápsulas Medley Genérico" Preco=19.89 SKU=36538
+Nome="Pó para Preparo de Bebida Milnutri Premium Soja Danone 1 a 5 anos 800g" Preco=74.99 SKU=4852
+Nome="Carrinho de Passeio Lite Way 3 Red Berry - Chicco" Preco=1399 SKU=281940
+Nome="Suplemento Alimentar em Pó Nutri Balance Raia Baunilha com 380g" Preco=39.99 SKU=110775
+Nome="Absorventes para Seios Johnson's 12 Unidades" Preco=31.6 SKU=359676
+Nome="Óleo de Ricino Needs 30ml" Preco=6.49 SKU=6865
+Nome="Esponja Removedora de Esmalte Blant 4x1 75ml" Preco=13.99 SKU=336399
+Nome="Creatina Monohidratada Creatin UP 300g Nature Nutrata" Preco=179 SKU=429678
+Nome="Hidratante Corporal Neutrogena Hydro Boost Gel 400ml" Preco=33.39 SKU=69748
+Nome="Creme para Mãos com manchas Mavala Anti Spot Cream Especific Care com 30ml" Preco=167.99 SKU=81289
+Nome="Shampoo OGX Biotin & Collagen com 385ml" Preco=44.99 SKU=18998
+Nome="Condicionador Turma da Mônica Baby Cabelinhos Crespos sem Embaraço com 200ml" Preco=11.19 SKU=298671
+Nome="Creme Multifuncional para Cabelo Yamasterol Barbosa e D-Pantenol com 200g" Preco=4.63 SKU=110366
+Nome="Kit Dove Reconstrução Completa com 1 Shampoo de 400ml + 1 Condicionador de 200ml" Preco=23.9 SKU=5938
+Nome="Óleo Corporal de Rosa Mosqueta Weleda com 100ml" Preco=157.99 SKU=61274
+Nome="Spray Fixador para Cabelo Charming Extra Forte com 400ml" Preco=31.19 SKU=54929
+Nome="Óleo de Eucalipto Citriodora Salutar 100 ml" Preco=12.5 SKU=260837
+Nome="CONCHA DE AMAMENTAÇÃO BASE MACIA" Preco=58.91 SKU=377178
+Nome="Teste de Gravidez Needs em Tira 1 Unidade" Preco=7.99 SKU=24001
+Nome="Belamy Gel Hidratante Vaginal com 20g + 8 aplicadores de 2,5g cada" Preco=87.78 SKU=80324
+Nome="Chapinha Gama Italy G-Evo Evoluzione IHT Bivolt" Preco=369.1 SKU=278258
+Nome="Bandagem Elástica Adesiva Kband Bege 5cm x 5m" Preco=41.19 SKU=302520
+Nome="Limpador de Dentadura Corega Tabs Antibacteriano com 24 comprimidos efervescentes" Preco=23.69 SKU=43721
+Nome="Base Fortalecedora Blant SOS 6x1 8,5ml" Preco=15.99 SKU=336296
+Nome="Gillette Venus Suave Sensitive Depilador Descartável com 4 unidades" Preco=19.79 SKU=111679
+Nome="Repelente Elétrico Líquido Exposis Casa Aparelho + Refil 32,9ml" Preco=25.9 SKU=338855
+Nome="Pó Descolorante Blondor Camomila e Manzanilla Sachê com 20g" Preco=12.89 SKU=53454
+Nome="Gel Dental Infantil Bitufo Cocoricó Tutti-Fruti com Flúor com 90g" Preco=10.35 SKU=31337
+Nome="Alimento Proteico Vitafor Isocrisp Sabor Neutro com 60g" Preco=45.39 SKU=243494
+Nome="Suplemento de Vitamina D Ofolato D Fer 1.000UI com 30 comprimidos" Preco=109.49 SKU=76966
+Nome="Protetor de Seio Kuka com 1 unidade" Preco=24.99 SKU=138883
+Nome="Cloridrato de Sertralina 50mg 30 comprimidos Eurofarma Genérico" Preco=26.78 SKU=16504
+Nome="Colágeno Hidrolisado 1000mg Stem 100 comprimidos" Preco=50.59 SKU=30915
+Nome="Algodão Disco Apolo 35G" Preco=5.09 SKU=188862
+Nome="Espironolactona 25mg 30 comprimidos Eurofarma Genérico" Preco=12.59 SKU=21108
+Nome="Ácido Hialurônico 4 X 30 Cápsulas 65mg - Tiaraju	 - A" Preco=213.9 SKU=236648
+Nome="Tintura Surya Brasil Henna Creme Preto com 70ml" Preco=32.19 SKU=69400
+Nome="Polidor de Unha Ricca Cores Sortidas com 1 Unidade" Preco=4.15 SKU=303810
+Nome="Condor Hot Wheels Fio Dental 25m (kit C/06)" Preco=78.82 SKU=480116
+Nome="Sintocalmy 600mg com 30 comprimidos" Preco=62.99 SKU=41514
+Nome="Shampoo OGX Biotin & Collagen com 385ml" Preco=44.99 SKU=18998
+Nome="Besomed com 60 comprimidos" Preco=46.9 SKU=58978
+Nome="Tesoura para Cabelo Tramontina Supercort Aço Inox Fio Desbaste Rosa 6"" Preco=67.5 SKU=279027
+Nome="Maleato de Dexclofeniramina 0,4mg/ml Solução Oral 120ml Neo Química Genérico" Preco=10.39 SKU=19851
+Nome="Polaramine Maleato de Dexclorfeniramina 0,4mg/ml Solução Oral Sabor Frutas 120ml" Preco=29.83 SKU=88345
+Nome="Cran-B Cr 800mg com 30 sachês" Preco=163.99 SKU=3687
+Nome="Combo Imunidade Uniflora" Preco=79.8 SKU=203842
+Nome="Fralda Geriátrica Bigfral Derma Plus Tamanho Juvenil 10 unidades" Preco=24.29 SKU=117509
+Nome="Tips para Alongamento de Unhas Belliz Fancy 100 Unidades" Preco=34.51 SKU=303448
+Nome="Balança Digital de Controle Corporal G-Tech Glass com 1 unidade" Preco=94.99 SKU=7023
+Nome="Sanfarma Confira Teste De Gravidez Prático C/1" Preco=10.87 SKU=438550
+Nome="Colflex Bio Colágeno Tipo II Não Hidrolisado com 30 cápsulas" Preco=135.99 SKU=33714
+Nome="Atorvastatina Cálcica 10mg 30 comprimidos Medley Genérico" Preco=31.98 SKU=86204
+Nome="Biscoito Infantil Papapá Maçã e Abóbora 36g" Preco=20.99 SKU=323295
+Nome="Cafeina Super Concentrada 2 Unidades Bodylife 500mg C/60 Capsulas - Linduras" Preco=119.4 SKU=306452
+Nome="Composto Tpm Florais do Cerrado 50 ml" Preco=54.3 SKU=310505
+Nome="LPIS PARA SOBRANCELHAS CASTANHO TRACTA:87374" Preco=35.09 SKU=176485
+Nome="Kit Super Band Elástico Extensor Leve Médio e Forte Yangfit" Preco=179.9 SKU=323437
+Nome="Fórmula Infantil NAN Comfor 2 800g" Preco=54.49 SKU=362457
+Nome="Lip Tint Balm Dailus Margarita de Morango FPS 8 com 4ml" Preco=14.55 SKU=239586
+Nome="Pasta Protetora Tiras Strip Paste Brava Coloplast 2655 10un" Preco=64.22 SKU=118201
+Nome="Lactase Redulac Intolerância Lactose 9000 Fcc 60 Comprimidos - Tiaraju	 - A" Preco=65.9 SKU=238493
+Nome="MaDi Relax - 200g" Preco=156 SKU=227009
+Nome="Porta Escova de Dente Viagem Needs com 1 unidade" Preco=9.9 SKU=3403
+Nome="Creme esfoliante Mãos e Pés 650g" Preco=49.9 SKU=301261
+Nome="Bicicleta Magnética Ergométrica Horizontal Dream Concept H" Preco=1799 SKU=391970
+Nome="Puran T4 62,5mcg com 30 comprimidos" Preco=13.51 SKU=2854
+Nome="Suplemento Alimentar Metilfolato Droga Raia com 30 cápsulas" Preco=45.89 SKU=74947
+Nome="Condicionador Lola Danos Vorazes Booster de Reparação com 250ml" Preco=35.59 SKU=116541
+Nome="Protetor Solar Facial Episol Color FPS70 Tom 1 Extra Claro com 40ml" Preco=69.62 SKU=153637
+Nome="Sabonete Líquido Facial Actine Pele com Acne 240ml" Preco=49.99 SKU=14692
+Nome="SUPLEMENTO CALCIOVITAL VITAMINA D3+B12 NATULAB FRAMBOESA 250ML:1100547" Preco=10.84 SKU=308910
+Nome="Compressas de Gaze Cremer Max com 10 unidades" Preco=3.15 SKU=294
+Nome="Leave-In Renovador de Pontas Vichy Dercos Kera-Solutions com 50ml" Preco=66.99 SKU=70121
+Nome="Ibupril Ibuprofeno 600mg 20 comprimidos" Preco=6.38 SKU=75738
+Nome="Desodorante Antitranspirante Aerosol Rexona Men Clinical Clean Masculino com 150ml" Preco=17.9 SKU=49311
+Nome="Álcool Gel Giovanna Baby Classic com 500ml" Preco=21.29 SKU=37167
+Nome="Curativo Transparente Needs Resistente à Água com 40 unidades" Preco=8.59 SKU=13606
+Nome="Tornozeleira Needs Tamanho G" Preco=32.46 SKU=8623
+Nome="Suplemento Alimentar Ofolato D Fer 2.000UI com 30 comprimidos" Preco=130.99 SKU=76967
+Nome="Máscara Nebulizador Adulto Omron C920LA" Preco=18.52 SKU=334913
+Nome="Desodorante Vegano Chá Verde 2 X 120ml - Organico Natural	 - A" Preco=64.9 SKU=234439
+Nome="Hastes Flexíveis Needs Pote com 150 unidades" Preco=8.9 SKU=2572
+Nome="Kit Talchá Amores" Preco=389.6 SKU=167845
+Nome="Chá Nutrigood Boa Noite com 10 sachês" Preco=9.99 SKU=110395
+Nome="KIT 2 COLETORES MENSTRUAIS INCICLO B+CÁPSULA ESTERILIZADORA COR: GIRASSOL" Preco=139 SKU=283218
+Nome="Chupeta de Silicone Lillo Soft Calming Tamanho 2 Transparente com 1 unidade" Preco=20.99 SKU=69731
+Nome="Floral Therapi Desobediência - 30ml" Preco=18.8 SKU=310278
+Nome="Gillette Skinguard Sensitive Barbeador com 1 unidade" Preco=36.19 SKU=79050
+Nome="Protetor Solar Facial NeoStrata Minesol Oil Control FPS 70 40g" Preco=62.19 SKU=72797
+Nome="Barra de Proteína Integralmedica Protein Crisp Romeu e Julieta 45g" Preco=11.19 SKU=135
+Nome="Shampoo Anticaspa Clear Hidratação Intensa com 400ml" Preco=20.49 SKU=73151
+Nome="Massageador de Gengiva Formato de Banana para Bebê - Western" Preco=23.88 SKU=228210
+Nome="Termômetro Clínico Digital Omron com bateria Substituível MC-246 BRV" Preco=30.79 SKU=116923
+Nome="Curativo para Acne Needs Pele Oleosa e Acneica 24 unidades" Preco=21.66 SKU=8279
+Nome="Blondifier Boostet Liss Power Mix L'Oréal Professionnel Serie Expert  150ml" Preco=179.88 SKU=240669
+Nome="Kit 3 Ômega 3 Nutri A-Z Multivitamínico Equaliv 60 cápsulas" Preco=239.9 SKU=169862
+Nome="Seringa Descartável 5ml Needs com Agulha 25mm x 07mm com 1 Unidade" Preco=2.19 SKU=117327
+Nome="Cisberry 200mg com 30 cápsulas" Preco=131.91 SKU=9932
+Nome="Algodão Quadrado Needs Baby com 50 unidades" Preco=14.49 SKU=69659
+Nome="Esmalte OPI Things Ive Seen In Aber-Green com 15ml" Preco=23.79 SKU=317262
+Nome="VItamina C Redoxon 1g com 30 comprimidos efervescentes " Preco=38.99 SKU=54161
+Nome="Adoçante em Pó Finn Xilitol com 30 sachês de 5g" Preco=44.39 SKU=110388
+Nome="Shampoo Anticaspa Darrow Doctar Sensi com 120ml" Preco=55.99 SKU=28867
+Nome="Creme Modelador de Cachos Deva Curl Styling Cream com 250g" Preco=49.08 SKU=110008
+Nome="Absorvente Intimus Tripla Proteção Cobertura Suave Com Abas com 16 unidades" Preco=11.19 SKU=40958
+Nome="Aerolin Sulfato de Salbutamol 100mcg Spray 200 Doses" Preco=45.23 SKU=331
+Nome="Fita Microporosa Cremer Bege para Peles Sensíveis com 1 rolo de 10cm x 4,5mt" Preco=12.59 SKU=28277
+Nome="Pomada para Hemorroidas Proctyl com 30g " Preco=68.52 SKU=179716
+Nome="Água de Coco Natural OQ 300ml" Preco=7.88 SKU=375170
+Nome="Bolsa Térmica Mamadeira Jeans" Preco=79 SKU=354124
+Nome="Agulha para Caneta Aplicadora de Insulina Novofine 32G 6mm com 100 unidades" Preco=89.31 SKU=87289
+Nome="Fita Protetora para os Pés Nexcare Transparente com 1 rolo de 25mmx3m" Preco=10.69 SKU=39256
+Nome="Suplemento Alimentar Vidyn D3 2.000UI com 30 Cápsulas" Preco=41.19 SKU=150264
+Nome="Loção Hidratante Corporal Nivea Milk Hidratação Profunda Pele Seca 400ml" Preco=16.59 SKU=72849
+Nome="Colônia Johnson's Baby Lavanda com 400ml" Preco=74.99 SKU=21259
+Nome="Shampoo Barba Forte Gasoline para Barba e Cabelo com 2,5L" Preco=90.99 SKU=160986
+Nome="Creme de Tratamento Elseve Óleo Extraordinário Nutrição Intensa com 300g" Preco=16.69 SKU=60704
+Nome="Máscara Cirúrgica Phitta Mask Efeito Virucida Tripla Proteção com 20 unidades" Preco=39.99 SKU=117361
+Nome="Shampoo Color Grecin 5 Just For Men Castanho Claro Tonalizante" Preco=25.99 SKU=21204
+Nome="Fluimucil Acetilcisteína 100mg/ml 5 ampolas" Preco=28.49 SKU=11651
+Nome="Creme Hidratante para Mãos Vegan by Needs Jasmim e Pimenta Rosa com 50ml" Preco=16.99 SKU=73827
+Nome="KIT Bulking Protein 6kg + POWER Creatina 100g + Glutamina 300g + Coqueteleira - Bodybuilders Sabor: Morango" Preco=209.9 SKU=407578
+Nome="Nathy Algodão Hidrófilo em Rolo 250g" Preco=19.1 SKU=364194
+Nome="Barra de Fruta Vegana Supino Sabor Chocolate com Recheio de Banana e Pasta de Amendoim com 24g" Preco=2.95 SKU=117240
+Nome="Gel Higienizador para Mãos Nouvelle Ficcus com 64ml" Preco=1.4 SKU=77030
+Nome="Indapamida 1,5mg 30 comprimidos Eurofarma Genérico" Preco=12.37 SKU=6341
+Nome="Sabonete em Barra Actine Pele Acneica com 70g" Preco=27.99 SKU=76913
+Nome="Kit Lixas De Unha" Preco=20.88 SKU=258400
+Nome="Essência 10ml Escolha O Aroma - Via Aroma	 - Peonia Garden" Preco=21.9 SKU=230593
+Nome="Bryophyllum Argento Cultum D2 Weleda com 50ml" Preco=89.99 SKU=16779
+Nome="Cloridrato de Hidroxizina 25mg 30 comprimidos EMS Genérico" Preco=19.99 SKU=41836
+Nome="PREMIUM Creatina Foods - 100g" Preco=35 SKU=376950
+Nome="Soutien Extração de Leite Easy Expression Preto Tam G Medela" Preco=339 SKU=399997
+Nome="Vonau Flash Cloridrato de Ondansetrona 4mg 10 comprimidos" Preco=32.79 SKU=17739
+Nome="Complexo B FDC com 100 comprimidos" Preco=80.99 SKU=75474
+Nome="Canguru Ergonômico P/ Bebê Comfort 3 Posições 15kg Cinza Nuk" Preco=369 SKU=399055
+Nome="Escova de Dente Curaprox Ultra Soft 5460 Cores Sortidas 2 unidades" Preco=57.59 SKU=50572
+Nome="Pasta de Dente Colgate Natural Extracts Carvão Ativado e Menta com 140g" Preco=12.9 SKU=117275
+Nome="Probians 30 Cápsulas Apsen" Preco=109.9 SKU=310616
+Nome="Leave-In Renovador de Pontas Vichy Dercos Kera-Solutions com 50ml" Preco=66.99 SKU=70121
+Nome="Algodão Floc Bolas Spartex 25g" Preco=1.09 SKU=218449
+Nome="Escova de Dente Elétrica Oral-B Infantil Macia 3+ Anos Disney Princesas com 1 unidade + 2 pilhas AA" Preco=106.49 SKU=111650
+Nome="PACK COM 24 GARRAFAS DE ÁGUA ALCALINA PH8 - JUST WATER - 500ML:85114" Preco= SKU=204394
+Nome="Difebril Dipirona Sódica 500mg/ml Solução Gotas 20ml " Preco=2.99 SKU=6898
+Nome="Lenço Umedecido Huggies Puro e Natural com 48 unidades" Preco=12.09 SKU=6557
+Nome="Teste de Gravidez Gravicheck em Tira com 1 Unidade" Preco=12 SKU=437141
+Nome="Leave-In Spray de Proteção UV Wella Professionals Invigo Sun com 250ml" Preco=84.79 SKU=157055
+Nome="Gelatina Capilar Salon Line #To de Cacho Super Definição com 550g" Preco=29.29 SKU=152012
+Nome="Fralda Pampers Supersec M - 90 Unidades" Preco=79.49 SKU=138183
+Nome="Cloridrato de Sertralina 100mg 30 comprimidos Eurofarma Genérico" Preco=46.66 SKU=41203
+Nome="Removedor de Esmalte Blant 4x1 110ml" Preco=14.99 SKU=336400
+Nome="Maleato de Enalapril 10mg 30 comprimidos Cimed Genérico" Preco=4.73 SKU=33403
+Nome="Modelador de Cachos Mallory Pearl Bivolt" Preco=111.18 SKU=278620
+Nome="Johnsons Absorvente P/ Seios C/12 (kit C/03)" Preco=98.5 SKU=457595
+Nome="Loção Hidratante Protex Baby com 200ml" Preco=17.49 SKU=110214
+Nome="Creme Hidratante Aché Millar Para os Seios" Preco=76.29 SKU=346791
+Nome="Seringa Descartável 5ml Needs com Agulha 25mm x 07mm com 1 Unidade" Preco=2.19 SKU=117327
+Nome="Gel Lubrificante Íntimo de Silicone K-Y Ultra com 50g" Preco=35.39 SKU=79717
+Nome="Carga para Aparelho de Depilar Gillette Venus Breeze com 2 unidades" Preco=27.49 SKU=839
+Nome="Fórmula Infantil Kabrimil À Base de Leite de Cabra A Partir de 1 Ano 400g" Preco=106.6 SKU=75268
+Nome="Tonalizante Hidratante C.Kamura Color Intense Banho de Brilho Caribe com 100g" Preco=19.62 SKU=250648
+Nome="Pente Fino de Aço Needs Infantil com 1 unidade" Preco=16.99 SKU=69727
+Nome="Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos 800g" Preco=41.99 SKU=33616
+Nome="Bálsamo Reparador de Lábios Avène Cicalfate com 10 ml" Preco=45.39 SKU=69301
+Nome="Gel de Tratamento Antiacne Dermotivin Benzac com 15g" Preco=30.19 SKU=7277
+Nome="Histadin Loratadina 10mg 12 comprimidos " Preco=12.69 SKU=54181
+Nome="Absorvente Intimus Noturno Cobertura Suave Com Abas com 30 unidades" Preco=26.69 SKU=76377
+Nome="Lixa para Unha Prokits Canário Big com 3 Unidades" Preco=1.39 SKU=269457
+Nome="Suplemento Probiótico Prolive com 15 cápsulas" Preco=70.49 SKU=18203
+Nome="Repelente de Insetos Repelex Family Care Spray com 100ml" Preco=17.09 SKU=53856
+Nome="Gel de Barbear Gillette Fusion Proglide Hidratante com 200ml" Preco=27.29 SKU=39351
+Nome="Trezor Rosuvastatina Cálcica 10mg 30 Comprimidos" Preco=36.79 SKU=35438
+Nome="Ácido Hialurônico 6 X 30 Cápsulas 65mg - Tiaraju	 - A" Preco=318.9 SKU=236649
+Nome="Shampoo Herbal Essences Bio: Renew Alecrim e Ervas com 400ml" Preco=25.43 SKU=76409
+Nome="Troninho Infantil Musical - Milla" Preco=41.88 SKU=239970
+Nome="Nebulizador Compressor G-Tech Nebdog Rosa" Preco=249.5 SKU=278984
+Nome="Pasalix PI 500mg com 30 comprimidos" Preco=58.99 SKU=49776
+Nome="Suplemento Alimentar FQM Lipomax Cromo com 60 cápsulas" Preco=53.39 SKU=80773
+Nome="Escova E Pente Baby Buba Baby" Preco=32.68 SKU=260184
+Nome="Shampoo Anticaspa Stiproxal Stiefel com 120ml" Preco=100.99 SKU=51619
+Nome="Base Líquida Vult Hidraluronic Matte N030 com 26ml" Preco=20.95 SKU=149965
+Nome="Maleato de Dexclofeniramina 0,4mg/ml Solução Oral 120ml Neo Química Genérico" Preco=10.39 SKU=19851
+Nome="Tintura Semi-Permanente Casting Gloss Poder Iluminador 617 Jade Acinzentado" Preco=26.99 SKU=332244
+Nome="Barra de Amendoim, Castanha e Semente Pinati Nuts Chips de Coco com 2 unidades de 25g cada" Preco=9.49 SKU=173517
+Nome="Atadura Elástica Kinesiosport Autoaderente Bege 7,5cm x 4,5m com 1 unidade" Preco=22.99 SKU=263543
+Nome="Teste de Gravidez Semanas Confirme" Preco=35.62 SKU=177229
+Nome="Batom Líquido Maybelline SuperStay Matte Ink Cor Pioneer com 1 unidade de 5ml" Preco=76.62 SKU=42667
+Nome="Pasta de Amendoim Sweet sabor Banana 500g" Preco=27.9 SKU=302396
+Nome="Mantecorp Nouve Biotin Cabelo Pele e Unha com 30 cápsulas" Preco=125.49 SKU=8904
+Nome="Esmalte Vult 5Free #Hashtag #chuvadelikes Efeito Gel com 8ml" Preco=11.49 SKU=240934
+Nome="Limpador de Dentadura Corega Tabs Branqueador com 6 comprimidos efervescentes" Preco=7.65 SKU=1219
+Nome="Loção Pós-Barba Bozzano Night Blue com 100ml" Preco=25.49 SKU=54994
+Nome="Base Fortalecedora Blant com Queratina 8,5ml" Preco=15.9 SKU=336274
+Nome="Shake Elixir Morango com 450g" Preco=66.59 SKU=117357
+Nome="Fralda Geriátrica Tena Slip Noturna M Unissex 16 unidades" Preco=70.49 SKU=317062
+Nome="Suplemento Nutricional Ensure Chocolate com 850g" Preco=134.49 SKU=113237
+Nome="Shampoo QOD Barber Shop The Cleaning Control com 220ml" Preco=19.8 SKU=226649
+Nome="Suplemento Alimentar Omater Gest para Gestantes com 30 cápsulas" Preco=111.99 SKU=70835
+Nome="Kit Elseve Reparação Total 5 Shampoo com 375ml + Condicionador com 170ml" Preco=19.9 SKU=33812
+Nome="Whey Protein Vitafor Isofort Ultra Imuno Cacau 600g" Preco=201.99 SKU=79149
+Nome="Creme para Mãos Terral Mont Blanc 45g" Preco=47.25 SKU=112474
+Nome="Protetor Solar Labial Hidratante Needs com Cor Sabor Amora FPS20 com 3,6g" Preco=10.71 SKU=110131
+Nome="Kit Head & Shoulders Hidratação Shampoo com 200ml + Super Condicionador com 170ml" Preco=18.71 SKU=76228
+Nome="Porta Escova de Dente com Ventosa Needs Tema de Animais Diversos com 1 unidade" Preco=12.9 SKU=3395
+Nome="Cisberry 200mg com 30 cápsulas" Preco=131.91 SKU=9932
+Nome="Kit Ares de Mato Limpeza de Pele Renuva" Preco=195.09 SKU=114560
+Nome="Bolsa Gel para Seios Buba Baby com 1 Par" Preco=53.59 SKU=160815
+Nome="COMPRESSA DE GAZE ESTÉRIL 13 FIOS HERIKA AMERICA:10861" Preco=0.77 SKU=142462
+Nome="Protetor Térmico Antifrizz TRESemmé com Filtro UV e Tecnologia Pró Iônica com 120ml" Preco=19.79 SKU=117795
+Nome="FIO DENTAL INFANTIL COM HASTE - FLOSSER CRAYOLA GUM - 40 UNI" Preco=21.84 SKU=404097
+Nome="Hastes Flexíveis Needs Eco com 75 unidades" Preco=5.49 SKU=167629
+Nome="Loção Antiqueda Pielus Mantecorp com 120ml" Preco=79.9 SKU=46311
+Nome="Meia Feminina Kendall Média Compressão 3/4 sem Ponteira Cor Bege Tamanho M com 1 par" Preco=64.19 SKU=22390
+Nome="Kit 5 Ômega 3 Pro Kids Equaliv 60 cápsulas Sabor Laranja" Preco=489.9 SKU=169866
+Nome="Odorizador de Ambiente Glade Toque de Maciez Automatic Refil 269ml Grátis 20%" Preco=27.45 SKU=221766
+Nome="Loção Hidratante Facial CeraVe 52ml" Preco=69.9 SKU=27477
+Nome="Spray Roma Propovit 35ml Bionatus" Preco=13.1 SKU=177823
+Nome="Floral de Bach Polinize Rescue Urgências com 30ml" Preco=40.79 SKU=75898
+Nome="Água Micelar Bifásica Nivea MicellAIR Expert 400ml" Preco=37.39 SKU=47997
+Nome="Lenço Umedecido Antisséptico Free Wipes com 20 unidades" Preco=8.35 SKU=77537
+Nome="Mucosolvan Cloridrato de Ambroxol 15mg/5ml Xarope Pediátrico Sabor Frutas Vermelhas  120ml" Preco=31.79 SKU=79352
+Nome="Composto Ansiedade Florais do Cerrado 50 ml" Preco=54.3 SKU=310506
+Nome="Fita Micropore Nexcare O Original Bege com 1 rolo de 25mmx4,5m" Preco=11.24 SKU=1743
+Nome="Creme Antiestrias Mustela Maternité 3 em 1 250ml" Preco=107.49 SKU=1112
+Nome="Condicionador OGX Argan Oil Of Morocco com 385ml" Preco=47.99 SKU=18977
+Nome="Desinchá com 60 sachês" Preco=91.17 SKU=68304
+Nome="CANECA DE PORCELANA DUPLA C INF LUNA AZUL" Preco=579.9 SKU=228310
+Nome="Suplemento Alimentar Vitafor Termoplus Tangerina 240g" Preco=140 SKU=243454
+Nome="Gel de Limpeza Facial Avène Cleanance 300g" Preco=59.39 SKU=20227
+Nome="Aparelho de Barbear Enox Clássico com 1 unidade" Preco=9.95 SKU=50025
+Nome="Balança de Controle Corporal de Corpo Inteiro Omron HBF-514C com 1 unidade" Preco=520.99 SKU=67305
+Nome="Puran T4 Levotiroxina Sódica 37,5mcg 30 comprimidos" Preco=8.04 SKU=2852
+Nome="Suplemento de Vitamina D Ofolato D 2.000UI com 30 comprimidos" Preco=107.49 SKU=76962
+Nome="Copo de Transição Philips Avent Easy Sip 6M+ Azul com 200ml " Preco=38.19 SKU=79563
+Nome="Lysoform Aerosol Desinfetante Original com 360ml" Preco=26.29 SKU=48829
+Nome="Condicionador Palmolive Naturals Kids para Todos os Tipos de Cabelos com 350ml" Preco=11.29 SKU=12006
+Nome="Sabonete em Barra Infantil Pom Pom Óleo de Amêndoas 70g" Preco=2.53 SKU=43728
+Nome="Seringa Descartável 10ml Needs com Agulha 25mm X 07mm com 1 unidade" Preco=5.99 SKU=117328
+Nome="Fórmula Infantil NAN Comfor 1 800g" Preco=58.85 SKU=355408
+Nome="Joelheira com Reforço Needs Tamanho G com 1 unidade" Preco=31.45 SKU=8618
+Nome="Colágeno Hidrolisado em Pó Mobility Artiflex com 30 sachês" Preco=149.99 SKU=35617
+Nome="Algodão em Disco Needs com 50 unidades" Preco=7.99 SKU=13604
+Nome="Água Termal Facial Avène Eau Thermale 300ml" Preco=83.99 SKU=66359
+Nome="APARELHO DE ABDOMINAL LIVEUP SPORTS" Preco=434.88 SKU=258167
+Nome="Agulha para Caneta Aplicadora de Insulina BD Ultra-Fine 5mm com 100 unidades" Preco=112.99 SKU=11993
+Nome="MSCARA DE CLIOS EXTREME VOLUME INTENSO TRACTA 6ML:87378" Preco=36 SKU=176487
+Nome="Desodorante Vegano Chá Verde 6 X 120ml - Organico Natural	 - A" Preco=166.9 SKU=234444
+Nome="Prancha BabyLiss Pro Nano Titanium Rose Gold 220v" Preco=445.55 SKU=277025
+Nome="Suplemento Vitamínico Bioargi C 1000mg com 16 comprimidos" Preco=26.59 SKU=3138
+Nome="Compressa de Atadura Gaze Estéril Cremer com 5 unidades" Preco=1.99 SKU=38576
+Nome="MCA250 TCM Vitafor 250ml" Preco=73.49 SKU=159664
+Nome="Tesoura Iniciante Vertix Laser 6,5" com 1 Unidade" Preco=94.98 SKU=303308
+Nome="Protetor Solar Facial Neutrogena Sun Fresh Derm Care Sem Cor FPS 30 com 40g" Preco=35.79 SKU=110189
+Nome="Esmalte Dailus Devendo e Luxando Exquéeeci 8ml" Preco=7.35 SKU=329098
+Nome="Desodorante Aerosol Antitranspirante Rexona Clinical Classic Feminino com 55ml" Preco=7.99 SKU=79353
+Nome="Mousse Modelador Capilar Siàge Styling com 150ml" Preco=32.99 SKU=117246
+Nome="Máscara de Tratamento Capilar Pantene Pro-V Bambu com 600ml" Preco=23.69 SKU=77724
+Nome="Termômetro Digital Multilaser Infravermelho Sem Contato YRK-002A com 1 unidade" Preco=162.99 SKU=79211
+Nome="Nathy Algodão Hidrófilo Multiuso Kit de 10 Saquinhos Com 25g" Preco=27.28 SKU=364198
+Nome="Cloridrato de Oximetazolina 0,5mg/ml Solução Nasal 30ml EMS Genérico" Preco=8.78 SKU=67463
+Nome="Cápsulas De Oliveira 4 X 110 Cápsulas 1000mg - Tiaraju	 - A" Preco=262.9 SKU=236282
+Nome="Eudora baby agua de colonia sem alcool 100ml" Preco=45.59 SKU=309106
+Nome="Fio Dental Johnson's Reach Expansion Plus Sabor Menta com 50 metros" Preco=12.29 SKU=62993
+Nome="Protetor Solar Facial Neutrogena Sun Fresh Derm Care Sem Cor FPS 30 com 40g" Preco=35.79 SKU=110189
+Nome="Absorvente Intimus Tripla Proteção Cobertura Extra Suave Com Abas com 32 unidades" Preco=21.19 SKU=39553
+Nome="Vapores Relaxantes Vick VapoBanho 3 Unidades" Preco=42.65 SKU=168625
+Nome="Máscara de Tratamento Capilar Pantene Pro-V Bambu com 600ml" Preco=23.69 SKU=77724
+Nome="Dexilant Dexlansoprazol 30mg 30 cápsulas" Preco=93.99 SKU=11361
+Nome="Magryl 50 ml oxyderme" Preco=52 SKU=159058
+Nome="Succinato de Metoprolol 50mg 30 comprimidos Neo Química Genérico" Preco=15.29 SKU=37374
+Nome="Creme Facial Nutritivo Nivea 100g" Preco=25.19 SKU=38772
+Nome="Seretide Spray 25mcg + 125mcg com 120 doses" Preco=148.03 SKU=30631
+Nome="Chá Verde ChocoMatcha Orgânico Talchá Pouch - 100g" Preco=124.16 SKU=167844
+Nome="Dolomita  D  - Cálcio, Magnésio e Vitamina D - 60  cápsulas - sem sabor" Preco=15.93 SKU=406620
+Nome="Seringa Descartável 10ml Needs com Agulha 25mm X 07mm com 1 unidade" Preco=5.99 SKU=117328
+Nome="Shampoo de Cuidados com a Raiz Head & Shoulders Anticoceira com 400ml" Preco=20.29 SKU=76429
+Nome="Algodão Apolo CAIXA 50gr" Preco=6.23 SKU=243403
+Nome="Vichy Normaderm Esfoliante 3 em 1 125ml" Preco=147.97 SKU=320435
+Nome="Barra de Proteína Everlast | Sabor Cookies com Brigadeiro - 01 unidade" Preco=12.9 SKU=169275
+Nome="Ansiodoron com 220 comprimidos" Preco=179.79 SKU=61275
+Nome="Absorvente Interno Intimus Mini 16 unidades" Preco=18.89 SKU=62396
+Nome="Cereal Mucilon Banana, Maçã e Quinoa Infantil com 180g" Preco=6.75 SKU=29255
+Nome="Adoçante Líquido Linea 100% Stevia com 25ml" Preco=6.95 SKU=152542
+Nome="Cloridrato de Metformina 850mg 30 comprimidos Prati Donaduzzi Genérico" Preco=5.35 SKU=57313
+Nome="Aparelho de Depilar Gillette Venus Tropical Feminino com 3 unidades" Preco=20.39 SKU=8547
+Nome="Esteira elétrica Academia Polimet Nitro N12 110V/220V Preta" Preco=3099.9 SKU=391995
+Nome="L Glutamina 100% Pura 1000mg 120 Cápsulas - Unilife	 - A" Preco=69.9 SKU=237204
+Nome="Xarelto Rivaroxabana 20mg 28 Comprimidos" Preco=270.54 SKU=20527
+Nome="Difusor de Ambiente Glade Lembranças de Infância 100ml" Preco=17.95 SKU=179179
+Nome="Pasta de Dente Colgate Sensitive Pro-Alívio Repara Esmalte com 110g" Preco=16.59 SKU=59506
+Nome="Óleo Capilar Pantene Pro-V Antifrizz Unidas pelos Cachos com 95ml" Preco=19.07 SKU=70161
+Nome="KIT Size Mass 3kg + Creatina 100g + BCAA Fit 100g Tangerina + Coqueteleira - BRN Foods Sabor: Morango" Preco=149.9 SKU=407905
+Nome="Máscara Descartável Tripla Proteção Needs Infantil com 100 unidades" Preco=99.99 SKU=117658
+Nome="Curaprox Escova de Dente 5460 Ultra Soft Cor Variada com 1 unidade" Preco=25.39 SKU=57353
+Nome="Bolsa Térmica Mamadeira Preta" Preco=79 SKU=354123
+Nome="Coletor de Leite Materno Lolly Silicone com 1 unidade" Preco=65.89 SKU=152750
+Nome="Óleo de Noz Pecã Extra Virgem Pazze 250ml" Preco=52.9 SKU=171290
+Nome="Meia Feminina Kendall Média Compressão 3/4 Cor Bege Tamanho M com 1 par" Preco=63.39 SKU=31657
+Nome="Hidratante Corporal Neutrogena Body Care Intensive Hidrata&Suaviza com 400ml" Preco=27.29 SKU=138748
+Nome="Lenço Removedor de Esmalte sem Perfume com Blister - Clean My Nails 2 Go 25un" Preco=4 SKU=400355
+Nome="Cloridrato de Venlafaxina 150mg 30 cápsulas de liberação controlada Eurofarma Genérico" Preco=61.74 SKU=8804
+Nome="Faixa Elástica Vitalband Fisiovital Forte Especial Cor Preta - 15cm x 1,5m x 0,55 mm" Preco=70.51 SKU=242120
+Nome="Dorflex Uno Dipirona Monoidratada 1g 20 comprimidos" Preco=22.49 SKU=79411
+Nome="Ems Simeticona Simeticona 125mg 10 cápsulas" Preco=12.29 SKU=63367
+Nome="Suplemento Alimentar Matrion com 30 Comprimidos" Preco=49.59 SKU=111297
+Nome="Barra de Banana com Chocolate Meio Amargo Nutrigood 24g" Preco=2.99 SKU=305923
+Nome="Lip Balm Natural com Cor 4,25g  Lafes" Preco=61.95 SKU=115376
+Nome="Rosucor Rosuvastatina Cálcica 20mg 60 comprimidos" Preco=94.99 SKU=3945
+Nome="Escova de Dente Infantil Colgate My First Extra Macia de 0 a 2 anos com 1 unidade" Preco=17.19 SKU=28337
+Nome="Kit Lixas De Unha" Preco=20.88 SKU=258403
+Nome="Pasta de Castanha de Caju Naked Nuts Chocolate Belga Crocante com 450g" Preco=61.79 SKU=80069
+Nome="Pedra Pomes Needs com 1 unidade" Preco=2.99 SKU=5144
+Nome="Teste de Gravidez Tira BABY SURE" Preco=7.62 SKU=221247
+Nome="Carrinho De Passeio Bebê Oppa Até 15Kgs Cinza Fisher Price" Preco=989 SKU=419611
+Nome="Repelente Infantil Exposis Gel com 40ml" Preco=26.89 SKU=46003
+Nome="BOLSAS TÉRMICAS DE GEL PARA SEIOS (THERMOPADS) PHILIPS AVENT" Preco=141.5 SKU=311142
+Nome="Shampoo a Seco Ricca Maçã do Amor" Preco=25.99 SKU=79084
+Nome="Suplemento Vitamínico Vitasay A-Z Energia 90 Comprimidos" Preco=74.93 SKU=334195
+Nome="Unha Postiça Natural Ricca com Curvatura com 24 Unidades" Preco=10.13 SKU=303177
+Nome="Carverol 250mg com 20 comprimidos" Preco=30.19 SKU=10632
+Nome="Gel de Limpeza e esfoliante vegano Pira Cosmeticos" Preco=66 SKU=175361
+Nome="Gel Lubrificante Vaginal Vagisil com 100g" Preco=27.59 SKU=13460
+Nome="Desodorante Natural Cristal Lcs 120G" Preco=89.9 SKU=256431
+Nome="Loção Hidratante Corporal Johnson's Recém-Nascido com 200ml" Preco=33.99 SKU=60712
+Nome="Troninho Infantil Fox Potty Safety 1st Raposa  -  Blue" Preco=279 SKU=402094
+Nome="Fralda Needs Baby Mega XG - 36 Unidades" Preco=35.9 SKU=147190
+Nome="Palito de Madeira para Unha Ricca com 6 Unidades" Preco=2.05 SKU=300081
+Nome="Fórmula Infantil NAN Soja com 800g" Preco=79.49 SKU=35632
+Nome="Lenço Umedecido Needs Baby Camomila com 44 unidades" Preco=7.9 SKU=75844
+Nome="Shampoo Suave Naturals Hidratação e Nutrição Óleo de Coco e Abacate " Preco=6.19 SKU=16617
+Nome="Vitamina E Vigora Plus 60 Cápsulas" Preco=61.49 SKU=243471
+Nome="Umidificador com Extensão e Máscara" Preco=43.02 SKU=311441
+Nome="Barra de Amendoim, Castanha e Semente Pinati Nuts Original com 25g" Preco=9.49 SKU=173518
+Nome="Redubio Quitosana 500mg com 60 cápsulas " Preco=32.97 SKU=4632
+Nome="Creme para Pentear Seda Cocriações Cachos Definidos com 300ml" Preco=8.95 SKU=50518
+Nome="Suplemento Alimentar Nutren Senior Sem Sabor Nestlé com 370g" Preco=76.49 SKU=42704
+Nome="Fórmula Infantil Ninho Nutrigold Nestlé A Partir de 1 ano 800g" Preco=49.99 SKU=33957
+Nome="Tonalizante Hidratante C.Kamura Color Intense Banho de Brilho Prata com 100g" Preco=28.9 SKU=251476
+Nome="Sabonete Líquido Facial Darrow Actine Control Pele Oleosa com 140ml" Preco=34.99 SKU=8264
+Nome="Sanfarma Confira Teste De Gravidez Prático C/1 (kit C/03)" Preco=32.62 SKU=438553
+Nome="Suplemento Vitamínico-Mineral Maq Derma com 30 cápsulas" Preco=86.49 SKU=11981
+Nome="Creme Fixador de Dentadura Ultra Corega Sem Sabor com 2 unidades de 68g cada" Preco=95.05 SKU=79155
+Nome="Fita Micropore Nexcare O Original Bege com 1 rolo de 12mmx4,5m" Preco=6.09 SKU=37176
+Nome="Whey Isolado Muke Cookies N'Cream 31g" Preco=11.69 SKU=73195
+Nome="Shampoo Color Grecin 5 Tonalizante Masculino Castanho Escuro com 1 unidade" Preco=25.99 SKU=21080
+Nome="Hastes Flexíveis de Segurança Chicco Cotonetes com 60 unidades" Preco=12.89 SKU=228217
+Nome="Base Fortalecedora Blant com Óleo de Cravo 8,5ml" Preco=15.9 SKU=336293
+Nome="Almofada Térmica Adesiva BodiHeat com 1 unidade" Preco=11.19 SKU=41753
+Nome="Kit Phytoervas Antiqueda com 1 Shampoo + 1 Condicionador com 250ml cada" Preco=34.59 SKU=77118
+Nome="Suplemento Alimentar Lavitan Cranberry com 30 cápsulas" Preco=42.39 SKU=73231
+Nome="Óleo Para Barba Needs com 30ml" Preco=21.9 SKU=170085
+Nome="Probiótico Culturelle Junior Sem Açúcar com 30 sachês" Preco=184.99 SKU=147234
+Nome="Biotina B7 500mg 60 Cápsulas - Unilife	 - A" Preco=41.9 SKU=236956
+Nome="Fralda Geriátrica Tena Confort G Unissex 8 unidades" Preco=21.39 SKU=6333
+Nome="Shampoo Anticaspa Profuse Zetar Intensivo com 150ml" Preco=71.49 SKU=59339
+Nome="Loção Hidratante Umiditá Gestante 200ml" Preco=78.99 SKU=4696
+Nome="Pack Com 24 Águas Tônica Classic - Original Tonic- 200ml" Preco=219.9 SKU=204369
+Nome="Álcool Gel 70% Muriel com 100ml" Preco=2.76 SKU=78109
+Nome="NIVEA LIP CARE SUN FPS 30 LABIAL" Preco=20.7 SKU=257038
+Nome="Tintura Semi-Permanente Casting Creme Gloss 535 Chocolate" Preco=26.99 SKU=996
+Nome="CONCHA PARA SEIO PHILIPS AVENT - SCF157/02 - TRANSPARENTE:37847" Preco=129.9 SKU=148009
+Nome="Cloridrato de Ambroxol 15mg/5ml xarope 120ml EMS Genérico" Preco=13.2 SKU=97602
+Nome="Kit 3 Ômega 3 Pro Kids Equaliv 60 cápsulas Sabor Laranja" Preco=299.9 SKU=169825
+Nome="Kit De Higiene Cuidados Do Bebê 5 Peças (0m+) Azul - Buba" Preco=44.9 SKU=401978
+Nome="Espuma de Barbear Nivea Men Deep Suave 200ml" Preco=18.79 SKU=74072
+Nome="Pente Fino de Plástico Needs com 1 unidade" Preco=3.99 SKU=72817
+Nome="Lápis Labial Maybelline Color Sensational Cor 210 Sorte No Jogo com 1 unidade" Preco=36.99 SKU=8150
+Nome="Colírio Hyabak 0,15% 10ml" Preco=59.39 SKU=14951
+Nome="Condicionador Aussie Moist com 180ml" Preco=16.59 SKU=34403
+Nome="Creme Anti-Idade IsdinCeutics K-Ox Eyes 15g" Preco=180.99 SKU=40588
+Nome="Água Micelar L'Oréal Paris Efeito Matte com 100ml" Preco=24.99 SKU=77049
+Nome="Shampoo Head & Shoulders Remoção da Oleosidade com 400ml" Preco=20.29 SKU=8036
+Nome="Bepantol Derma Regenerador Labial 7,5ml" Preco=30.99 SKU=60597
+Nome="Pano de Boca 2 Unidades Passarinhos Baby Joy" Preco=21.9 SKU=341591
+Nome="Shake Sensylac Sabor Baunilha 400g Sem Lactose" Preco=69.9 SKU=404291
+Nome="Floral de Bach Polinize Rescue Urgências com 30ml" Preco=40.79 SKU=75898
+Nome="Puran T4 Levotiroxina Sódica 88mcg 30 comprimidos" Preco=18.17 SKU=77772
+Nome="Desinchá Noite com 60 sachês" Preco=91.17 SKU=73269
+Nome="Compressas de Gaze Cremer Max com 10 unidades" Preco=3.15 SKU=294
+Nome="Balança Digital de Controle Corporal com Bioimpedância G-Tech Glass 7FW com 1 unidade" Preco=149.49 SKU=78151
+Nome="Joelheira Articulada Needs G com 1 unidade" Preco=99.89 SKU=11421
+Nome="Shampoo Infantil Johnson's Baby Regular 400ml" Preco=16.39 SKU=75523
+Nome="Seda Boom Definição Creme para Pentear com 1kg" Preco=22.39 SKU=11831
+Nome="Agulha para Caneta Aplicadora de Insulina Needs 4mm com 100 unidades" Preco=84.49 SKU=117332
+Nome="Álcool Gel Higkel Neutro com 60g" Preco=1.52 SKU=77089
+Nome="Limpador de Língua Dentalclean Hálito Fresco com 1 unidade" Preco=16.29 SKU=224163
+Nome="Kit Dove Hidratação Intensa Shampoo com 400ml + Condicionador com 200ml" Preco=23.9 SKU=22638
+Nome="Kit com 4 Unidades de Ômega Kids - 500mg - 60 Caps cada - Unilife" Preco=110.59 SKU=228436
+Nome="Ureadin 10 Loção Hidratante de Ureia Pele Seca 400ml" Preco=99.49 SKU=35901
+Nome="Protetor de Mamilo de Silicone Neopan com 1 Unidade" Preco=16.99 SKU=243462
+Nome="Aturgyl Cloridrato de Oximetazolina 0,5mg/ml Solução Nasal Spray 15ml" Preco=15.59 SKU=74440
+Nome="Redoxon Tripla Ação com 30 Comprimidos" Preco=21.94 SKU=113162
+Nome="Nimesulida 100mg 12 comprimidos Eurofarma Genérico" Preco=5.35 SKU=50199
+Nome="Suplemento Alimentar em Pó Lumier Age - 30 Sachês de 12g cada" Preco=135.99 SKU=79199
+Nome="Esomeprazol Magnésico Tri-Hidratado 40mg 28 comprimidos AstraZeneca Genérico" Preco=139.15 SKU=35987
+Nome="Esmalte Dailus Devendo e Luxando Tá Passada? 8ml" Preco=6.99 SKU=329150
+Nome="HIDRATANTE DE BANHO MOUSTIERS SAINTE-MARIE KARIT E MACADMIA 250ML:3072" Preco=57.2 SKU=120141
+Nome="Atorvastatina Cálcica 40mg 30 comprimidos EMS Genérico" Preco=40.38 SKU=62486
+Nome="Protetor Diário Plenitud Femme Médio com 14 Unidades" Preco=11.09 SKU=21154
+Nome="Shampoo Barba Forte Gasoline para Barba e Cabelo com 250ml" Preco=23.89 SKU=160982
+Nome="Óleo de Prevenção de Estrias Mustela Maternité 105ml" Preco=87.99 SKU=61463
+Nome="Condres Colágeno Não Hidrolisado Tipo II com 90 cápsulas" Preco=346.99 SKU=78701
+Nome="Máscara de Dormir Carros - ETITOYS" Preco=5.88 SKU=220889
+Nome="Mamadeira MAM Easy Active Neutra 4 meses+ com 1 unidade" Preco=63.19 SKU=77262
+Nome="Maleato de Dexclorfeniramina 0,4mg/ml Solução Oral 120ml Prati Donaduzzi Genérico" Preco=9.04 SKU=110516
+Nome="Fórmula Infantil Aptamil Profutura 1 800g" Preco=73.49 SKU=353832
+Nome="Tesoura para Cabelo Tramontina Supercort Aço Inox Fio Desbaste Onix 6"" Preco=67.5 SKU=279026
+Nome="Atadura de Crepom Needs 100% algodão rolo com 10cm x 1,8m" Preco=4.69 SKU=13624
+Nome="Fio Dental com Cabo G.U.M Flosser Original com 20 unidades" Preco=11.09 SKU=49277
+Nome="Creme para Mãos Nivea 3 em 1 Reparação 75ml" Preco=19.49 SKU=78739
+Nome="Kit Sabonete Líquido Facial Actine Pele Oleosa 140ml + 60ml Grátis" Preco=46.99 SKU=385096
+Nome="Kit de Viagem Needs Micelar Fantásticos com 1 Shampoo + 1 Condicionador de 100ml cada" Preco=17.99 SKU=78554
+Nome="Kit Com 6 Unidades Unispray30" Preco=85.86 SKU=203837
+Nome="Termômetro Digital Multilaser Branco 1 Unidade" Preco=17.69 SKU=111128
+Nome="Ofolato Sop 30 Sachês" Preco=148.69 SKU=324233
+Nome="Shampoo Herbal Essences Bio Renew Argan Oil Of Marrocco com 400ml" Preco=25.43 SKU=76392
+Nome="Stressdoron Weleda com 80 comprimidos" Preco=80.99 SKU=15605
+Nome="Loção Hidratante Corporal CeraVe 473ml" Preco=79.99 SKU=27511
+Nome="Carga para Aparelho de Barbear Gillette Fusion Proshield com 2 unidades" Preco=50.19 SKU=7648
+Nome="Absorvente Interno Intimus  Sport Super 8 unidades" Preco=20.89 SKU=22748
+Nome="Base Líquida Vult HD Alta Cobertura À Prova D'água Cor B-30 com 26ml" Preco=45.9 SKU=9853
+Nome="Clareador Facial Isdin FotoUltra Active Unify Fusion Fluid Color FPS 99 50ml" Preco=97.99 SKU=622
+Nome="Copo de Transição Philips Avent Easy Sip 6M+ Rosa com 200ml" Preco=38.19 SKU=79562
+Nome="Cafeina 6 Unidades 500mg C/60 Capsulas200mg - Linduras" Preco=142.9 SKU=302535
+Nome="Hemifumarato de Bisoprolol 5,0mg 30 comprimidos Merck Genérico" Preco=41.18 SKU=22532
+Nome="Algodão Apolo 500gr" Preco=39.19 SKU=304183
+Nome="Discos de Algodão Ricca 70 Unidades" Preco=8.9 SKU=354700
+Nome="Suplemento Alimentar Glucerna Fit Sabor Baunilha com 330ml" Preco=6.99 SKU=110572
+Nome="Banco Fixo Academia Para Exercícios Aço Carbono Azul Polimet" Preco=739.9 SKU=391989
+Nome="CONJUNTO MATCHA DE CERMICA HONSHU:78093" Preco=1209.26 SKU=168242
+Nome="Tipoia Estofada Imobilizadora Velpeau Needs G Bilateral" Preco=52.9 SKU=7925
+Nome="Desodorante Vegano Chá Verde 120ml - Organico Natural	 - A" Preco=34.9 SKU=234456
+Nome="Barra de Proteína Sabor Cacau, Maca Peruana e Pasta de Amendoim Bio2 (Cx c/ 12 un de 45g)" Preco=124.41 SKU=284116
+Nome="Cera Depilatória Facial Depi Roll Resistance Algas com 16 folhas prontas + 1 sachê pós-depilatório" Preco=13.39 SKU=51679
+Nome="Floral Spray Bucal Natural Flowers Kids s/ Álcool Fases de Mudança 30 ml" Preco=30.38 SKU=301385
+Nome="Ácido Acetilsalicílico 500mg 10 comprimidos EMS Genérico" Preco=2.41 SKU=40007
+Nome="Mascara Descartável Tripla Camada Com Filtro Meltbrown 50 Und Medcombo" Preco=24.99 SKU=299977
+Nome="Chapinha Lizz Professional Sigma Titanium Espelhado Bivolt" Preco=636.38 SKU=277722
+Nome="Levotiroxina Sódica 125mcg 30 comprimidos Merck Genérico" Preco=7.84 SKU=43736
+Nome="Compressa de Gaze Needs não Aderente 10 unidades" Preco=2.89 SKU=303169
+Nome="Autoteste Antígeno Nasal Covid-19 Needs com 1 unidade" Preco=64.9 SKU=336116
+Nome="Polivitamínico Ogestan Plus Gestantes e Lactantes 90 cápsulas" Preco=219.99 SKU=9136
+Nome="Pasta de Amendoim com Acuçar de Coco Newnutrition" Preco=20.53 SKU=237706
+Nome="Extrato de Própolis Propomax com 30 cápsulas" Preco=53.39 SKU=81097
+Nome="Shampoo Anticaspa Head & Shoulders Men 3 em 1 com 400ml" Preco=20.29 SKU=56232
+Nome="Gel Lubrificante Íntimo Needs com 50g" Preco=11.9 SKU=70298
+Nome="Desodorante Rexona Men Clinical Clean Antitranspirante em Creme com 48g" Preco=22.49 SKU=54380
+Nome="Dymista Cloridrato Azelastina 1mg + Propionato Fluticosona  0,365mg Spray Nasal 120 doses" Preco=118.49 SKU=4572
+Nome="Árago Esfoliante Prebiótico Bioprotetor 60g" Preco=65.71 SKU=320699
+Nome="Condor Hot Wheels Fio Dental 25m (kit C/12)" Preco=157.64 SKU=480118
+Nome="Gelatina Capilar Salon Line #To de Cacho Super Definição com 550g" Preco=29.29 SKU=152012
+Nome="Máscara Cirúrgica Descartável Tripla PhittaMask com 50 unidades" Preco=89.99 SKU=111515
+Nome="Adoçante Líquido Linea Xilitol e Sucralose com 60ml" Preco=18.29 SKU=161053
+Nome="Almofada Térmica Adesiva BodiHeat com 1 unidade" Preco=11.19 SKU=41753
+Nome="Suplemento Vitamínico Puravit Imune Solução Oral com 75ml + dosador" Preco=54.6 SKU=45664
+Nome="Unhas Postiças Ricca Francesinha Nude 24 Unidades" Preco=18.37 SKU=303180
+Nome="Fita Micropore Nexcare Original Branca com 1 rolo de 25mmx4,5m" Preco=11.24 SKU=67844
+Nome="Protetor Solar Facial Needs FPS 30 60g" Preco=27.9 SKU=24854
+Nome="Máscara de Tratamento Capilar Pantene Pro-V Bambu com 600ml" Preco=23.69 SKU=77724
+Nome="Suplemento Alimentar Extima Banana com 600g" Preco=264.99 SKU=138907
+Nome="Creatina Black Skull Creatine Turbo 150g" Preco=79 SKU=319798
+Nome="Creme Clareador Profuse Clair Olhos Correct Color 15g" Preco=142.99 SKU=9310
+Nome="Sabonete em Barra Johnson's Baby Original com 80g" Preco=3.79 SKU=59594
+Nome="Barra de Amendoim, Castanha e Semente Pinati Nuts Canela com 30g" Preco=4.29 SKU=173519
+Nome="AQUECEDOR DE MAMADEIRAS E ALIMENTOS 127V - PHILIPS AVENT" Preco=499.99 SKU=507283
+Nome="Tesoura KM-04 para unhas Macrilan" Preco=7.9 SKU=409275
+Nome="Esponja para Maquiagem Flat Blend Mariana Saad by Océane com 1 unidade" Preco=31.39 SKU=37017
+Nome="Nebulizador Pulmopar Plus - Soniclear" Preco=282.9 SKU=432666
+Nome="Kit Creme Fixador de Dentadura Fixodent Original com 2 unidades com 68g" Preco=89.9 SKU=7073
+Nome="Oxalato de Escitalopram 10mg 60 Comprimidos Aché Biosintética Genérico" Preco=37.77 SKU=42287
+Nome="Colírio Adaptis 0,5% com 10ml" Preco=29.49 SKU=124
+Nome="Soutien Extração de Leite Top Easy Expression Tam.G - Medela" Preco=339 SKU=399994
+Nome="Fórmula Infantil Nanlac Comfor Nestlé 1 a 3 anos 800g" Preco=49.99 SKU=49895
+Nome="Shampoo Herbal Essences Bio:Renew Óleo de Moringa Dourada com 400ml" Preco=25.43 SKU=76404
+Nome="Suplemento Alimentar Nutren Active Nestlé Baunilha com 400g" Preco=44.99 SKU=67723
+Nome="Doppler Fetal Portátil FD-200A MD" Preco=675.12 SKU=204643
+Nome="Agulha 4mm para Caneta de Insulina 100 unidades MedLevensohn " Preco=47.9 SKU=321884
+Nome="Fita de Kinésio 3M Futuro com 1 rolo" Preco=78.99 SKU=15221
+Nome="Assento Elevatório Pocket Snack Mandarino - Chicco" Preco=349.9 SKU=281978
+Nome="Álcool Gel Giovanna Baby Blue com 60ml" Preco=7.65 SKU=54022
+Nome="Loção Facial Pós-Barba Bozzano Mentolada Antibac com 100ml" Preco=25.49 SKU=19993
+Nome="Ibupril Ibuprofeno 600mg 20 comprimidos" Preco=6.38 SKU=75738
+Nome="Lufty 75mg/ml Emulsão Oral Sabor Cereja 15ml" Preco=5.49 SKU=422873
+Nome="SHAKE DIET WEEK MAXINUTRI BAUNILHA 360G:1099165" Preco=21.91 SKU=307477
+Nome="Creme Antiestrias Mustela Maternité 3 em 1 250ml" Preco=107.49 SKU=1112
+Nome="Esomeprazol Magnésico Tri-Hidratado 20mg 14 comprimidos EMS Genérico" Preco=32.76 SKU=40214
+Nome="Tamarine Probium" Preco=52.18 SKU=44562
+Nome="Shampoo Antiqueda Mantecorp Pielus com 200ml" Preco=75.99 SKU=46322
+Nome="Protetor para os Pés Needs Adesivo Hipoalergênico com 1 rolo de 25mm x 4,5m" Preco=8.69 SKU=5355
+Nome="Água Tônica Petra Zero Açúcar 350ml" Preco=3.21 SKU=228540
+Nome="Hair Spray Charming Extra Forte com 50ml" Preco=13.79 SKU=11151
+Nome="Loratadina 1mg/ml Xarope 100ml Cimed Genérico" Preco=17.39 SKU=46606
+Nome="Kit Repelente Elétrico Raid Family 45 Noites Aparelho + Refil com 32,9ml" Preco=22.9 SKU=148773
+Nome="Chupeta NUK Silicone Fashion Boy Listrada S2 com 1 Unidade" Preco=18.19 SKU=13868
+Nome="Algodão Quadrado Cremer com 40g" Preco=6.29 SKU=110604
+Nome="Óleo Essencial Melaleuca Tea Tree Puro 10ml - Via Aroma" Preco=57.9 SKU=227311
+Nome="Retoque de Raiz Magic Retouch L'Oréal Castanho Claro com 75ml" Preco=42.19 SKU=21887
+Nome="Refil para Escova Interdental Curaprox Prime 0,07mm 8 unidades" Preco=29.9 SKU=397855
+Nome="Protetor Diário Intimus Cuidado Diário com 80 Unidades" Preco=21.9 SKU=43634
+Nome="Fórmula Infantil Aptanutri Premium 3 800g" Preco=56.67 SKU=353835
+Nome="Nathy Algodão Bolinha Kit de 5 Saquinhos de 100g" Preco=46.31 SKU=364169
+Nome="Traumeel S Arnica Montana D3 + Associação Pomada com 50g" Preco=72.49 SKU=24312
+Nome="Sédatif PC com 60 comprimidos" Preco=78.49 SKU=24158
+Nome="Gel Lubrificante Íntimo K-Y Original com 3 unidades de 5g cada" Preco=9.25 SKU=72374
+Nome="Lenço Umedecido Johnson's Limpeza e Suavidade Kit 4 pacotes com 44 unidades cada" Preco=44.99 SKU=66397
+Nome="Suplemento Alimentar Artromobil com 60 Cápsulas" Preco=212 SKU=172156
+Nome="Polinize Florais Sentimento de Ansiedade Florais de Bach com 30ml" Preco=40.79 SKU=75906
+Nome="Kit Dove Reconstrução Completa com 1 Shampoo de 400ml + 1 Condicionador de 200ml" Preco=23.9 SKU=5938
+Nome="Copo de Treinamento Kuka Fun Antivazamento Azul 330ml" Preco=28.29 SKU=6388
+Nome="Extrator de Leite Manual Avent Lótus Transparente SCF430/01 com 1 unidade" Preco=305.99 SKU=154745
+Nome="Dipirona Monoidratada 1g 10 comprimidos Neo Química Genérico" Preco=14.49 SKU=19062
+Nome="Suplemento Alimentar Folicê com 30 Comprimidos" Preco=52.59 SKU=140091
+Nome="Hemifumarato de Bisoprolol 2,5mg 30 comprimidos Merck Genérico" Preco=35.78 SKU=22531
+Nome="Bobes para o Cabelo Ricca Auto Aderente N°4 com 4 unidades" Preco=12.29 SKU=24959
+Nome="Modelador De Cachos Duo Spirale Gama Ceramic Ion 19 E 32mm" Preco=129.9 SKU=277685
+Nome="Fralda Geriátrica Bigfral Derma Plus P 9 unidades" Preco=24.29 SKU=117511
+Nome="Pasta de Dente Prevent Antiplaca com Flúor de 90g" Preco=14.9 SKU=43159
+Nome="Suplemento Alimentar Vitafor Isofort Chocolate 1800g" Preco=499 SKU=243119
+Nome="Seringa de Insulina BD Ultra-Fine 8mm 50UI com 10 unidades" Preco=38.19 SKU=98678
+Nome="Shampoo Anticaspa Pielus DI com 200ml" Preco=76.49 SKU=110421
+Nome="Jump profissional - com 36 molas e 6 pés Acte" Preco=803.91 SKU=257921
+Nome="PANO  DE BOCA ALVINHA" Preco=21.41 SKU=372902
+Nome="Loção Hidratante Corporal Umiditá Pele Seca e Extra Seca com 500ml" Preco=108.63 SKU=64061
+Nome="Creme para Pentear Seda Boom Volumão com 1kg" Preco=21.79 SKU=11827
+Nome="Tintura Wella Soft Color 40 Castanho Médio com 1 unidade" Preco=19.89 SKU=39395
+Nome="Creme de Avelã Extra Cacau Flormel Zero Açúcar com 150g" Preco=18.89 SKU=117686
+Nome="Carrinho de Passeio London Up Matrix - Chicco" Preco=999 SKU=281974
+Nome="Sérum Corretor Facial Antiacne Avène Cleanance Comedomed 30ml" Preco=163.99 SKU=78106
+Nome="Shampoo Anticaspa Clear Men Queda Control com 400ml" Preco=27.9 SKU=55470
+Nome="Kit Para Cabelo Lolly Oceano Rosa com 1 Unidade" Preco=25.19 SKU=152746
+Nome="Loção Hidratante Umiditá Gestante 200ml" Preco=78.99 SKU=4696
+Nome="Removin Ideal 500ml" Preco=20.7 SKU=355442
+Nome="Adesivo Salonpas Tamanho P com 10 unidades" Preco=7.55 SKU=74438
+Nome="Adesivo para Remoção de Cravos do Nariz Needs Beauty com 3 unidades" Preco=13.41 SKU=75934
+Nome="Pré-Treino Vitafor V- Fort Frutas Vermelhas 240g" Preco=122.49 SKU=79151
+Nome="Fio Dental com Haste Oral-B Expert Floss Picks com 45 unidades" Preco=32.79 SKU=77963
+Nome="Esmalte Dailus Devendo e Luxando Aí que Mora o Perigo 8ml" Preco=7.25 SKU=329202
+Nome="Tesoura para Cabelo Tramontina Supercort Aço Inox Fio Laser Rosa 6"" Preco=34.22 SKU=279036
+Nome="Demaquilante Bifásico Needs com Vitamina E Sem Perfume com 115ml" Preco=24.04 SKU=2584
+Nome="Esfoliante Cremoso Face E Corpo Bálsamo Verde - Awi" Preco=61.63 SKU=256432
+Nome="Shampoo Anticaspa Ducray Kelual DS com 100ml" Preco=84.99 SKU=51489
+Nome="Esparadrapo Impermeável Nexcare Bege de 25mm x 0,9m com 1 unidade" Preco=4.09 SKU=3815
+Nome="Barra de Amendoim, Castanha e Semente Pinati Nuts Original com 2 unidades de 30g cada" Preco=9.49 SKU=173516
+Nome="Fralda Needs Baby Mega XXG - 34 Unidades" Preco=35.9 SKU=147191
+Nome="Suplemento Alimentar Guaraná 500mg Maxinutri 60 Cápsulas" Preco=30.49 SKU=349557
+Nome="Absorvente Intimus Ultrafino Tecnologia Antibacteriana Com Abas com 28 unidades" Preco=17.29 SKU=79982
+Nome="Gillette Venus Suave Sensitive Depilador Descartável com 2 unidades" Preco=14.35 SKU=111678
+Nome="Hastes Flexíveis Topz 75 Unidades" Preco=3.19 SKU=170911
+Nome="Kit 2 Ômega 3 Pro Kids Equaliv 60 cápsulas Sabor Laranja" Preco=199.9 SKU=169824
+Nome="Chupeta MAM Start Cor Rosa Tamanho RN a 2 meses com 1 unidade" Preco=24.49 SKU=77252
+Nome="Atrovent Brometo de Ipratrópio 0,25mg/ml Solução para Inalação Gotas 20ml" Preco=23.59 SKU=82545
+Nome="Batom Vegano Dailus Matte Cor 08 Desafiadora" Preco=11.59 SKU=76004
+Nome="Gillette Prestobarba 3 Body Sense Barbeador Descartável com 2 unidades" Preco=13.29 SKU=36531
+Nome="Odorizador de Ambiente Glade Toque de Maciez 5 em 1 360ml" Preco=14.15 SKU=224278
+Nome="Escova de Dente Infantil MAM Training Brush Rosa com 1 unidade" Preco=24 SKU=73926
+Nome="Protetor Labial Lip Ice Maçã Verde FPS 15 com 3,5g" Preco=5.49 SKU=14418
+Nome="Refil Gel de Limpeza Profunda Vichy Normaderm com 240g " Preco=50.79 SKU=117778
+Nome="Floral Spray Bucal Natural Flowers Momentos de Tensão e Stress 30 ml" Preco=30.38 SKU=301368
+Nome="Repelente de Insetos Xô Inseto Icaridina Spray com 100ml" Preco=36.59 SKU=73568
+Nome="Desodorante Coco e Magnésio Boni Natural 55ml" Preco=23.09 SKU=274245
+Nome="Creme para as Mãos Nivea Q10 Plus Anti-Idade com 75g" Preco=19.39 SKU=23259
+Nome="CÁPSULA ESTERILIZADORA INCICLO" Preco=29.9 SKU=283360
+Nome="Kit QOD Barber Shop Whiskey Black Shampoo com 220ml + Leave-In 220ml" Preco=47.99 SKU=226679
+Nome="Suplemento Alimentar para Cabelos e Unhas Anacaps Activ+ com 30 cápsulas" Preco=130.99 SKU=9316
+Nome="Condicionador Aussie Smooth Antifrizz com 180ml" Preco=16.59 SKU=34404
+Nome="Curativo Transparente Needs Resistente à Água com 40 unidades" Preco=8.59 SKU=13606
+Nome="Pré-Cut Aplicação Punho KP133 Azul Ortho Pauher" Preco=6.02 SKU=276849
+Nome="Spray Engrossador para Cabelo Tío Nacho com 120ml" Preco=35.19 SKU=25417
+Nome="INFUSOR DE AÇO INOX TALCHÁ DRINK TEA" Preco=54.9 SKU=168245
+Nome="Suplemento Alimentar Nutridrink Protein Morango com 200ml" Preco=18.49 SKU=69300
+Nome="Gel Tonalizante Grecin Tons de Grisalho com 40g" Preco=59.9 SKU=48879
+Nome="Base Fortalecedora Blant Complexo 4X1 8,5ml" Preco=15.9 SKU=336272
+Nome="Kit 2uni Propco Spray de Própolis, Mel e Gengibre (35ml) - Baldoni" Preco=35.24 SKU=410534
+Nome="Kit 5 Eritritol adoçante natural Apisnutri 300g" Preco=178.9 SKU=168766
+Nome="Oxalato de Escitalopram 20mg 30 comprimidos  Aché Biosintética Genérico" Preco=30.38 SKU=14777
+Nome="Batom Adcos Ultra Nutrição Labial com 3,5g" Preco=135 SKU=61127
+Nome="Gel de Limpeza Neutrogena Acne Proofing com 200ml" Preco=30.79 SKU=17600
+Nome="Incenso Balaji Mytic Moon 15g" Preco=14.06 SKU=227547
+Nome="Creme Ellamamy Bellaphytus Protetor Seios 50g" Preco=16.02 SKU=398165
+Nome="Arnica Almeida Prado Montana CH6 com 15ml" Preco=24.79 SKU=117264
+Nome="Suplemento Alimentar Nutridrink Protein Baunilha com 350g" Preco=62.79 SKU=40621
+Nome="Esterilizador a Vapor para Microondas Clean & Dry - Multikids Baby" Preco=135.9 SKU=509583
+Nome="Condicionador Inoar Meu Cacho Meu Crush com 400ml" Preco=20.69 SKU=116965
+Nome="Kit 2 Ômega 3 VEG Microalgas Vegetal Catarinense 30 cápsulas" Preco=165.9 SKU=170439
+Nome="Fio Dental Powerdent Ocean kids Powerfloss 24 Unidades" Preco=22.19 SKU=243084
+Nome="Suplemento Vitamínico Imecap Hair Cabelos e Unhas - 60 Cápsulas" Preco=49.59 SKU=35965
+Nome="Pó para Bebida Cranberry CR 400mg Sem Açúcar com 30 sachês" Preco=99.49 SKU=30728
+Nome="Shampoo Granado Bebê Tradicional com 250ml" Preco=12.99 SKU=33160
+Nome="Bio Cálcio 60 Capsulas Puravida - Sem sabor" Preco=89.97 SKU=411280
+Nome="Pó Descolorante Lightner Germém de Trigo com 20g" Preco=6.59 SKU=30605
+Nome="Termômetro Digital Infravermelho Multilaser" Preco=132.95 SKU=341769
+Nome="Disco de Algodão Needs Beauty com 100 unidades" Preco=13.99 SKU=5247
+Nome="KIT talchá Dengo" Preco=444.6 SKU=411223
+Nome="Spray Fixador para Cabelo Karina Controle & Volume Fixação Extra Forte com 400ml" Preco=28.49 SKU=36907
+Nome="Dipirona Monoidratada 500mg 10 comprimidos EMS Genérico" Preco=4.49 SKU=59568
+Nome="Glutamina Vitafor Glutamine 1kg" Preco=265.99 SKU=243488
+Nome="Pronovin Ativador Bomba Kpriche Super Crescimento 30ml" Preco=45 SKU=254313
+Nome="Água Mineral Natural Alcalina FOZ 500 ml - Caixa com 12 un." Preco=82.9 SKU=348822
+Nome="Kelma Creme Esfoliante Desodorante P/ Corpo 950g (kit C/06)" Preco=173.36 SKU=426109
+Nome="Sanfarma Confira Teste De Gravidez Prático C/1 (kit C/12)" Preco=132.64 SKU=438554
+Nome="Espátula Plástica para Creme Vertix com 6 Unidades" Preco=5.85 SKU=302853
+Nome="Creme para Pentear Elseve Óleo Extraordinário Cachos com 250ml" Preco=11.99 SKU=20331
+Nome="Máscara Descartável Multilaser 3 Camadas HC400 Azul 50 Unidades" Preco=25.99 SKU=323767
+Nome="Bissulfato de Clopidogrel 75mg 28 comprimidos Novartis Genérico" Preco=32.37 SKU=52284
+Nome="Joelheira com Reforço Needs Tamanho M com 1 unidade" Preco=31.45 SKU=8617
+Nome="Creme Fixador de Dentadura Ultra Corega Sem Sabor com 19g" Preco=21.49 SKU=35162
+Nome="Unhas Postiças para os Pés Belliz Francesinha 24 Unidades" Preco=34.09 SKU=303430
+Nome="Disney Paw Patrol Kit - Eau de Toilette 30ml + Lancheira Infantil" Preco=192.89 SKU=181770
+Nome="Carbocisteína 50mg/ml Xarope 100ml Prati Donaduzzi Genérico" Preco=15.85 SKU=110515
+Nome="Fórmula Infantil Pré-NAN Transition com 400g" Preco=152.99 SKU=83999
+Nome="Mini Gel de Barbear Gillette Mach3 Extra Comfort com 71g" Preco=10.99 SKU=40034
+Nome="Acetilcisteína 100mg/ml 5 ampolas União Química Genérico" Preco=13.49 SKU=23576
+Nome="Lixa de Unha Ricca Colors com 1 Unidade" Preco=3.09 SKU=304043
+Nome="Oceane Dual Step Máscara Facial Aloe Vera 2 Etapas" Preco=14.02 SKU=138906
+Nome="Protetor de Mamilos em Silicone (2 uni) Medela" Preco=63.9 SKU=401757
+Nome="Sinvastacor Sinvastatina 10mg 30 comprimidos" Preco=7.46 SKU=97610
+Nome="Suplemento Alimentar Myralis FertiSop para Gestantes 30 sachês" Preco=158.99 SKU=33072
+Nome="Kit Hidratante Corporal Nivea Q10 com 2 Unidades de 400ml cada" Preco=49.59 SKU=147358
+Nome="Suplemento Alimentar Ofolato para Gestantes 90 comprimidos" Preco=158.99 SKU=33711
+Nome="Barra de Cereal Bio2 Vegan Crunchy Sabor Caramelo e Cacau com 28g" Preco=7.81 SKU=76597
+Nome="Kit Escova de Dente Colgate Slim Soft Black com 4 unidades" Preco=37.9 SKU=117986
+Nome="Vitamina D 2.000UI Addera D3 30 cápsulas" Preco=55.39 SKU=47272
+Nome="Máscara de Proteção Ninja Infantil Needs com 2 unidades" Preco=4.8 SKU=80291
+Nome="Creme Multifuncional para Cabelo Yamasterol Barbosa e D-Pantenol com 200g" Preco=4.63 SKU=110366
+Nome="Mamadeira Anti-Colic Avent Philips Girafa com Sistema Anticólicas com 1 unidade" Preco=49.39 SKU=62922
+Nome="Kit Manicure Sortido" Preco=28.42 SKU=258404
+Nome="Absorvente Interno OB Sempre Livre  ProComfort Médio 16 unidades" Preco=12.69 SKU=44352
+Nome="Creme para Contorno dos Olhos Avène Physiolift com 15ml" Preco=169.99 SKU=6611
+Nome="Creatina ATP Monohidratada - 180cps - sem sabor" Preco=95 SKU=413695
+Nome="Sabonete em Barra Johnson's Baby Glicerinado com 80g" Preco=3.79 SKU=40402
+Nome="Sérum Corretor de Estrias Recentes Mustela Maternité com 45ml" Preco=88.99 SKU=77955
+Nome="Protetor de Calcanhar Needs Tamanho Único com 1 Par" Preco=19.29 SKU=6324
+Nome="PROTETOR DE SEIOS MAM NIPPLE SHIELDS - TAM 01 - REGULAR - 6020 - AM40120" Preco=76.75 SKU=418247
+Nome="VITAMINA E 400MG 400UI AIRELA C/30 CAP:1099219" Preco=14.68 SKU=307533
+Nome="Kit Shampoo + Condicionador Phytoervas Controle de Oleosidade com 250ml cada" Preco=33.99 SKU=77119
+Nome="Levotiroxina Sódica 150mcg 30 comprimidos Merck Genérico" Preco=8.38 SKU=38599
+Nome="Suplemento Alimentar em Pó Nutren Protein Baunilha com 800g" Preco=136.99 SKU=251953
